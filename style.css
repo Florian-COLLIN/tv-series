@@ -73,12 +73,7 @@ section main.articles article div.news-content::after {
 	content: "...";
 }
 section.series-details {
-	width: 50%;
-	float: left;
-}
-section.series-synopsis {
-	width: 50%;
-	float: right;
+	width: 100%;
 }
 section.series-episodes {
 	width: 100%;
