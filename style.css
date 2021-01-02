@@ -183,7 +183,6 @@ th, td {
     border-radius: 3px;
     box-shadow: rgba(255, 255, 255, 0.4) 0 1px, inset 0 20px 20px -10px white;
 }
-
 #isexpanded:checked ~ #expand-btn, #isexpanded:checked ~ * #expand-btn {
     background: #B5B5B5;
     box-shadow: inset rgba(0, 0, 0, 0.4) 0 -5px 12px, inset rgba(0, 0, 0, 1) 0 1px 3px, rgba(255, 255, 255, 0.4) 0 1px;
@@ -269,4 +268,95 @@ main section div.titre {
     .accueil_2017_cadre:nth-child(3) {
         flex-grow: 3;
     }
+}
+/***********************************************************************************************************************
+
+
+***********************************************************************************************************************/
+/* Suite des codes si-dessus */
+/* Fin */
+#isexpanded-1:checked ~ #expand-btn, #isexpanded-1:checked ~ * #expand-btn {
+    background: #B5B5B5;
+    box-shadow: inset rgba(0, 0, 0, 0.4) 0 -5px 12px, inset rgba(0, 0, 0, 1) 0 1px 3px, rgba(255, 255, 255, 0.4) 0 1px;
+}
+#isexpanded-1, .expandable-1 {
+    display: none;
+}
+#isexpanded-1:checked ~ * tr.expandable-1 {
+    display: table-row;
+    background: #cccccc;
+}
+#isexpanded-1:checked ~ p.expandable-1, 
+#isexpanded-1:checked ~ * p.expandable-1,
+#isexpanded-1:checked ~ ul.expandable-1, 
+#isexpanded-1:checked ~ * ul.expandable-1 {
+    display: block;
+}
+#isexpanded-2:checked ~ #expand-btn, #isexpanded-2:checked ~ * #expand-btn {
+    background: #B5B5B5;
+    box-shadow: inset rgba(0, 0, 0, 0.4) 0 -5px 12px, inset rgba(0, 0, 0, 1) 0 1px 3px, rgba(255, 255, 255, 0.4) 0 1px;
+}
+#isexpanded-2, .expandable-2 {
+    display: none;
+}
+#isexpanded-2:checked ~ * tr.expandable-1 {
+    display: table-row;
+    background: #cccccc;
+}
+#isexpanded-2:checked ~ p.expandable-1, 
+#isexpanded-2:checked ~ * p.expandable-1,
+#isexpanded-2:checked ~ ul.expandable-1, 
+#isexpanded-2:checked ~ * ul.expandable-1 {
+    display: block;
+}
+#isexpanded-3:checked ~ #expand-btn, #isexpanded-3:checked ~ * #expand-btn {
+    background: #B5B5B5;
+    box-shadow: inset rgba(0, 0, 0, 0.4) 0 -5px 12px, inset rgba(0, 0, 0, 1) 0 1px 3px, rgba(255, 255, 255, 0.4) 0 1px;
+}
+#isexpanded-3, .expandable-3 {
+    display: none;
+}
+#isexpanded-3:checked ~ * tr.expandable-3 {
+    display: table-row;
+    background: #cccccc;
+}
+#isexpanded-3:checked ~ p.expandable-3, 
+#isexpanded-3:checked ~ * p.expandable-3,
+#isexpanded-3:checked ~ ul.expandable-3, 
+#isexpanded-3:checked ~ * ul.expandable-3 {
+    display: block;
+}
+#isexpanded-4:checked ~ #expand-btn, #isexpanded-4:checked ~ * #expand-btn {
+    background: #B5B5B5;
+    box-shadow: inset rgba(0, 0, 0, 0.4) 0 -5px 12px, inset rgba(0, 0, 0, 1) 0 1px 3px, rgba(255, 255, 255, 0.4) 0 1px;
+}
+#isexpanded-4, .expandable-4 {
+    display: none;
+}
+#isexpanded-4:checked ~ * tr.expandable-4 {
+    display: table-row;
+    background: #cccccc;
+}
+#isexpanded-4:checked ~ p.expandable-4, 
+#isexpanded-4:checked ~ * p.expandable-4,
+#isexpanded-4:checked ~ ul.expandable-4, 
+#isexpanded-4:checked ~ * ul.expandable-4 {
+    display: block;
+}
+#isexpanded-5:checked ~ #expand-btn, #isexpanded-5:checked ~ * #expand-btn {
+    background: #B5B5B5;
+    box-shadow: inset rgba(0, 0, 0, 0.4) 0 -5px 12px, inset rgba(0, 0, 0, 1) 0 1px 3px, rgba(255, 255, 255, 0.4) 0 1px;
+}
+#isexpanded-5, .expandable-5 {
+    display: none;
+}
+#isexpanded-5:checked ~ * tr.expandable-5 {
+    display: table-row;
+    background: #cccccc;
+}
+#isexpanded-5:checked ~ p.expandable-5, 
+#isexpanded-5:checked ~ * p.expandable-5,
+#isexpanded-5:checked ~ ul.expandable-5, 
+#isexpanded-5:checked ~ * ul.expandable-5 {
+    display: block;
 }
