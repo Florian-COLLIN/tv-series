@@ -40,6 +40,9 @@ section main.articles article div.news-title {
 section main.articles article div.news-content {
 	font-size: smaller;
 }
-section main.articles article div.news-content:after {
+section main.articles article div.news-content::after {
 	content: "...";
+}
+table.planning {
+	overflow: auto
 }
