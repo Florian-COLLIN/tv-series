@@ -201,5 +201,9 @@ th, td {
     display: block;
 }
 label#expand-btn {
-	width: 100%;
+	width: 90%;
+}
+header h1.sites {
+	font-size: 140%;
+	color: lightgreen;
 }
