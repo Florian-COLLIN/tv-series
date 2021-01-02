@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="fr">
+	<head>
+		<meta charset="utf-8">
+		<title>Séries télévisées en France</title>
+		<link rel="stylesheet" href="/tv-series/style.css">
+	</head>
+	<body>
+		<!-- Partie supérieur -->
+		<header>
+			<h1 class="sites"><a href="/tv-series/">Séries télévisées en France</a></h1>
+			<!-- Navigation -->
+			<nav>
+				<ul>
+					<li class="deroulant"><a href="/tv-series/series/">Séries tendances</a>
+						<ul class="sous">
+							<li><a href="/tv-series/series/ici-tout-commence.html">Ici tout commence</a></li>
+						</ul>
+					</li>
+					<li class="deroulant"><a href="/tv-series/news/">Actualités</a>
+						<ul class="sous">
+							<li><a href="#">#</a></li>
+						</ul>
+					</li>
+					<li><a href="/tv-series/contact.html">Contact</a></li>
+				</ul>
+			</nav>
+		</header>
+		<div class="conteneur">
+		<br>
+		<!-- Contenu -->
+		<main>
+			<form id="contact" method="post" action="/tv-series/codes/traitement_formulaire.php">
+				<fieldset><legend>Vos coordonnées</legend>
+					<p><label for="nom">Nom :</label><input type="text" id="nom" name="nom" /></p>
+					<p><label for="email">Email :</label><input type="text" id="email" name="email" /></p>
+				</fieldset>
+ 
+				<fieldset><legend>Votre message :</legend>
+					<p><label for="objet">Objet :</label><input type="text" id="objet" name="objet" /></p>
+					<p><label for="message">Message :</label><textarea id="message" name="message" cols="30" rows="8"></textarea></p>
+				</fieldset>
+ 
+				<div style="text-align:center;"><input type="submit" name="envoi" value="Envoyer le formulaire !" /></div>
+			</form>
+		</main>
+		<br>
+		<!-- Bas -->
+		<footer>
+		</footer>
+		</div>
+	</body>
+</html>
