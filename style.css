@@ -243,3 +243,9 @@ main section.main-article {
     padding: 1.2rem;
     margin-bottom: 1.6rem;
 }
+main section div.titre {
+    font-variant: small-caps;
+    letter-spacing: 0.01em;
+    border-bottom: solid 0.2rem #bdd8fb;
+    margin: -0.4rem 0 0.5rem;
+}
