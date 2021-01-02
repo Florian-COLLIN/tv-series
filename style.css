@@ -74,6 +74,7 @@ section main.articles article div.news-content::after {
 }
 section.series-details {
 	width: 50%;
+	float: left;
 }
 section.series-synopsis {
 	width: 50%;
@@ -81,6 +82,9 @@ section.series-synopsis {
 }
 section.series-episodes {
 	width: 100%;
+}
+table.series-details {
+	border: none;
 }
 table.planning {
 	overflow: auto
@@ -184,17 +188,14 @@ th, td {
     background: #B5B5B5;
     box-shadow: inset rgba(0, 0, 0, 0.4) 0 -5px 12px, inset rgba(0, 0, 0, 1) 0 1px 3px, rgba(255, 255, 255, 0.4) 0 1px;
 }
-
 #isexpanded, .expandable {
     display: none;
 }
-
 #isexpanded:checked ~ * tr.expandable {
     display: table-row;
     background: #cccccc;
 
 }
-
 #isexpanded:checked ~ p.expandable, #isexpanded:checked ~ * p.expandable {
     display: block;
     background: #cccccc;
