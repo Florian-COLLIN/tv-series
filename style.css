@@ -85,6 +85,7 @@ section.series-episodes {
 }
 table.series-details {
 	border: none;
+	width: 100%;
 }
 table.planning {
 	overflow: auto
@@ -194,9 +195,11 @@ th, td {
 #isexpanded:checked ~ * tr.expandable {
     display: table-row;
     background: #cccccc;
-
 }
-#isexpanded:checked ~ p.expandable, #isexpanded:checked ~ * p.expandable {
+#isexpanded:checked ~ p.expandable, 
+#isexpanded:checked ~ * p.expandable,
+#isexpanded:checked ~ ul.expandable, 
+#isexpanded:checked ~ * ul.expandable {
     display: block;
     background: #cccccc;
 }
