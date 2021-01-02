@@ -85,8 +85,8 @@ table.series-details {
 table.series-details tr td {
 	width: 50%;
 }
-table.planning {
-	overflow: auto
+div.planning {
+	overflow: auto;
 }
 /*
  * Onglets
