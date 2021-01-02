@@ -82,6 +82,9 @@ table.series-details {
 	border: none;
 	width: 100%;
 }
+table.series-details tr td {
+	width: 50%;
+}
 table.planning {
 	overflow: auto
 }
@@ -196,5 +199,4 @@ th, td {
 #isexpanded:checked ~ ul.expandable, 
 #isexpanded:checked ~ * ul.expandable {
     display: block;
-    background: #cccccc;
 }
