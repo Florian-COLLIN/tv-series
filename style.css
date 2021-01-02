@@ -200,3 +200,6 @@ th, td {
 #isexpanded:checked ~ * ul.expandable {
     display: block;
 }
+label[for$="isexpanded"] #expand-btn {
+	width: 100%;
+}
