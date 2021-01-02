@@ -26,7 +26,15 @@
 					<li><a href="/tv-series/contact.html">Contact</a></li>
 				</ul>
 			</nav>
-			<input type="text" name="rec" placeholder="Rechercher..."><input type="button" value="Rechercher..." OnClick="rech(form1)">
+			<form method="get" action="http://www.google.com/custom" class="google_form">
+		        <div align="center">
+		          <input class="google_box" type="text" name="q" maxlength="20" value="">
+		          <input type="submit" value="Cherche">
+		          <input type="hidden" name="domains" value="https://florian-collin.github.io/tv-series/">
+		          <input type="hidden" name="sitesearch" value="https://florian-collin.github.io/tv-series/" checked >
+		          <input type="hidden" name="meta" value="lr=lang_fr">
+	            </div>
+          	</form>
 		</header>
 		<div class="conteneur">
 		<br>
