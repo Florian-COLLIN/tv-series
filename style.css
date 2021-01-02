@@ -47,6 +47,9 @@ footer div.droite {
 footer ul li {
 	list-style-type: none;
 }
+/*
+ * Section
+ */
 section main.sorties {
 	width: 100%;
 	border-color: yellow;
@@ -68,6 +71,16 @@ section main.articles article div.news-content {
 }
 section main.articles article div.news-content::after {
 	content: "...";
+}
+section.series-details {
+	width: 50%;
+}
+section.series-synopsis {
+	width: 50%;
+	float: right;
+}
+section.series-episodes {
+	width: 100%;
 }
 table.planning {
 	overflow: auto
@@ -150,4 +163,39 @@ th, td {
   	border: 1px solid black;
   	padding: 10px;
   	vertical-align: top;
+}
+/*
+ * épisodes
+ */
+#expand-btn {
+    margin: 0 3px;
+    display: inline-block;
+    font: 12px / 13px "Lucida Grande", sans-serif;
+    text-shadow: rgba(255, 255, 255, 0.4) 0 1px;
+    padding: 3px 6px;
+    border: 1px solid rgba(0, 0, 0, 0.6);
+    background-color: #969696;
+    cursor: default;
+    border-radius: 3px;
+    box-shadow: rgba(255, 255, 255, 0.4) 0 1px, inset 0 20px 20px -10px white;
+}
+
+#isexpanded:checked ~ #expand-btn, #isexpanded:checked ~ * #expand-btn {
+    background: #B5B5B5;
+    box-shadow: inset rgba(0, 0, 0, 0.4) 0 -5px 12px, inset rgba(0, 0, 0, 1) 0 1px 3px, rgba(255, 255, 255, 0.4) 0 1px;
+}
+
+#isexpanded, .expandable {
+    display: none;
+}
+
+#isexpanded:checked ~ * tr.expandable {
+    display: table-row;
+    background: #cccccc;
+
+}
+
+#isexpanded:checked ~ p.expandable, #isexpanded:checked ~ * p.expandable {
+    display: block;
+    background: #cccccc;
 }
