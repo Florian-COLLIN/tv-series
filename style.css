@@ -6,6 +6,13 @@ header {
 }
 main {
 	width: 80%;
+	margin: 0 auto;
+	background-color: white;
+	text-align: justify;
+	align-content: center;
+	border: 1px solid #66A7CC;
+	border-radius: 40px 40px / 25px 25px;
+	padding: 10px;
 }
 footer {
 	width: 100%;
