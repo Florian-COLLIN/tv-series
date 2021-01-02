@@ -1,8 +1,8 @@
 <?php
-$email_expediteur = 'florian-collin83@gmail.com';
+$email_expediteur = 'florian.collin83@gmail.com';
 $nom_expediteur = 'Contact tv-series.com';
  
-$destinataire = 'florian-collin36@gmail.com';
+$destinataire = 'florian.collin36@gmail.com';
 
 $copie = 'oui';
  
