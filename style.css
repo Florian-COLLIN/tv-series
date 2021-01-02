@@ -275,7 +275,19 @@ main section div.titre {
 ***********************************************************************************************************************/
 /* Suite des codes si-dessus */
 /* Fin */
-#isexpanded-1:checked ~ #expand-btn, #isexpanded-1:checked ~ * #expand-btn {
+#expand-btn-1 {
+    margin: 0 3px;
+    display: inline-block;
+    font: 12px / 13px "Lucida Grande", sans-serif;
+    text-shadow: rgba(255, 255, 255, 0.4) 0 1px;
+    padding: 3px 6px;
+    border: 1px solid rgba(0, 0, 0, 0.6);
+    background-color: #969696;
+    cursor: default;
+    border-radius: 3px;
+    box-shadow: rgba(255, 255, 255, 0.4) 0 1px, inset 0 20px 20px -10px white;
+}
+#isexpanded-1:checked ~ #expand-btn-1, #isexpanded-1:checked ~ * #expand-btn-1 {
     background: #B5B5B5;
     box-shadow: inset rgba(0, 0, 0, 0.4) 0 -5px 12px, inset rgba(0, 0, 0, 1) 0 1px 3px, rgba(255, 255, 255, 0.4) 0 1px;
 }
@@ -292,24 +304,48 @@ main section div.titre {
 #isexpanded-1:checked ~ * ul.expandable-1 {
     display: block;
 }
-#isexpanded-2:checked ~ #expand-btn, #isexpanded-2:checked ~ * #expand-btn {
+#expand-btn-2 {
+    margin: 0 3px;
+    display: inline-block;
+    font: 12px / 13px "Lucida Grande", sans-serif;
+    text-shadow: rgba(255, 255, 255, 0.4) 0 1px;
+    padding: 3px 6px;
+    border: 1px solid rgba(0, 0, 0, 0.6);
+    background-color: #969696;
+    cursor: default;
+    border-radius: 3px;
+    box-shadow: rgba(255, 255, 255, 0.4) 0 1px, inset 0 20px 20px -10px white;
+}
+#isexpanded-2:checked ~ #expand-btn-2, #isexpanded-2:checked ~ * #expand-btn-2 {
     background: #B5B5B5;
     box-shadow: inset rgba(0, 0, 0, 0.4) 0 -5px 12px, inset rgba(0, 0, 0, 1) 0 1px 3px, rgba(255, 255, 255, 0.4) 0 1px;
 }
 #isexpanded-2, .expandable-2 {
     display: none;
 }
-#isexpanded-2:checked ~ * tr.expandable-1 {
+#isexpanded-2:checked ~ * tr.expandable-2 {
     display: table-row;
     background: #cccccc;
 }
-#isexpanded-2:checked ~ p.expandable-1, 
-#isexpanded-2:checked ~ * p.expandable-1,
-#isexpanded-2:checked ~ ul.expandable-1, 
-#isexpanded-2:checked ~ * ul.expandable-1 {
+#isexpanded-2:checked ~ p.expandable-2, 
+#isexpanded-2:checked ~ * p.expandable-2,
+#isexpanded-2:checked ~ ul.expandable-2, 
+#isexpanded-2:checked ~ * ul.expandable-2 {
     display: block;
 }
-#isexpanded-3:checked ~ #expand-btn, #isexpanded-3:checked ~ * #expand-btn {
+#expand-btn-3 {
+    margin: 0 3px;
+    display: inline-block;
+    font: 12px / 13px "Lucida Grande", sans-serif;
+    text-shadow: rgba(255, 255, 255, 0.4) 0 1px;
+    padding: 3px 6px;
+    border: 1px solid rgba(0, 0, 0, 0.6);
+    background-color: #969696;
+    cursor: default;
+    border-radius: 3px;
+    box-shadow: rgba(255, 255, 255, 0.4) 0 1px, inset 0 20px 20px -10px white;
+}
+#isexpanded-3:checked ~ #expand-btn-3, #isexpanded-3:checked ~ * #expand-btn-3 {
     background: #B5B5B5;
     box-shadow: inset rgba(0, 0, 0, 0.4) 0 -5px 12px, inset rgba(0, 0, 0, 1) 0 1px 3px, rgba(255, 255, 255, 0.4) 0 1px;
 }
@@ -326,7 +362,19 @@ main section div.titre {
 #isexpanded-3:checked ~ * ul.expandable-3 {
     display: block;
 }
-#isexpanded-4:checked ~ #expand-btn, #isexpanded-4:checked ~ * #expand-btn {
+#expand-btn-4 {
+    margin: 0 3px;
+    display: inline-block;
+    font: 12px / 13px "Lucida Grande", sans-serif;
+    text-shadow: rgba(255, 255, 255, 0.4) 0 1px;
+    padding: 3px 6px;
+    border: 1px solid rgba(0, 0, 0, 0.6);
+    background-color: #969696;
+    cursor: default;
+    border-radius: 3px;
+    box-shadow: rgba(255, 255, 255, 0.4) 0 1px, inset 0 20px 20px -10px white;
+}
+#isexpanded-4:checked ~ #expand-btn-4, #isexpanded-4:checked ~ * #expand-btn-4 {
     background: #B5B5B5;
     box-shadow: inset rgba(0, 0, 0, 0.4) 0 -5px 12px, inset rgba(0, 0, 0, 1) 0 1px 3px, rgba(255, 255, 255, 0.4) 0 1px;
 }
@@ -343,7 +391,19 @@ main section div.titre {
 #isexpanded-4:checked ~ * ul.expandable-4 {
     display: block;
 }
-#isexpanded-5:checked ~ #expand-btn, #isexpanded-5:checked ~ * #expand-btn {
+#expand-btn-5 {
+    margin: 0 3px;
+    display: inline-block;
+    font: 12px / 13px "Lucida Grande", sans-serif;
+    text-shadow: rgba(255, 255, 255, 0.4) 0 1px;
+    padding: 3px 6px;
+    border: 1px solid rgba(0, 0, 0, 0.6);
+    background-color: #969696;
+    cursor: default;
+    border-radius: 3px;
+    box-shadow: rgba(255, 255, 255, 0.4) 0 1px, inset 0 20px 20px -10px white;
+}
+#isexpanded-5:checked ~ #expand-btn-5, #isexpanded-5:checked ~ * #expand-btn-5 {
     background: #B5B5B5;
     box-shadow: inset rgba(0, 0, 0, 0.4) 0 -5px 12px, inset rgba(0, 0, 0, 1) 0 1px 3px, rgba(255, 255, 255, 0.4) 0 1px;
 }
