@@ -217,9 +217,11 @@ header h1.sites {
 .portail-gauche {
     float: left;
     padding-right: 1.2rem;
+    width: 50%;
 }
 .portail-droite {
     float: right;
+    width: 50%;
 }
 @media (max-width: 981px) {
     .portail-gauche,
@@ -248,4 +250,23 @@ main section div.titre {
     letter-spacing: 0.01em;
     border-bottom: solid 0.2rem #bdd8fb;
     margin: -0.4rem 0 0.5rem;
+}
+@media (min-width: 982px) {
+    #accueil {
+        display: flex;
+    }
+    #accueil .portail-gauche,
+    #accueil .portail-droite {
+        display: flex;
+        flex-direction: column;
+    }
+    .accueil_2017_cadre:nth-child(1) {
+        flex-grow: 1;
+    }
+    .accueil_2017_cadre:nth-child(2) {
+        flex-grow: 2;
+    }
+    .accueil_2017_cadre:nth-child(3) {
+        flex-grow: 3;
+    }
 }
