@@ -87,6 +87,7 @@ table.series-details tr td {
 }
 div.planning {
 	overflow: auto;
+	height: auto;
 }
 /*
  * Onglets
