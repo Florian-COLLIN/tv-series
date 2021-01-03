@@ -12,16 +12,16 @@ formElt.addEventListener("submit", function (e) {
         // Transformation de la réponse en un objet JSON
         var profil = JSON.parse(reponse);
         // Création des informations sur le profil
-        var nom = document.createElement("div");
+        var nomElt = document.createElement("div");
         nom.textContent = profil.titre;
-        var saisons = document.createElement("div");
+        var saisonsElt = document.createElement("div");
         saisons.textContent = profil.saisons;
-        var episodes = document.createElement("div");
+        var episodesElt = document.createElement("div");
         episodes.textContent = profil.episodes;
         // Affichage des informations
         infosElt.innerHTML = ""; // Suppression des infos précédentes
-        infosElt.appendChild(nom);
-        infosElt.appendChild(saisons);
-        infosElt.appendChild(episodes);
+        infosElt.appendChild(nomElt);
+        infosElt.appendChild(saisonsElt);
+        infosElt.appendChild(episodesElt);
     });
 });
