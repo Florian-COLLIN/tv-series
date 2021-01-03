@@ -18,5 +18,10 @@ formElt.addEventListener("submit", function (e) {
         saisons.textContent = profil.saisons;
         var episodes = document.createElement("div");
         episodes.textContent = profil.episodes;
+        // Affichage des informations
+        infosElt.innerHTML = ""; // Suppression des infos précédentes
+        infosElt.appendChild(nom);
+        infosElt.appendChild(saisons);
+        infosElt.appendChild(episodes);
     });
 });
