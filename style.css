@@ -200,7 +200,12 @@ th, td {
 #isexpanded:checked ~ * ul.expandable {
     display: block;
 }
-label#expand-btn {
+label#expand-btn,
+label#expand-btn-1,
+label#expand-btn-2,
+label#expand-btn-3,
+label#expand-btn-4,
+label#expand-btn-5, {
 	width: 90%;
 }
 header h1.sites {

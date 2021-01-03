@@ -2,10 +2,11 @@
 <html lang="fr">
 	<head>
 		<meta charset="utf-8">
-		<title>Séries télévisées en France</title>
+		<title>Sam | Séries télévisées en France</title>
 		<link rel="stylesheet" href="/tv-series/style.css">
-		<meta name="keywords" content="Séries télévisées en France, Télévision France, Télévision française">
-		<meta name="title" content="Séries télévisées en France">
+		<meta name="keyword" content="Sam, série TF1, séries TF1">
+		<meta name="title" content="Sam | Séries télévisées en France">
+		<meta name="description" content="Titre original : En cours ; Statut : En cours...">
 	</head>
 	<body>
 		<!-- Partie supérieur -->
@@ -32,27 +33,16 @@
 		<br>
 		<!-- Contenu -->
 		<main>
-			<div id="accueil">
-				<div class="portail-gauche">
-					<section class="main-sorties">
-						<div class="titre"><a href="/tv-series/series/">Séries en cours de diffusion</a></div>
-						<ul>
-							<li><a href="/tv-series/planning/2021/">2021</a></li>
-							<ul>
-								<a href="/tv-series/planning/2021/01.html" title="Planning des sorties de janvier 2021">Janvier 2021</a>
-							</ul>
-						</ul>
-					</section>
-				</div>
-				<div class="portail-droite">
-					<section class="main-article">
-						<article>
-							<div class="news-title"></div>
-							<div class="news-content"></div>
-						</article>
-					</section>
-				</div>
-			</div>
+		    <form>
+        		<p>
+		            <input type="text" name="profil" id="profil" placeholder="Saisissez le nom de la série en minuscule et avec es tirets à la place des espaces" required>
+        		    <input type="submit" value="Rechercher">
+		        </p>
+		    </form>
+		    <div id="infos">
+		    </div>
+		    <script src="/tv-series/codes/ajax.js"></script>
+		    <script src="/tv-series/codes/use-api.js"></script>
 		</main>
 		<br>
 		<!-- Bas -->
