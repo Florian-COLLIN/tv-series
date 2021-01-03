@@ -237,13 +237,9 @@ header h1.sites {
         padding-right: 0;
     }
 }
-main section.main-sorties {
-    box-shadow: 0 0 0.3rem #999;
-    border-radius: 0.2rem;
-    padding: 1.2rem;
-    margin-bottom: 1.6rem;
-}
-main section.main-article {
+main section.main-sorties,
+main section.main-article,
+main section.cadre {
     box-shadow: 0 0 0.3rem #999;
     border-radius: 0.2rem;
     padding: 1.2rem;
