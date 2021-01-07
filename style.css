@@ -55,22 +55,19 @@ section main.sorties {
 	border-color: yellow;
 	border: 1px 1px 1px 1px;
 }
-section main.articles {
+section main.article {
 	width: 100%;
 	border-color: red;
 	border: 1px 1px 1px 1px;
 }
-section main.articles article {
+section main.article article {
 	width: 50%;
 }
-section main.articles article div.news-title {
+section main.article article div.news-title {
 	font-variant: small-caps;
 }
-section main.articles article div.news-content {
+section main.article article div.news-content {
 	font-size: smaller;
-}
-section main.articles article div.news-content::after {
-	content: "...";
 }
 section.series-details {
 	width: 100%;
@@ -423,4 +420,8 @@ main section div.titre {
 }
 .author {
     text-align: right;
+}
+section.main-article {
+    width: 100%;
+    background-color: gray;
 }
