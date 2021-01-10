@@ -265,14 +265,14 @@ h1 {
 }
 section.series-details {
     width: 100%;
-    border-bottom: 1px;
+    border-bottom: 1px solid;
     border-bottom-color: black;
 }
 section.series-episodes {
     width: 100%;
 }
 section.series-details div#accueil div.portail-gauche {
-    border-right: 1px;
+    border-right: 1px solid;
     border-right-color: red;
 }
 /***********************************************************************************************************************
