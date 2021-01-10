@@ -271,7 +271,7 @@ section.series-details {
 section.series-episodes {
     width: 100%;
 }
-section.series-details div#accueil div.portail-droite {
+section.series-details div#accueil div.portail-gauche {
     border-right: 1px;
     border-right-color: red;
 }
