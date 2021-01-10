@@ -9,7 +9,7 @@ body {
  * Header
  */
 header {
-	width: 80%;
+	width: 95%;
 	margin: 0 auto;
 	background-color: yellow;
 	text-align: justify;
@@ -22,7 +22,7 @@ header {
  * Main
  */
 main {
-	width: 80%;
+	width: 95%;
 	margin: 0 auto;
 	background-color: white;
 	text-align: justify;
@@ -37,6 +37,8 @@ main {
 footer {
 	width: 100%;
 	background-color: blue;
+    border-color: blue;
+    border: 1px solid;
 }
 footer div.gauche {
 	width: 50%;
