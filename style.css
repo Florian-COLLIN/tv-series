@@ -270,6 +270,9 @@ main section div.titre {
         flex-grow: 3;
     }
 }
+.author {
+    text-align: right;
+}
 /***********************************************************************************************************************
 
 
@@ -420,7 +423,4 @@ main section div.titre {
 #isexpanded-5:checked ~ ul.expandable-5, 
 #isexpanded-5:checked ~ * ul.expandable-5 {
     display: block;
-}
-.author {
-    text-align: right;
 }
