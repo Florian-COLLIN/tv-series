@@ -72,19 +72,6 @@ section main.article article div.news-title {
 section main.article article div.news-content {
 	font-size: smaller;
 }
-section.series-details {
-	width: 100%;
-}
-section.series-episodes {
-	width: 100%;
-}
-table.series-details {
-	border: none;
-	width: 100%;
-}
-table.series-details tr td {
-	width: 50%;
-}
 div.planning {
 	overflow: auto;
 	height: auto;
@@ -275,6 +262,18 @@ main section div.titre {
 }
 h1 {
     font-variant: small-caps;
+}
+section.series-details {
+    width: 100%;
+    border-bottom: 1px;
+    border-bottom-color: black;
+}
+section.series-episodes {
+    width: 100%;
+}
+section.series-details div#accueil div.portail-droite {
+    border-right: 1px;
+    border-right-color: red;
 }
 /***********************************************************************************************************************
 
