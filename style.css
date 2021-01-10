@@ -275,6 +275,9 @@ section.series-details div#accueil div.portail-gauche {
     border-right: 1px solid;
     border-right-color: red;
 }
+abbr {
+    cursor: help;
+}
 /***********************************************************************************************************************
 
 
