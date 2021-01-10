@@ -278,6 +278,9 @@ section.series-details div#accueil div.portail-gauche {
 abbr {
     cursor: help;
 }
+div.copyrights {
+    background-color: #00008B;
+}
 /***********************************************************************************************************************
 
 
