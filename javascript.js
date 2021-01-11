@@ -9,3 +9,4 @@ var today = new Date();
 var annee = today.getFullYear();
 var sannee = document.getElementById('s_annee');
 sannee.innerHTML = annee;
+/*** Fin du code ***/
