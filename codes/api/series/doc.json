@@ -1,0 +1,14 @@
+{
+	"titre": "Doc",
+	"saisons": "1",
+	"episodes": "5",
+	"liste_êpisodes": {
+		"S1": {
+			"EP1": "Mémoire enfouie",
+			"EP2": "Selfie",
+			"EP3": "ien de personnel",
+			"EP4": "Ça fait du bien et ça fait mal",
+			"EP5": "L'erreur parfaite",
+		}
+	}
+}
