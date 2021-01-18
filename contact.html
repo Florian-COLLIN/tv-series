@@ -34,19 +34,47 @@
 		<br>
 		<!-- Contenu -->
 		<main>
-			<form id="contact" method="post" action="/tv-series/codes/traitement_formulaire.php">
-				<fieldset><legend>Vos coordonnées</legend>
-					<p><label for="nom">Nom :</label><input type="text" id="nom" name="nom" /></p>
-					<p><label for="email">Email :</label><input type="text" id="email" name="email" /></p>
-				</fieldset>
- 
-				<fieldset><legend>Votre message :</legend>
-					<p><label for="objet">Objet :</label><input type="text" id="objet" name="objet" /></p>
-					<p><label for="message">Message :</label><textarea id="message" name="message" cols="30" rows="8"></textarea></p>
-				</fieldset>
- 
-				<div style="text-align:center;"><input type="submit" name="envoi" value="Envoyer le formulaire !" /></div>
+			<?php
+			if(isset($_POST['email']) and isset($_POST['sujet']) and isset($_POST['message']))
+				{
+					Â  Â  Â  Â  $destinataire = 'votre_email@example.com';
+					Â  Â  Â  Â  $email = htmlentities($_POST['email']);
+					Â  Â  Â  Â  if(preg_match('#^(([a-z0-9!\#$%&\\\'*+/=?^_`{|}~-]+\.?)*[a-z0-9!\#$%&\\\'*+/=?^_`{|}~-]+)@(([a-z0-9-_]+\.?)*[a-z0-9-_]+)\.[a-z]{2,}$#i',str_replace('&amp;','&',$email)))
+					Â  Â  Â  Â {
+						Â  Â  Â  Â  Â  Â  Â  Â  $sujet = 'Contact: '.stripslashes($_POST['sujet']);
+						Â  Â  Â  Â  Â  Â  Â  Â  $message = stripslashes($_POST['message']);
+						Â  Â  Â  Â  Â  Â  Â  Â  $headers = "From: <".$email.">\n";
+						Â  Â  Â  Â  Â  Â  Â  Â  $headers .= "Reply-To: ".$email."\n";
+						Â  Â  Â  Â  Â  Â  Â  Â  $headers .= "Content-Type: text/plain; charset=\"iso-8859-1\"";
+						Â  Â  Â  Â  Â  Â  Â  Â  if(mail($destinataire,$sujet,$message,$headers))
+						Â  Â  Â  Â  Â  Â  Â  Â {
+							Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  echo "<strong>Votre message a bien &eacute;t&eacute; envoy&eacute;.</strong>";
+						}
+						Â  Â  Â  Â  Â  Â  Â  Â  else
+						Â  Â  Â  Â  Â  Â  Â  Â  {
+							Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  echo "<strong style=\"color:#ff0000;\">Une erreur c'est produite lors de l'envois du message.</strong>";
+						Â  Â  Â  Â  Â  Â  Â  Â }
+					Â  Â  Â  Â }
+					Â  Â  Â  Â else
+					Â  Â  Â  Â {
+						Â  Â  Â  Â  Â  Â  Â  Â  echo "<strong style=\"color:#ff0000;\">L'email que vous avez entr&eacute; est invalide.</strong>";
+					Â  Â  Â  Â }
+				}
+				else {
+			?>
+			<form action="" method="post">
+				Â  Â  Â  Â  <fieldset>
+					Â  Â  Â  Â  <legend>Formulaire de contact</legend>
+					Â  Â  Â  Â  <label for="email" style="display:inline-block;width:100px;"><strong>Votre Email:</strong></label> <input type="text" name="email" id="email" /><br />
+					Â  Â  Â  Â  <label for="sujet" style="display:inline-block;width:100px;"><strong>Sujet:</strong></label> <input type="text" name="sujet" id="sujet" /><br />
+					Â  Â  Â  Â  <label for="message"><strong>Message:</strong></label><br />
+					Â  Â  Â  Â  <textarea cols="70" rows="4" name="message" id="message"></textarea><br />
+					Â  Â  Â  Â  <input type="submit" value="Envoyer" />
+				Â  Â  </fieldset>
 			</form>
+			<?php 
+				}
+			?>
 		</main>
 		<br>
 		<!-- Bas -->
