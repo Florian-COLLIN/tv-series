@@ -37,7 +37,7 @@
 			<?php
 			if(isset($_POST['email']) and isset($_POST['sujet']) and isset($_POST['message']))
 				{
-					Â  Â  Â  Â  $destinataire = 'votre_email@example.com';
+					Â  Â  Â  Â  $destinataire = 'florian.collin36@gmail.com';
 					Â  Â  Â  Â  $email = htmlentities($_POST['email']);
 					Â  Â  Â  Â  if(preg_match('#^(([a-z0-9!\#$%&\\\'*+/=?^_`{|}~-]+\.?)*[a-z0-9!\#$%&\\\'*+/=?^_`{|}~-]+)@(([a-z0-9-_]+\.?)*[a-z0-9-_]+)\.[a-z]{2,}$#i',str_replace('&amp;','&',$email)))
 					Â  Â  Â  Â {
