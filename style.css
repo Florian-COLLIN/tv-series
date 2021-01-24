@@ -275,13 +275,16 @@ section.series-details div#accueil div.portail-gauche {
     border-right: 1px solid;
     border-right-color: red;
 }
+/* Abréviations */
 abbr {
     cursor: help;
 }
+/* Pour le copyright */
 div.copyrights {
     background-color: #00008B;
     text-align: center;
 }
+/* 
 /***********************************************************************************************************************
 
 
