@@ -279,12 +279,14 @@ section.series-details div#accueil div.portail-gauche {
 abbr {
     cursor: help;
 }
-/* Pour le copyright */
+/* Pour le copyright en bas de page */
 div.copyrights {
-    background-color: #00008B;
+    background-color: #002a32;
     text-align: center;
 }
-/* 
+div.copyrights p {
+    text-align: center;
+}
 /***********************************************************************************************************************
 
 
