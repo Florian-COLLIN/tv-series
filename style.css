@@ -267,9 +267,13 @@ section.series-details {
     width: 100%;
     border-bottom: 1px solid;
     border-bottom-color: black;
+    padding: 40px;
+    margin: auto;
 }
 section.series-episodes {
     width: 100%;
+    padding: 40px;
+    margin: auto;
 }
 section.series-details div#accueil div.portail-gauche {
     border-right: 1px solid;
@@ -286,6 +290,14 @@ div.copyrights {
 }
 div.copyrights p {
     text-align: center;
+}
+/* Sujet de l'actualité */
+div.news-subject {
+    width: 80%;
+}
+div.news-subject p {
+    font-size: 120%;
+    font-color: black;
 }
 /***********************************************************************************************************************
 
