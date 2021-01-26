@@ -1,0 +1,21 @@
+{
+	"titre": "Je te promets",
+	"saisons": "1",
+	"episodes": "12",
+	"liste_êpisodes": {
+		"S1": {
+			"EP1": "Le Grand Soir",
+			"EP2": "Échappatoires",
+			"EP3": "Secret inavouable",
+			"EP4": "La Ligue des champions",
+			"EP5": "Rivalités fraternelles",
+			"EP6": "Cadeau empoisonné !",
+			"EP7": "Mauvaise mère !",
+			"EP8": "Le jour où c’est arrivé !",
+			"EP9": "La Bonne Décision",
+			"EP10": "Les Preuves d’amour",
+			"EP11": "Aux origines",
+			"EP12": "La Révélation",
+		}
+	}
+}
