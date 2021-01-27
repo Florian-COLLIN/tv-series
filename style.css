@@ -279,11 +279,6 @@ section.series-details div#accueil div.portail-gauche {
     border-right: 1px solid;
     border-right-color: red;
 }
-section.series-details .portail-gauche,
-section.series-details .portail-droite {
-    padding: 40%;
-    margin: auto;
-}
 /* Abréviations */
 abbr {
     cursor: help;
