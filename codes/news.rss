@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<rss version = "2.0">
+	<canal>
+		<title>Articles de Séries télévisées en France</title>
+		<description> Articles d'un utilisateur de wikiHow. </description>
+		<link>https://florian-collin.github.io/tv-series/news/</link>
+		<item>
+			<title><i>Sam</i> renouvelé pour une saison 6</title>
+			<description>Il a été annoncé que la série Sam sera renouvelée pour une sixième saison.</description>
+			<link>https://florian-collin.github.io/tv-series/news/2021/01/sam-renouvele-pour-une-saison-6.html</link>
+		</item>
+	</channel>
+</rss>
