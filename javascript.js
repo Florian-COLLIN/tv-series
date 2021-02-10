@@ -4,9 +4,19 @@
  * 
  * @next-revision : 2021
  */
-/* Affichage de la date en temps réel */
+/*
+
+== Code source ==
+
+=== Affichage de la date en temps réel ===
+
+<pre> */
 function affiche_annee() {
 	var anneeEnCours = new Date();
 	window.document.write(anneeEnCours.getFullYear());
 }
-/*** Fin du code ***/
+/* </pre>
+
+== Fin du code ==
+
+*/
