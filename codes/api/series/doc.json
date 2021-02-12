@@ -2,7 +2,7 @@
 	"titre": "Doc",
 	"saisons": "1",
 	"episodes": "5",
-	"liste_êpisodes": {
+	"liste_episodes": {
 		"S1": {
 			"EP1": "Mémoire enfouie",
 			"EP2": "Selfie",
