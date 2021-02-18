@@ -329,7 +329,16 @@ div.news-subject p {
     padding: 5px;
     display: none;
 }
-/* */
+ul {
+    margin-top:0px;
+    margin-bottom:0px;
+    margin-left:-10px
+}
+h1 {
+    margin:0px;
+    padding:0px;
+}
+/* AlloCiné */
 .section-wrap {
     padding-left: .625rem;
     padding-right:.625rem
