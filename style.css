@@ -338,6 +338,23 @@ h1 {
     margin:0px;
     padding:0px;
 }
+.small {
+    font-size: smaller;
+}
+main.category article {
+    position: relative;
+    height: 400px;
+    width: 600px;
+}
+main.category article p {
+    color: grey;
+    text-align: left;
+    position: absolute;
+}
+main.category article h1 {
+    font-size: 175%;
+    position: absolute;
+}
 /***********************************************************************************************************************
 
 
