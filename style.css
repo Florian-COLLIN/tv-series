@@ -344,16 +344,19 @@ h1 {
 main.category article {
     height: 400px;
     width: 600px;
+    position: relative;
 }
 main.category article p {
     color: grey;
     text-align: left;
     position: absolute;
+    bottom: 0;
 }
 main.category article h1 {
     font-size: 175%;
     position: absolute;
     color: white;
+    bottom: 0;
 }
 /***********************************************************************************************************************
 
