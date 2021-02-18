@@ -354,6 +354,7 @@ main.category article p {
 main.category article h1 {
     font-size: 175%;
     position: absolute;
+    color: white;
 }
 /***********************************************************************************************************************
 
