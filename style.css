@@ -350,7 +350,7 @@ main.category article p {
     color: grey;
     text-align: left;
     position: absolute;
-    bottom: 0;
+    bottom: 2;
 }
 main.category article h1 {
     font-size: 175%;
