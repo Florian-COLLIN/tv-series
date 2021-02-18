@@ -79,35 +79,35 @@ div.planning {
 /*
  * Onglets
  */
-nav {
+nav.nav-sup {
     width: 100%;
     margin: 0 auto;
     background-color: #B2FFFF;
     position: sticky;
     top: 0px;
 }
-nav ul {
+nav.nav-sup ul {
     list-style-type: none;
 }
-nav ul li {
+nav.nav-sup ul li {
     float: left;
     width: 25%;
     text-align: center;
     position: relative;
 }
-nav ul::after {
+nav.nav-sup ul::after {
     content: "";
     display: table;
     clear: both;
 }
-nav a {
+nav.nav-sup a {
     display: block;
     text-decoration: none;
     color: black;
     border-bottom: 2px solid transparent;
     padding: 10px 0px;
 }
-nav a:hover {
+nav.nav-sup a:hover {
     color: orange;
     border-bottom: 2px solid gold;
 }
@@ -119,7 +119,7 @@ nav a:hover {
     width: 100%;
     z-index: 1000;
 }
-nav > ul li:hover .sous {
+nav.nav-sup > ul li:hover .sous {
     display: block;
 }
 .sous li {
