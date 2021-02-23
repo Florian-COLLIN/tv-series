@@ -79,10 +79,14 @@ div.planning {
 /*
  * Onglets
  */
+*{
+    margin: 0px;
+    padding: 0px;
+}
 nav.nav-sup {
     width: 100%;
     margin: 0 auto;
-    background-color: #B2FFFF;
+    background-color: white;
     position: sticky;
     top: 0px;
 }
@@ -140,8 +144,8 @@ nav.nav-sup > ul li:hover .sous {
     font-size: 12px;
 }
 .conteneur {
-	margin: 50px 20px;
-	height: auto;
+  margin: 50px 20px;
+  height: 1500px;
 }
 /*
  * Tableau
