@@ -86,7 +86,7 @@ div.planning {
 nav.nav-sup {
     width: 100%;
     margin: 0 auto;
-    background-color: white;
+    background-color: #B2FFFF;
     position: sticky;
     top: 0px;
 }
@@ -145,7 +145,7 @@ nav.nav-sup > ul li:hover .sous {
 }
 .conteneur {
   margin: 50px 20px;
-  height: 1500px;
+  height: auto;
 }
 /*
  * Tableau
