@@ -312,7 +312,8 @@ h1 {
     margin:0px;
     padding:0px;
 }
-.small {
+.small,
+.petit {
     font-size: smaller;
 }
 main.category article {
