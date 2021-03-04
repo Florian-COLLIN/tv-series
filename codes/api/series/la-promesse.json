@@ -1,5 +1,10 @@
 {
 	"titre": "La Promesse",
 	"saisons": "1",
-	"episodes": "6"
+	"episodes": "6",
+	"liste_episodes": {
+		"S1": {
+			""
+		}
+	}
 }
