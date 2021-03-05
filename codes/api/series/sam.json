@@ -1,5 +1,51 @@
 {
 	"titre": "Sam",
 	"saisons": "5",
-	"episodes": "36"
+	"episodes": "36",
+	"liste_episodes": {
+		"S1": [
+			"La Gifle",
+			"La Confusion des sentiments",
+			"Sur un arbre perché",
+			"Conjugaison au plus que parfait"
+		],
+		"S2": [
+			"Les Mémoires",
+			"L’École des mères",
+			"Je serai, tu seras, elle sera",
+			"Les Confessions",
+			"Il n'y a pas d'amour heureux",
+			"Choix cornéliens"
+		],
+		"S3": [
+			"Allister",
+			"Mathis",
+			"Charlotte",
+			"Victor",
+			"Nadia",
+			"Adam",
+			"Capucine",
+			"Bettina"
+		],
+		"S4": [
+			"Simon",
+			"Arthur",
+			"Ava",
+			"Rayanne",
+			"Kenza et Lucie",
+			"Emma et Joris",
+			"Théo",
+			"Julien"
+		],
+		"S5": [
+			"Matthieu",
+			"Mathilde",
+			"Rosa",
+			"Jonas",
+			"Frida",
+			"Clément",
+			"Fernand",
+			"Paul et Matthieu"
+		]
+	}
 }
