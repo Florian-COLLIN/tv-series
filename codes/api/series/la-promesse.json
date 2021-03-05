@@ -3,8 +3,13 @@
 	"saisons": "1",
 	"episodes": "6",
 	"liste_episodes": {
-		"S1": {
-			""
-		}
+		"S1": [
+			"Épisode 1",
+			"Épisode 2",
+			"Épisode 3",
+			"Épisode 4",
+			"Épisode 5",
+			"Épisode 6"
+		]
 	}
 }
