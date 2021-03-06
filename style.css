@@ -79,7 +79,7 @@ div.planning {
 /*
  * Onglets
  */
-* {
+nav.nav-sup {
     margin: 0px;
     padding: 0px;
 }
