@@ -356,8 +356,9 @@ main.category article a:hover {
     box-shadow: rgba(255, 255, 255, 0.4) 0 1px, inset 0 20px 20px -10px white;
 }
 #isexpanded-1:checked ~ #expand-btn-1, #isexpanded-1:checked ~ * #expand-btn-1 {
-    background: #B5B5B5;
+    background: green;
     box-shadow: inset rgba(0, 0, 0, 0.4) 0 -5px 12px, inset rgba(0, 0, 0, 1) 0 1px 3px, rgba(255, 255, 255, 0.4) 0 1px;
+    width: 30%
 }
 #isexpanded-1, .expandable-1 {
     display: none;
@@ -385,8 +386,9 @@ main.category article a:hover {
     box-shadow: rgba(255, 255, 255, 0.4) 0 1px, inset 0 20px 20px -10px white;
 }
 #isexpanded-2:checked ~ #expand-btn-2, #isexpanded-2:checked ~ * #expand-btn-2 {
-    background: #B5B5B5;
+    background: green;
     box-shadow: inset rgba(0, 0, 0, 0.4) 0 -5px 12px, inset rgba(0, 0, 0, 1) 0 1px 3px, rgba(255, 255, 255, 0.4) 0 1px;
+    width: 30%
 }
 #isexpanded-2, .expandable-2 {
     display: none;
@@ -414,8 +416,9 @@ main.category article a:hover {
     box-shadow: rgba(255, 255, 255, 0.4) 0 1px, inset 0 20px 20px -10px white;
 }
 #isexpanded-3:checked ~ #expand-btn-3, #isexpanded-3:checked ~ * #expand-btn-3 {
-    background: #B5B5B5;
+    background: green;
     box-shadow: inset rgba(0, 0, 0, 0.4) 0 -5px 12px, inset rgba(0, 0, 0, 1) 0 1px 3px, rgba(255, 255, 255, 0.4) 0 1px;
+    width: 30%
 }
 #isexpanded-3, .expandable-3 {
     display: none;
@@ -443,8 +446,9 @@ main.category article a:hover {
     box-shadow: rgba(255, 255, 255, 0.4) 0 1px, inset 0 20px 20px -10px white;
 }
 #isexpanded-4:checked ~ #expand-btn-4, #isexpanded-4:checked ~ * #expand-btn-4 {
-    background: #B5B5B5;
+    background: green;
     box-shadow: inset rgba(0, 0, 0, 0.4) 0 -5px 12px, inset rgba(0, 0, 0, 1) 0 1px 3px, rgba(255, 255, 255, 0.4) 0 1px;
+    width: 30%
 }
 #isexpanded-4, .expandable-4 {
     display: none;
@@ -472,8 +476,9 @@ main.category article a:hover {
     box-shadow: rgba(255, 255, 255, 0.4) 0 1px, inset 0 20px 20px -10px white;
 }
 #isexpanded-5:checked ~ #expand-btn-5, #isexpanded-5:checked ~ * #expand-btn-5 {
-    background: #B5B5B5;
+    background: green;
     box-shadow: inset rgba(0, 0, 0, 0.4) 0 -5px 12px, inset rgba(0, 0, 0, 1) 0 1px 3px, rgba(255, 255, 255, 0.4) 0 1px;
+    width: 30%
 }
 #isexpanded-5, .expandable-5 {
     display: none;
@@ -501,8 +506,9 @@ main.category article a:hover {
     box-shadow: rgba(255, 255, 255, 0.4) 0 1px, inset 0 20px 20px -10px white;
 }
 #isexpanded-6:checked ~ #expand-btn-6, #isexpanded-6:checked ~ * #expand-btn-6 {
-    background: #B5B5B5;
+    background: green;
     box-shadow: inset rgba(0, 0, 0, 0.4) 0 -5px 12px, inset rgba(0, 0, 0, 1) 0 1px 3px, rgba(255, 255, 255, 0.4) 0 1px;
+    width: 30%
 }
 #isexpanded-6, .expandable-6 {
     display: none;
