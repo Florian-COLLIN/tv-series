@@ -419,4 +419,6 @@ main.category article a:hover {
 #isexpanded-6:checked ~ ul.expandable-6, 
 #isexpanded-6:checked ~ * ul.expandable-6 {
     display: block;
+    border: 1px solid;
+    border-color: black;
 }
