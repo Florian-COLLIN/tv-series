@@ -397,34 +397,23 @@ main.category article a:hover {
 #isexpanded-1:checked ~ p.expandable-1, 
 #isexpanded-1:checked ~ * p.expandable-1,
 #isexpanded-1:checked ~ ul.expandable-1, 
-#isexpanded-1:checked ~ * ul.expandable-1 {
-    display: block;
-}
-/*** ***/
+#isexpanded-1:checked ~ * ul.expandable-1,
 #isexpanded-2:checked ~ p.expandable-2, 
 #isexpanded-2:checked ~ * p.expandable-2,
 #isexpanded-2:checked ~ ul.expandable-2, 
-#isexpanded-2:checked ~ * ul.expandable-2 {
-    display: block;
-}
+#isexpanded-2:checked ~ * ul.expandable-2,
 #isexpanded-3:checked ~ p.expandable-3, 
 #isexpanded-3:checked ~ * p.expandable-3,
 #isexpanded-3:checked ~ ul.expandable-3, 
-#isexpanded-3:checked ~ * ul.expandable-3 {
-    display: block;
-}
+#isexpanded-3:checked ~ * ul.expandable-3,
 #isexpanded-4:checked ~ p.expandable-4, 
 #isexpanded-4:checked ~ * p.expandable-4,
 #isexpanded-4:checked ~ ul.expandable-4, 
-#isexpanded-4:checked ~ * ul.expandable-4 {
-    display: block;
-}
+#isexpanded-4:checked ~ * ul.expandable-4,
 #isexpanded-5:checked ~ p.expandable-5, 
 #isexpanded-5:checked ~ * p.expandable-5,
 #isexpanded-5:checked ~ ul.expandable-5, 
-#isexpanded-5:checked ~ * ul.expandable-5 {
-    display: block;
-}
+#isexpanded-5:checked ~ * ul.expandable-5,
 #isexpanded-6:checked ~ p.expandable-6, 
 #isexpanded-6:checked ~ * p.expandable-6,
 #isexpanded-6:checked ~ ul.expandable-6, 
