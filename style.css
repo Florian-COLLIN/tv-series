@@ -362,6 +362,7 @@ main.category article a:hover {
     width: 80%;
     text-align: center;
     height: 25px;
+    align-content: center;
 }
 #isexpanded-1:checked ~ #expand-btn-1, #isexpanded-1:checked ~ * #expand-btn-1,
 #isexpanded-2:checked ~ #expand-btn-2, #isexpanded-2:checked ~ * #expand-btn-2,
@@ -374,6 +375,7 @@ main.category article a:hover {
     width: 80%;
     text-align: center;
     height: 25px;
+    align-content: center;
 }
 #isexpanded-1, .expandable-1 {
     display: none;
