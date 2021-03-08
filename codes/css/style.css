@@ -82,8 +82,6 @@ div.planning {
 nav.nav-sup {
     margin: 0px;
     padding: 0px;
-}
-nav.nav-sup {
     width: 100%;
     margin: 0 auto;
     background-color: #B2FFFF;
@@ -355,7 +353,7 @@ main.category article a:hover {
     text-shadow: rgba(255, 255, 255, 0.4) 0 1px;
     padding: 3px 6px;
     border: 1px solid rgba(0, 0, 0, 0.6);
-    background-color: blue;
+    background-color: #783737;
     cursor: default;
     border-radius: 3px;
     box-shadow: rgba(255, 255, 255, 0.4) 0 1px, inset 0 20px 20px -10px white;
@@ -370,7 +368,7 @@ main.category article a:hover {
 #isexpanded-4:checked ~ #expand-btn-4, #isexpanded-4:checked ~ * #expand-btn-4,
 #isexpanded-5:checked ~ #expand-btn-5, #isexpanded-5:checked ~ * #expand-btn-5,
 #isexpanded-6:checked ~ #expand-btn-6, #isexpanded-6:checked ~ * #expand-btn-6 {
-    background: blue;
+    background: #783737;
     box-shadow: inset rgba(0, 0, 0, 0.4) 0 -5px 12px, inset rgba(0, 0, 0, 1) 0 1px 3px, rgba(255, 255, 255, 0.4) 0 1px;
     width: 80%;
     text-align: center;
