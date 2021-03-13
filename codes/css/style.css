@@ -346,7 +346,18 @@ main.category article a:hover {
 #expand-btn-3,
 #expand-btn-4,
 #expand-btn-5,
-#expand-btn-6 {
+#expand-btn-6,
+#expand-btn-7,
+#expand-btn-8,
+#expand-btn-9,
+#expand-btn-10,
+#expand-btn-11,
+#expand-btn-12,
+#expand-btn-13,
+#expand-btn-14,
+#expand-btn-15,
+#expand-btn-16,
+#expand-btn-17 {
     margin: 0 3px;
     display: inline-block;
     font: 12px / 13px "Lucida Grande", sans-serif;
@@ -367,7 +378,18 @@ main.category article a:hover {
 #isexpanded-3:checked ~ #expand-btn-3, #isexpanded-3:checked ~ * #expand-btn-3,
 #isexpanded-4:checked ~ #expand-btn-4, #isexpanded-4:checked ~ * #expand-btn-4,
 #isexpanded-5:checked ~ #expand-btn-5, #isexpanded-5:checked ~ * #expand-btn-5,
-#isexpanded-6:checked ~ #expand-btn-6, #isexpanded-6:checked ~ * #expand-btn-6 {
+#isexpanded-6:checked ~ #expand-btn-6, #isexpanded-6:checked ~ * #expand-btn-6,
+#isexpanded-7:checked ~ #expand-btn-7, #isexpanded-7:checked ~ * #expand-btn-7,
+#isexpanded-8:checked ~ #expand-btn-8, #isexpanded-8:checked ~ * #expand-btn-8,
+#isexpanded-9:checked ~ #expand-btn-9, #isexpanded-9:checked ~ * #expand-btn-9,
+#isexpanded-10:checked ~ #expand-btn-10, #isexpanded-10:checked ~ * #expand-btn-10,
+#isexpanded-11:checked ~ #expand-btn-11, #isexpanded-11:checked ~ * #expand-btn-11,
+#isexpanded-12:checked ~ #expand-btn-12, #isexpanded-12:checked ~ * #expand-btn-12,
+#isexpanded-13:checked ~ #expand-btn-13, #isexpanded-13:checked ~ * #expand-btn-13,
+#isexpanded-14:checked ~ #expand-btn-14, #isexpanded-14:checked ~ * #expand-btn-14,
+#isexpanded-15:checked ~ #expand-btn-15, #isexpanded-15:checked ~ * #expand-btn-15,
+#isexpanded-16:checked ~ #expand-btn-16, #isexpanded-16:checked ~ * #expand-btn-16,
+#isexpanded-17:checked ~ #expand-btn-17, #isexpanded-17:checked ~ * #expand-btn-17 {
     background: #783737;
     box-shadow: inset rgba(0, 0, 0, 0.4) 0 -5px 12px, inset rgba(0, 0, 0, 1) 0 1px 3px, rgba(255, 255, 255, 0.4) 0 1px;
     width: 80%;
@@ -380,7 +402,18 @@ main.category article a:hover {
 #isexpanded-3, .expandable-3,
 #isexpanded-4, .expandable-4,
 #isexpanded-5, .expandable-5,
-#isexpanded-6, .expandable-6 {
+#isexpanded-6, .expandable-6,
+#isexpanded-7, .expandable-7,
+#isexpanded-8, .expandable-8,
+#isexpanded-9, .expandable-9,
+#isexpanded-10, .expandable-10,
+#isexpanded-11, .expandable-11,
+#isexpanded-12, .expandable-12,
+#isexpanded-13, .expandable-13,
+#isexpanded-14, .expandable-14,
+#isexpanded-15, .expandable-15,
+#isexpanded-16, .expandable-16,
+#isexpanded-17, .expandable-17 {
     display: none;
 }
 #isexpanded-1:checked ~ * tr.expandable-1,
@@ -388,34 +421,55 @@ main.category article a:hover {
 #isexpanded-3:checked ~ * tr.expandable-3,
 #isexpanded-4:checked ~ * tr.expandable-4,
 #isexpanded-5:checked ~ * tr.expandable-5,
-#isexpanded-6:checked ~ * tr.expandable-6 {
+#isexpanded-6:checked ~ * tr.expandable-6,
+#isexpanded-7:checked ~ * tr.expandable-7,
+#isexpanded-8:checked ~ * tr.expandable-8,
+#isexpanded-9:checked ~ * tr.expandable-9,
+#isexpanded-10:checked ~ * tr.expandable-10,
+#isexpanded-11:checked ~ * tr.expandable-11,
+#isexpanded-12:checked ~ * tr.expandable-12,
+#isexpanded-13:checked ~ * tr.expandable-13,
+#isexpanded-14:checked ~ * tr.expandable-14,
+#isexpanded-15:checked ~ * tr.expandable-15,
+#isexpanded-16:checked ~ * tr.expandable-16,
+#isexpanded-17:checked ~ * tr.expandable-17 {
     display: table-row;
     background: #cccccc;
 }
-#isexpanded-1:checked ~ p.expandable-1, 
-#isexpanded-1:checked ~ * p.expandable-1,
-#isexpanded-1:checked ~ ul.expandable-1, 
+#isexpanded-1:checked ~ ul.expandable-1,
 #isexpanded-1:checked ~ * ul.expandable-1,
-#isexpanded-2:checked ~ p.expandable-2, 
-#isexpanded-2:checked ~ * p.expandable-2,
-#isexpanded-2:checked ~ ul.expandable-2, 
+#isexpanded-2:checked ~ ul.expandable-2,
 #isexpanded-2:checked ~ * ul.expandable-2,
-#isexpanded-3:checked ~ p.expandable-3, 
-#isexpanded-3:checked ~ * p.expandable-3,
-#isexpanded-3:checked ~ ul.expandable-3, 
+#isexpanded-3:checked ~ ul.expandable-3,
 #isexpanded-3:checked ~ * ul.expandable-3,
-#isexpanded-4:checked ~ p.expandable-4, 
-#isexpanded-4:checked ~ * p.expandable-4,
-#isexpanded-4:checked ~ ul.expandable-4, 
+#isexpanded-4:checked ~ ul.expandable-4,
 #isexpanded-4:checked ~ * ul.expandable-4,
-#isexpanded-5:checked ~ p.expandable-5, 
-#isexpanded-5:checked ~ * p.expandable-5,
-#isexpanded-5:checked ~ ul.expandable-5, 
+#isexpanded-5:checked ~ ul.expandable-5,
 #isexpanded-5:checked ~ * ul.expandable-5,
-#isexpanded-6:checked ~ p.expandable-6, 
-#isexpanded-6:checked ~ * p.expandable-6,
-#isexpanded-6:checked ~ ul.expandable-6, 
-#isexpanded-6:checked ~ * ul.expandable-6 {
+#isexpanded-6:checked ~ ul.expandable-6,
+#isexpanded-6:checked ~ * ul.expandable-6,
+#isexpanded-7:checked ~ ul.expandable-7,
+#isexpanded-7:checked ~ * ul.expandable-7,
+#isexpanded-8:checked ~ ul.expandable-8,
+#isexpanded-8:checked ~ * ul.expandable-8,
+#isexpanded-9:checked ~ ul.expandable-9,
+#isexpanded-9:checked ~ * ul.expandable-9,
+#isexpanded-10:checked ~ ul.expandable-10,
+#isexpanded-10:checked ~ * ul.expandable-10,
+#isexpanded-11:checked ~ ul.expandable-11,
+#isexpanded-11:checked ~ * ul.expandable-11,
+#isexpanded-12:checked ~ ul.expandable-12,
+#isexpanded-12:checked ~ * ul.expandable-12,
+#isexpanded-13:checked ~ ul.expandable-13,
+#isexpanded-13:checked ~ * ul.expandable-13,
+#isexpanded-14:checked ~ ul.expandable-14,
+#isexpanded-14:checked ~ * ul.expandable-14,
+#isexpanded-15:checked ~ ul.expandable-15,
+#isexpanded-15:checked ~ * ul.expandable-15,
+#isexpanded-16:checked ~ ul.expandable-16,
+#isexpanded-16:checked ~ * ul.expandable-16,
+#isexpanded-17:checked ~ ul.expandable-17,
+#isexpanded-17:checked ~ * ul.expandable-17 {
     display: block;
     border: 1px solid;
     border-color: black;
