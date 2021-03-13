@@ -12,7 +12,7 @@ body {
 header {
 	width: 100%;
 	margin: 0 auto;
-	background-color: yellow;
+	background-color: #E6503F;
 	text-align: justify;
 	align-content: center;
 	border: 1px solid;
@@ -36,7 +36,7 @@ main {
  */
 footer {
 	width: 100%;
-	background-color: #002a32;
+	background-color: #E64F3E;
     border-color: blue;
     border: 1px solid;
 }
