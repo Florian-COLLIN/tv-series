@@ -1,7 +1,7 @@
 {
 	"titre": "Sam",
-	"saisons": "5",
-	"episodes": "36",
+	"saisons": 5,
+	"episodes": 36,
 	"liste_episodes": {
 		"S1": [
 			"La Gifle",
