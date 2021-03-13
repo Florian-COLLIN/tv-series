@@ -1,7 +1,7 @@
 {
 	"titre": "Big Sky",
-	"saisons": "1",
-	"episodes": "4",
+	"saisons": 1,
+	"episodes": 4,
 	"liste_episodes": {
 		"S1": [
 			"Pilote",
