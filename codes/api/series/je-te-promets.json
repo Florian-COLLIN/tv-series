@@ -1,7 +1,7 @@
 {
 	"titre": "Je te promets",
-	"saisons": "1",
-	"episodes": "12",
+	"saisons": 1,
+	"episodes": 12,
 	"liste_episodes": {
 		"S1": [
 			"Le Grand Soir",
