@@ -64,7 +64,7 @@ else
 				'Content-Transfer-Encoding: 7bit'." \r\n" .
 				'X-Mailer:PHP/'.phpversion();
  
-		// envoyer une copie au visiteur ?
+		// Envoyer une copie au visiteur ?
 		if ($copie == 'oui')
 		{
 			$cible = $destinataire.';'.$email;
