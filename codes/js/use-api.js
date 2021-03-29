@@ -1,6 +1,8 @@
 /*
-Exercice : profil GitHub
-*/
+ * @date = 2021
+ * 
+ * @author = Florian COLLIN
+ */
 
 var infosElt = document.getElementById("infos");
 
