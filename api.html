@@ -22,6 +22,7 @@
 		<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/favicon.ico" type="image/png">
 		<link href="/tv-series/codes/css/print.css" rel="stylesheet" media="print">
 		<link href="/tv-series/codes/css/mobile.css" rel="stylesheet" media="screen and (max-width: 600px)">
+		<link rel="alternate" type="application/rss+xml" href="/tv-series/codes/news/rss" title="Votre titre">
 	</head>
 	<body>
 		<br>
@@ -59,6 +60,11 @@
 			<br>
 			<!-- Contenu -->
 			<main>
+				<div class="colonne-droite">
+					<script language="Javascript">
+						RSS();
+					</script>  
+				</div>
 		    	<form>
         			<p>
 		            	<input type="text" name="profil" id="profil" placeholder="Saisissez le nom de la série en minuscule" required>

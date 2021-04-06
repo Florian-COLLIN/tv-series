@@ -29,6 +29,29 @@ function change_onglet(name) {
 }
 /* </pre>
 
+== RSS ==
+
+<pre> */
+function RSS() {
+	var fichier="https://florian-collin.github.io/tv-series/codes/news.rss";
+	var limite="1";
+	var limite1="10";
+	var aspect="1";
+	var minute="1";
+	var sujet="1";
+	var te="Times New Roman, serif";
+	var fil_textsize="11";
+	var title_textcolor="2978D5";
+	var tlien="none";
+	var text_textcolor="000000";
+	var frame_color="817E81";
+	var content="1";
+	var extract="";
+	var cache="15";
+	document.write('<s'+'cript language="JavaScript" type="text/javascript" src="http://www.actifpub.com/rss.php?fichier_AP_='+fichier+'&limite_AP_='+limite+'&limite1_AP_='+limite1+'&aspect_AP_='+aspect+'&minute_AP_='+minute+'&sujet_AP_='+sujet+'&te_AP_='+te+'&fil_textsize_AP_='+fil_textsize+'&title_textcolor_AP_='+title_textcolor+'&text_textcolor_AP_='+text_textcolor+'&frame_color_AP_='+frame_color+'&content_AP_='+content+'&cache_AP_='+cache+'&extract_AP_='+extract+'&tlien_AP_='+tlien+'&java=1&member_AP_='+member+'"></sc'+'ript>'); 
+}
+/* </pre>
+
 == Fin du code ==
 
 */
