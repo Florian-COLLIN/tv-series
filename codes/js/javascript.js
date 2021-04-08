@@ -52,6 +52,14 @@ function RSS() {
 }
 /* </pre>
 
+== Échec de Mise à jour ==
+
+<pre> */
+function miseajour() {
+	alert("Échec de la mise à jour de cette page ! Elle n'est donc pas à jour.");
+}
+/* </pre>
+
 == Fin du code ==
 
 */
