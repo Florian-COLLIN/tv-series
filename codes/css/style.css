@@ -335,6 +335,9 @@ main.category article h1 {
 main.category article a:hover {
     color: blue;
 }
+.spoilers {
+    font-size: 3;
+}
 /***********************************************************************************************************************
 
 
