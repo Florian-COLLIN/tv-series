@@ -343,6 +343,7 @@ main.news h1 {
 div.author {
     text-align: center;
     display: inline;
+    margin-left: 0;
 }
 p.author::before {
     content: "Par ";
