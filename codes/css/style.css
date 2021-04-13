@@ -350,7 +350,7 @@ p.author::before {
     color: grey;
 }
 p.author::after {
-    content: " - ";
+    content: " ";
     color: black;
 }
 p.author {
@@ -358,6 +358,9 @@ p.author {
 }
 p.dates {
     color: grey;
+}
+p.dates::before {
+    content: "- ";
     white-space: normal;
 }
 /***********************************************************************************************************************
