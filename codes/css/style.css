@@ -338,6 +338,11 @@ main.category article a:hover {
 .spoilers {
     font-size: 3;
 }
+/* News Title */
+main.news h1 {
+    text-align: center;
+    text-transform: uppercase;
+}
 /***********************************************************************************************************************
 
 
