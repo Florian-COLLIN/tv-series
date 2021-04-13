@@ -260,9 +260,6 @@ main section div.titre {
         flex-grow: 3;
     }
 }
-.author {
-    text-align: right;
-}
 h1 {
     font-variant: small-caps;
 }
@@ -342,6 +339,23 @@ main.category article a:hover {
 main.news h1 {
     text-align: center;
     text-transform: uppercase;
+}
+div.author {
+    text-align: center;
+}
+p.author::before {
+    content: "Par ";
+    color: grey;
+}
+p.author::after {
+    content: " - ";
+    color: black;
+}
+p.author {
+    color: grey;
+}
+p.dates {
+    color: grey;
 }
 /***********************************************************************************************************************
 
