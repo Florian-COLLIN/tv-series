@@ -32,7 +32,7 @@ function change_onglet(name) {
 == RSS ==
 
 <pre> */
-function RSS() {
+function rss() {
 	var fichier="https://florian-collin.github.io/tv-series/codes/news.rss";
 	var limite="1";
 	var limite1="10";
