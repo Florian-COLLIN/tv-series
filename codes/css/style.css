@@ -322,12 +322,16 @@ main.category article p {
     text-align: left;
     position: absolute;
     bottom: 2;
+    margin: 20px;
+    padding: 10px;
 }
 main.category article h1 {
     font-size: 175%;
     position: absolute;
     color: white;
     bottom: 0;
+    margin: 20px;
+    padding: 10px;
 }
 main.category article a:hover {
     color: blue;
