@@ -81,8 +81,6 @@ div.planning {
  */
 /*Reset CSS*/
 * {
-    margin: 0px;
-    padding: 0px;
     font-family: Avenir, sans-serif;
 }
 nav {
@@ -146,8 +144,8 @@ nav > ul li:hover .sous {
     font-size: 12px;
 }
 .conteneur {
-  margin: 50px 20px;
-  height: 1500px;
+    margin: 50px 20px;
+    height: 1500px;
 }
 /*
  * Tableau
@@ -188,9 +186,9 @@ td {
     display: table-row;
     background: #cccccc;
 }
-#isexpanded:checked ~ p.expandable, 
+#isexpanded:checked ~ p.expandable,
 #isexpanded:checked ~ * p.expandable,
-#isexpanded:checked ~ ul.expandable, 
+#isexpanded:checked ~ ul.expandable,
 #isexpanded:checked ~ * ul.expandable {
     display: block;
 }
