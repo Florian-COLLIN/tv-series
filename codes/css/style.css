@@ -39,6 +39,7 @@ footer {
 	background-color: #E64F3E;
     border-color: blue;
     border: 1px solid;
+    clear: both;
 }
 footer div.gauche {
 	width: 50%;
