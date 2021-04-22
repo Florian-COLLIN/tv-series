@@ -28,7 +28,8 @@ main {
 	align-content: center;
 	border: 1px solid #66A7CC;
     border-radius: 1rem;
-    padding: 2rem;
+    padding-left: 2rem;
+    padding-right: 5rem;
     box-shadow: 0 0 .2em #999;
 }
 /*
