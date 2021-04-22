@@ -280,7 +280,7 @@ section.series-episodes {
     margin: auto;
 }
 section.series-details div#accueil div.portail-gauche {
-    border-right: 1px solid;
+    border-right: 2px solid;
     border-right-color: red;
 }
 /* Abréviations */
