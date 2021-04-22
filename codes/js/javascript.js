@@ -1,7 +1,7 @@
 /* @author : Florian COLLIN
- * 
+ *
  * @date : 2021
- * 
+ *
  * @next-revision : 2021
  */
 /*
@@ -33,22 +33,7 @@ function change_onglet(name) {
 
 <pre> */
 function rss() {
-	var fichier="https://florian-collin.github.io/tv-series/codes/news.rss";
-	var limite="1";
-	var limite1="10";
-	var aspect="1";
-	var minute="1";
-	var sujet="1";
-	var te="Times New Roman, serif";
-	var fil_textsize="11";
-	var title_textcolor="2978D5";
-	var tlien="none";
-	var text_textcolor="000000";
-	var frame_color="817E81";
-	var content="1";
-	var extract="";
-	var cache="15";
-	document.write('<s'+'cript language="JavaScript" type="text/javascript" src="http://www.actifpub.com/rss.php?fichier_AP_='+fichier+'&limite_AP_='+limite+'&limite1_AP_='+limite1+'&aspect_AP_='+aspect+'&minute_AP_='+minute+'&sujet_AP_='+sujet+'&te_AP_='+te+'&fil_textsize_AP_='+fil_textsize+'&title_textcolor_AP_='+title_textcolor+'&text_textcolor_AP_='+text_textcolor+'&frame_color_AP_='+frame_color+'&content_AP_='+content+'&cache_AP_='+cache+'&extract_AP_='+extract+'&tlien_AP_='+tlien+'&java=1&member_AP_='+member+'"></sc'+'ript>'); 
+	document.write('<section class="rss"><article><div class="news-title">Ici tout commence : report de l\'épisode 124</div><div class="news-desc">L\'épisode 124 d\'<i>Ici tout commence</i> a été déprogrammé ! Il était prévu initialement ce jeudi 22 avril à 18h40, et il est finalement reporté au...</div><div class="rss-date">22 avril 2021</div></article><br><hr><br><article><div class="news-title">Sam (Saison 6) : nouvelles infos</div><div class="news-desc">Hier, lundi 12 avril 2021 commençait le tournage de la saison 6 de <i>Sam</i>, dont nous avions évoqué son renouvelement en janvier. Mais de nouvelles...</div><div class="rss-date">13 avril 2021</div></article><br><hr><br><article><div class="news-title">Big Sky : partie 2 [Théories]</div><div class="news-desc">La dernière fois que nous avions parlé de Big Sky, c\'était pour y annoncer, qu\'il reprendrait aux &Eacute;tats-Unis le 13 avril. Cette semaine, nous avons...</div><div class="rss-date">10 avril 2021</div></article></section>');
 }
 /* </pre>
 
@@ -64,8 +49,8 @@ function miseajour() {
 
 <pre> */
 (function($) {
-	$.fn.videoPlayer = function(options) {	
-		var settings = {  
+	$.fn.videoPlayer = function(options) {
+		var settings = {
 			playerWidth : '0.95', // Default is 95%
 			videoClass : 'video'  // Video Class
 		}
@@ -74,9 +59,9 @@ function miseajour() {
 			$.extend(settings, options);
 		}
 		// For each so that we keep chainability.
-		return this.each(function() {	
+		return this.each(function() {
 			$(this)[0].addEventListener('loadedmetadata', function() {
-				// Basic Variables 
+				// Basic Variables
 				var $this = $(this);
 				var $settings = settings;
 				// Wrap the video in a div with the class of your choosing
@@ -100,7 +85,7 @@ function miseajour() {
 				         + '</div>'
 				       + '</div>'
 				       + '<div class="time">'
-				         + '<span class="ctime">00:00</span>' 
+				         + '<span class="ctime">00:00</span>'
 				         + '<span class="stime"> / </span>'
 				         + '<span class="ttime">00:00</span>'
 				       + '</div>'
@@ -109,7 +94,7 @@ function miseajour() {
 				       + '<div class="volume-holder">'
 				         + '<div class="volume-bar-holder">'
 				           + '<div class="volume-bar">'
-				             + '<div class="volume-button-holder">'	
+				             + '<div class="volume-button-holder">'
 				               + '<div class="volume-button"> </div>'
 				             + '</div>'
 				           + '</div>'
@@ -135,19 +120,19 @@ function miseajour() {
 					$volume = $spc.volume, // Video volume
 					currentTime;
 				// Some other misc variables to check when things are happening
-				var $mclicking = false, 
-				    $vclicking = false, 
+				var $mclicking = false,
+				    $vclicking = false,
 				    $vidhover = false,
-				    $volhover = false, 
-				    $playing = false, 
+				    $volhover = false,
+				    $playing = false,
 				    $drop = false,
 				    $begin = false,
 				    $draggingProgess = false,
-				    $storevol,	
-				    x = 0, 
-				    y = 0, 
-				    vtime = 0, 
-				    updProgWidth = 0, 
+				    $storevol,
+				    x = 0,
+				    y = 0,
+				    vtime = 0,
+				    updProgWidth = 0,
 				    volume = 0;
 				// Setting the width, etc of the player
 				var $volume = $spc.volume;
@@ -168,14 +153,14 @@ function miseajour() {
 							// Max and min buffers
 							$maxBuffer = buffered.end(i);
 							$minBuffer = buffered.start(i);
-							// The offset and width of buffered area				
-							var bufferOffset = ($minBuffer / $duration) * 100;			
+							// The offset and width of buffered area
+							var bufferOffset = ($minBuffer / $duration) * 100;
 							var bufferWidth = (($maxBuffer - $minBuffer) / $duration) * 100;
 							// Append the buffered regions to the video
 							$('<div class="buffered"></div>').css({"left" : bufferOffset+'%', 'width' : bufferWidth+'%'}).appendTo($that.find('.progress'));
 						}
 					}
-				} 
+				}
 				// Run the buffer function
 				bufferLength();
 				// The timing function, updates the time.
@@ -199,7 +184,7 @@ function miseajour() {
 							// Increase minutes, reset seconds
 							seconds = Math.round(time) - (60*minutes);
 							if(seconds == 60) {
-								minutes = Math.round(time / 60); 
+								minutes = Math.round(time / 60);
 								seconds = 0;
 							}
 						}
@@ -215,7 +200,7 @@ function miseajour() {
 						$that.find('.progress-button').css({'left' : (updProgWidth-$that.find('.progress-button').width())+'px'});
 					}
 					// Update times
-					$that.find('.ctime').html(minutes+':'+seconds) 
+					$that.find('.ctime').html(minutes+':'+seconds)
 					$that.find('.ttime').html(tminutes+':'+tseconds);
 					// If playing update buffer value
 					if($spc.currentTime > 0 && $spc.paused == false && $spc.ended == false) {
@@ -224,8 +209,8 @@ function miseajour() {
 				}
 				// Run the timing function twice, once on init and again when the time updates.
 				timeUpdate();
-				$spc.addEventListener('timeupdate', timeUpdate);				
-				// When the user clicks play, bind a click event	
+				$spc.addEventListener('timeupdate', timeUpdate);
+				// When the user clicks play, bind a click event
 				$that.find('.play-pause').bind('click', function() {
 					// Set up a playing variable
 					if($spc.currentTime > 0 && $spc.paused == false && $spc.ended == false) {
@@ -250,7 +235,7 @@ function miseajour() {
 					if($playing == true) {
 						$spc.pause();
 					}
-					// The x position of the mouse in the progress bar 
+					// The x position of the mouse in the progress bar
 					x = e.pageX - $that.find('.progress').offset().left;
 					// Update current time
 					currentTime = (x / progWidth) * $duration;
@@ -299,9 +284,9 @@ function miseajour() {
 						}
 						else if($volume > (fi-0.1) && volume < fi && !$that.find('.volume-icon').hasClass('v-change-'+volid)) {
 							if($volhover == true) {
-								$that.find('.volume-icon').removeClass().addClass('volume-icon volume-icon-hover v-change-'+volid);	
+								$that.find('.volume-icon').removeClass().addClass('volume-icon volume-icon-hover v-change-'+volid);
 							} else {
-								$that.find('.volume-icon').removeClass().addClass('volume-icon v-change-'+volid);	
+								$that.find('.volume-icon').removeClass().addClass('volume-icon v-change-'+volid);
 							}
 						}
 					}
@@ -326,7 +311,7 @@ function miseajour() {
 						});
 					}
 					// For the progress bar controls
-					if($mclicking == true) {	
+					if($mclicking == true) {
 						// Dragging is happening
 						$draggingProgress = true;
 						// The thing we're going to apply to the CSS (changes based on conditional statements);
@@ -337,31 +322,31 @@ function miseajour() {
 						x = e.pageX - $that.find('.progress').offset().left;
 						// If video is playing
 						if($playing == true) {
-							// And the current time is less than the duration				
-							if(currentTime < $duration) {		
-								// Then the play-pause icon should definitely be a pause button 
+							// And the current time is less than the duration
+							if(currentTime < $duration) {
+								// Then the play-pause icon should definitely be a pause button
 								$that.find('.play-pause').addClass('pause').removeClass('play');
 							}
 						}
 						if(x < 0) { // If x is less than 0 then move the progress bar 0px
 							progMove = 0;
 							$spc.currentTime = 0;
-						} 
+						}
 						else if(x > progWidth) { // If x is more than the progress bar width then set progMove to progWidth
 							$spc.currentTime = $duration;
-							progMove = progWidth;	
+							progMove = progWidth;
 						}
 						else { // Otherwise progMove is equal to the mouse x coordinate
 							progMove = x;
 							currentTime = (x / progWidth) * $duration;
-							$spc.currentTime = currentTime;	
+							$spc.currentTime = currentTime;
 						}
 						// Change CSS based on previous conditional statement
 						$that.find('.progress-bar').css({'width' : $progMove+'px'});
 						$that.find('.progress-button').css({'left' : ($progMove-buttonWidth)+'px'});
 					}
 					// For the volume controls
-					if($vclicking == true) {	
+					if($vclicking == true) {
 						// The position of the mouse on the volume slider
 						y = $that.find('.volume-bar-holder').height() - (e.pageY - $that.find('.volume-bar-holder').offset().top);
 						// The position the user is moving to on the slider.
@@ -375,12 +360,12 @@ function miseajour() {
 						if(!$that.find('.volume-icon').hasClass('volume-icon-hover')) {
 							$that.find('.volume-icon').addClass('volume-icon-hover');
 						}
-						if(y < 0 || y == 0) { // If y is less than 0 or equal to 0 then volMove is 0.	
-							$volume = 0; 
+						if(y < 0 || y == 0) { // If y is less than 0 or equal to 0 then volMove is 0.
+							$volume = 0;
 							volMove = 0;
 							$that.find('.volume-icon').removeClass().addClass('volume-icon volume-icon-hover v-change-11');
 						} else if(y > $(this).find('.volume-bar-holder').height() || (y / $that.find('.volume-bar-holder').height()) == 1) { // If y is more than the height then volMove is equal to the height
-							$volume = 1; 
+							$volume = 1;
 							volMove = $that.find('.volume-bar-holder').height();
 							$that.find('.volume-icon').removeClass().addClass('volume-icon volume-icon-hover v-change-1');
 						} else { // Otherwise volMove is just y
@@ -403,15 +388,15 @@ function miseajour() {
 					// icon hover class
 					if($volhover == false) {
 						$that.find('.volume-holder').stop(true, false).fadeOut(100);
-						$that.find('.volume-icon').removeClass('volume-icon-hover');	
+						$that.find('.volume-icon').removeClass('volume-icon-hover');
 					}
 					else {
 						$that.find('.volume-icon').addClass('volume-icon-hover');
-						$that.find('.volume-holder').fadeIn(100);			
-					}	
+						$that.find('.volume-holder').fadeIn(100);
+					}
 				})
 				// When the video ends the play button becomes a pause button
-				$spc.addEventListener('ended', function() {	
+				$spc.addEventListener('ended', function() {
 					$playing = false;
 					// If the user is not dragging
 					if($draggingProgress == false) {
@@ -429,7 +414,7 @@ function miseajour() {
 					// If volume is more than 0
 					if($volume > 0) {
 						// then the user wants to mute the video, so volume will become 0
-						$spc.volume = 0; 
+						$spc.volume = 0;
 						$volume = 0;
 						$that.find('.volume-bar').css({'height' : '0'});
 						volanim();
@@ -449,7 +434,7 @@ function miseajour() {
 					$mclicking = false;
 					$vclicking = false;
 					$draggingProgress = false;
-					if($playing == true) {	
+					if($playing == true) {
 						$spc.play();
 					}
 					bufferLength();

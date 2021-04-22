@@ -372,6 +372,30 @@ p.dates::before {
     content: "- ";
     white-space: normal;
 }
+section.rss {
+    float: right;
+    width: 25%;
+    border-left: 2px solid black;
+}
+section.rss article {
+    /* */
+}
+section.rss article div.news-title {
+    font-variant: small-caps;
+    font-size: 2;
+    color: gray;
+}
+section.rss article div.news-desc {
+    font-size: smaller;
+    text-align: justify;
+}
+section.rss article div.rss-date {
+    color: gray;
+    font-size: smaller;
+}
+section.rss hr {
+    color: gray;
+}
 /***********************************************************************************************************************
 
 
