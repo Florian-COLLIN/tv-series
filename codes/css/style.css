@@ -271,6 +271,7 @@ section.series-details {
     width: 100%;
     border-bottom: 1px solid;
     border-bottom-color: black;
+    border-bottom-width: 80%;
     padding: 40px;
     margin: auto;
 }
@@ -350,7 +351,7 @@ main.news h1 {
 }
 div.author {
     text-align: center;
-    display: inline;
+    display: inline-block;
     margin-left: 0;
 }
 p.author::before {
