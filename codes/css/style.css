@@ -269,9 +269,6 @@ h1 {
 }
 section.series-details {
     width: 100%;
-    border-bottom: 1px solid;
-    border-bottom-color: black;
-    border-bottom-width: initial;
     padding: 40px;
     margin: auto;
 }
@@ -310,8 +307,8 @@ div.news-subject p {
     border: none;
 }
 h1 {
-    margin:0px;
-    padding:0px;
+    margin: 0px;
+    padding: 0px;
 }
 .small,
 .petit {
