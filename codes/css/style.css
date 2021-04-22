@@ -217,10 +217,10 @@ header h1.sites {
 .portail-droite {
     float: right;
     width: 50%;
-    padding-top:2px;
-    padding-bottom:2px;
-    padding-right:5px
-    padding-left:5px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-right: 5px
+    padding-left: 5px;
 }
 @media (max-width: 981px) {
     .portail-gauche,
