@@ -80,12 +80,12 @@ div.planning {
  * Onglets
  */
 * {
-    font-family: Avenir, sans-serif;
+    font-family: "Times New Roman", sans-serif;
 }
 nav {
     width: 100%;
     margin: 0 auto;
-    background-color: white;
+    background-color: #B2FFFF;
     position: sticky;
     top: 0px;
 }
