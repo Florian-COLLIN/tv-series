@@ -281,6 +281,9 @@ section.series-details div#accueil div.portail-gauche {
     border-right: 2px solid;
     border-right-color: red;
 }
+hr.series {
+    color: gray;
+}
 /* Abréviations */
 abbr {
     cursor: help;
