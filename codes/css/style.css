@@ -28,10 +28,7 @@ main {
 	align-content: center;
 	border: 1px solid #66A7CC;
     border-radius: 1rem;
-    padding-left: 2rem;
-    padding-right: 5rem;
-    padding-top: 2rem;
-    padding-bottom: 2rem;
+    padding: 2rem;
     box-shadow: 0 0 .2em #999;
 }
 /*
@@ -272,7 +269,7 @@ h1 {
 }
 section.series-details {
     width: 100%;
-    border-bottom: 1px auto;
+    border-bottom: 1px solid;
     border-bottom-color: black;
     padding: 40px;
     margin: auto;
