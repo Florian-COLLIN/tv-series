@@ -272,7 +272,7 @@ h1 {
 }
 section.series-details {
     width: 100%;
-    border-bottom: 1px solid;
+    border-bottom: 1px auto;
     border-bottom-color: black;
     padding: 40px;
     margin: auto;
