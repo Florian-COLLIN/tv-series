@@ -454,9 +454,9 @@ a#cRetour.cInvisible {
     transition: all ease-in 0.5s;
 }
 
-a#cRetour.cVisible{
-  bottom:20px;
-  opacity:1;
+a#cRetour.cVisible {
+    bottom: 20px;
+    opacity: 1;
 }
 /* Image d'en-tête */
 img.header-logo {
