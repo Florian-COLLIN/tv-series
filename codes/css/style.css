@@ -51,6 +51,11 @@ footer div.droite {
 footer ul li {
 	list-style-type: none;
 }
+footer h2.footer {
+    text-transform: uppercase;
+    font-size: smaller;
+    color: gray;
+}
 /*
  * Section
  */
@@ -420,6 +425,39 @@ div.systeme_onglets ul {
 div.systeme_onglets h1 {
     margin: 0px;
     padding: 0px;
+}
+a#cRetour {
+    border-radius: 3px;
+    padding: 10px;
+    font-size: 15px;
+    text-align: center;
+    color: #fff;
+    background: rgba(0, 0, 0, 0.25);
+    position: fixed;
+    right: 20px;
+    opacity: 1;
+    z-index: 99999;
+    transition: all ease-in 0.2s;
+    backface-visibility: hidden;
+    -webkit-backface-visibility: hidden;
+    text-decoration: none;
+}
+a#cRetour:before {
+    content: "\25b2";
+}
+a#cRetour:hover {
+    background: rgba(0, 0, 0, 1);
+    transition: all ease-in 0.2s;
+}
+a#cRetour.cInvisible {
+    bottom: -35px;
+    opacity: 0;
+    transition: all ease-in 0.5s;
+}
+
+a#cRetour.cVisible{
+  bottom:20px;
+  opacity:1;
 }
 /***********************************************************************************************************************
 
