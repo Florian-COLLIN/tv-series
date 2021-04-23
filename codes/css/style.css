@@ -452,7 +452,7 @@ a#cRetour:hover {
 a#cRetour.cInvisible {
     bottom: -35px;
     opacity: 0;
-    transition: all ease-in 0.5s;
+    transition: all ease-in 1.5s;
 }
 a#cRetour.cVisible {
     bottom: 20px;
