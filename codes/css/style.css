@@ -383,7 +383,7 @@ section.rss {
     border-left: 2px solid black;
 }
 section.rss article {
-    /* */
+    padding-left: 5px;
 }
 section.rss article div.news-title {
     font-variant: small-caps;
