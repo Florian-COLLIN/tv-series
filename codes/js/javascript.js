@@ -48,6 +48,16 @@ function miseajour() {
 == Lecteur vidéo ==
 
 <pre> */
+document.addEventListener('DOMContentLoaded', function() {
+	window.onscroll = function(ev) {
+		document.getElementById("cRetour").className = (window.pageYOffset > 100) ? "cVisible" : "cInvisible";
+	};
+});
+/* </pre>
+
+== Lecteur vidéo ==
+
+<pre> */
 (function($) {
 	$.fn.videoPlayer = function(options) {
 		var settings = {
