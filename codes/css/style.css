@@ -379,7 +379,8 @@ p.dates::before {
     white-space: normal;
 }
 section.rss {
-    float: right;
+    display: flex;
+    flex-direction: flex-end;
     width: 25%;
     border-left: 2px solid black;
 }
