@@ -397,6 +397,30 @@ section.rss article div.rss-date {
 section.rss hr {
     color: gray;
 }
+.onglet {
+    display: inline-block;
+    cursor: pointer;
+}
+.onglet_0 {}
+.onglet_1 /*onglet actif*/ {}
+.contenu_onglet {
+    width: 275px;
+    height: 133px;
+    background-color: #dddddd;
+    border: 1px solid black;
+    margin-top: 0px;
+    padding: 5px;
+    display: none;
+}
+div.systeme_onglets ul {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: -10px
+}
+div.systeme_onglets h1 {
+    margin: 0px;
+    padding: 0px;
+}
 /***********************************************************************************************************************
 
 
