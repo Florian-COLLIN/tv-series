@@ -458,6 +458,11 @@ a#cRetour.cVisible{
   bottom:20px;
   opacity:1;
 }
+/* Image d'en-tête */
+img.header-logo {
+    max-width: 250px;
+    height: auto;
+}
 /***********************************************************************************************************************
 
 
