@@ -445,7 +445,7 @@ div.column-right {
     width: 240px;
     background-color: #FF3366;
     position: absolute;
-    right:0;
+    right: 0;
 }
 
 div.column-main {
@@ -459,9 +459,6 @@ main {
     position: relative;
 }
 section.rss {
-    display:block;
-    position:relative;
-    width: 25%;
     border-left: 2px solid black;
 }
 section.rss article {
