@@ -450,9 +450,7 @@ div.column-main {
     margin-right: 245px;
 }
 main {
-    max-width: 960px;
     margin: auto;
-    position: relative;
     height: auto;
 }
 section.rss {
