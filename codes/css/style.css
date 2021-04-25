@@ -300,7 +300,8 @@ abbr {
 /* Pour le copyright en bas de page */
 div.copyright {
     height: 30px;
-    background-color: rgb(140, 0, 0);
+    background-color: rgb(150, 0, 0);
+    align-content: center;
 }
 div.copyright p {
     text-align: center;
