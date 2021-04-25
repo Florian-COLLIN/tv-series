@@ -451,7 +451,7 @@ div.column-main {
 }
 main {
     margin: auto;
-    height: auto;
+    min-height: 400px;
 }
 section.rss {
     border-left: 2px solid black;
