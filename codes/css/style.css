@@ -56,6 +56,9 @@ footer h2.footer {
     font-size: smaller;
     color: gray;
 }
+footer ul li {
+    font-size: smaller;
+}
 /*
  * Section
  */
