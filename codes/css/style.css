@@ -298,7 +298,7 @@ abbr {
     cursor: help;
 }
 /* Pour le copyright en bas de page */
-div.copyrights p {
+div.copyright p {
     text-align: center;
 }
 /* Sujet de l'actualité */
