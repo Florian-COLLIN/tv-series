@@ -443,14 +443,12 @@ img.header-logo {
 /* Blocs */
 div.column-right {
     width: 240px;
-    background-color: #FF3366;
     position: absolute;
     right: 0;
 }
 
 div.column-main {
     margin-right: 245px;
-    background-color: #9966FF;
 }
 
 main {
