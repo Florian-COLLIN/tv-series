@@ -442,12 +442,21 @@ img.header-logo {
 }
 /* Blocs */
 div.column-right {
-    float: right;
-    width: 25%;
+    width: 240px;
+    background-color: #FF3366;
+    position: absolute;
+    right:0;
 }
+
 div.column-main {
-    float: left;
-    width: 70%;
+    margin-right: 245px;
+    background-color: #9966FF;
+}
+
+main {
+    max-width: 960px;
+    margin: auto;
+    position: relative;
 }
 section.rss {
     display:block;
