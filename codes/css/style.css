@@ -450,9 +450,10 @@ div.column-main {
     margin-right: 245px;
 }
 main {
+    max-width: 960px;
     margin: auto;
     position: relative;
-    width: auto;
+    height: auto;
 }
 section.rss {
     border-left: 2px solid black;
