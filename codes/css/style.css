@@ -298,9 +298,6 @@ abbr {
     cursor: help;
 }
 /* Pour le copyright en bas de page */
-div.copyrights {
-    text-align: center;
-}
 div.copyrights p {
     text-align: center;
 }
