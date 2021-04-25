@@ -443,7 +443,7 @@ img.header-logo {
 /* Blocs */
 div.column-right {
     width: 240px;
-    position: static;
+    position: fixed;
     right: 0;
 }
 div.column-main {
