@@ -82,19 +82,23 @@
 			<br>
 			<!-- Contenu -->
 			<main>
-				<script language="Javascript">
-					rss();
-				</script>
-		    	<form>
-        			<p>
-		            	<input type="text" name="profil" id="profil" placeholder="Saisissez le nom de la série en minuscule" required>
-        		    	<input type="submit" value="Rechercher">
-		        	</p>
-		    	</form>
-		    	<div id="infos">
+				<div class="column-right">
+					<script language="Javascript">
+						rss();
+					</script>
+				</div>
+				<div class="column-main">
+		    		<form>
+        				<p>
+		            		<input type="text" name="profil" id="profil" placeholder="Saisissez le nom de la série en minuscule" required>
+        		    		<input type="submit" value="Rechercher">
+		        		</p>
+		    		</form>
+		    		<div id="infos">
+		    		</div>
+		    		<script src="/tv-series/codes/js/ajax.js"></script>
+		    		<script src="/tv-series/codes/js/use-api.js"></script>
 		    	</div>
-		    	<script src="/tv-series/codes/js/ajax.js"></script>
-		    	<script src="/tv-series/codes/js/use-api.js"></script>
 			</main>
 			<br>
 			<!-- Bas -->

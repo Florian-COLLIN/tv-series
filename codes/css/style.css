@@ -378,31 +378,6 @@ p.dates::before {
     content: "- ";
     white-space: normal;
 }
-section.rss {
-    display:block;
-    position:relative;
-    width: 25%;
-    border-left: 2px solid black;
-}
-section.rss article {
-    padding-left: 5px;
-}
-section.rss article div.news-title {
-    font-variant: small-caps;
-    font-size: 2;
-    color: gray;
-}
-section.rss article div.news-desc {
-    font-size: smaller;
-    text-align: justify;
-}
-section.rss article div.rss-date {
-    color: gray;
-    font-size: smaller;
-}
-section.rss hr {
-    color: gray;
-}
 .onglet {
     display: inline-block;
     cursor: pointer;
@@ -464,6 +439,40 @@ a#cRetour.cVisible {
 img.header-logo {
     max-width: 350px;
     height: auto;
+}
+/* Blocs */
+div.column-right {
+    float: right;
+    width: 25%;
+}
+div.column-main {
+    float: left;
+    width: 70%;
+}
+section.rss {
+    display:block;
+    position:relative;
+    width: 25%;
+    border-left: 2px solid black;
+}
+section.rss article {
+    padding-left: 5px;
+}
+section.rss article div.news-title {
+    font-variant: small-caps;
+    font-size: 2;
+    color: gray;
+}
+section.rss article div.news-desc {
+    font-size: smaller;
+    text-align: justify;
+}
+section.rss article div.rss-date {
+    color: gray;
+    font-size: smaller;
+}
+section.rss hr {
+    color: gray;
 }
 /***********************************************************************************************************************
 
