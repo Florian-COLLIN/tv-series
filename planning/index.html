@@ -1,17 +1,48 @@
 <!DOCTYPE html>
 <html lang="fr">
 	<head>
+		<!-- Title -->
+		<title>Planning de diffusions | IFSD</title>
+
+		<!-- Meta -->
 		<meta charset="utf-8">
-		<title>Planning | Séries télévisées en France</title>
-		<link rel="stylesheet" href="/tv-series/codes/css/style.css">
+		<meta name="viewport" content="width=device-width,initial-scale=1">
+		<meta name="robots" content="index, follow">
+		<meta name="keyword" content="planning, de, diffusion, s, series, televisees, France, ifsd">
+		<meta name="title" content="Planning de diffusions | IFSD">
+		<meta name="description" content="Plannings de diffusions des séries télévisées en France.">
+		<meta name="author" content="Florian COLLIN">
 		<meta name="google-site-verification" content="LtAxL9cF4mueu5t4UB2MNOAmeY73LBvpkPvmSx5qsxs" />
-		<meta name="keyword" content="planning, series, televisees, France">
+
+		<!-- Script -->
+		<script type="text/javascript" src="/tv-series/codes/js/javascript.js"></script>
+		<script type="text/javascript" src="/tv-series/codes/js/jquery.js"></script>
+
+		<!-- Base -->
+		<base href="https://florian-collin.github.io/tv-series/planning/">
+
+		<!-- Link -->
+		<link rel="stylesheet" href="/tv-series/codes/css/style.css">
+		<!-- Icône -->
+		<link rel="icon" href="/tv-series/codes/images/official/logo_small_icon_only.png">
+		<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/tv-series/codes/images/official/logo_small_icon_only.png" type="image/png">
+
+		<link href="/tv-series/codes/css/print.css" rel="stylesheet" media="print">
+		<link href="/tv-series/codes/css/mobile.css" rel="stylesheet" media="screen and (max-width: 600px)">
+		<link rel="alternate" type="application/rss+xml" href="/tv-series/codes/news.rss" title="RSS du site">
 	</head>
 	<body>
+		<div id="haut"></div>
 		<br>
 		<!-- Partie supérieur -->
 		<header>
-			<h1 class="sites"><a href="/tv-series/">Séries télévisées en France</a></h1>
+			<br>
+			<center><a href="/tv-series/"><img src="/tv-series/codes/images/official/logo_large.png" alt="Retour à l'accueil" class="header-logo"></a></center>
+			<br>
+			<center>
+				<script async src="https://cse.google.com/cse.js?cx=e42150d74d48a0ebd"></script>
+				<div class="gcse-search"></div>
+			</center>
 		</header>
 		<br>
 		<!-- Navigation -->
@@ -19,17 +50,29 @@
 			<ul>
 				<li class="deroulant"><a href="/tv-series/series/">Séries tendances</a>
 					<ul class="sous">
-						<li><a href="/tv-series/series/ici-tout-commence.html"><i>Ici tout commence</i></a></li>
-						<li><a href="/tv-series/series/sam.html"><i>Sam</i></a></li>
-						<li><a href="/tv-series/series/la-promesse.html"><i>La Promesse</i></a></li>
-						<li><a href="/tv-series/series/doc.html"><i>Doc</i></a></li>
-						<li><a href="/tv-series/series/je-te-promets.html"><i>Je te promets</i></a></li>
+						<li><a href="/tv-series/series/plus-belle-la-vie.html" title="Plus belle la vie"><i>Plus belle la vie</i></a></li>
+						<li><a href="/tv-series/series/demain-nous-appartient.html" title="Demain nous appartient"><i>Demain nous appartient</i></a></li>
+						<li><a href="/tv-series/series/ici-tout-commence.html" title="Ici tout commence"><i>Ici tout commence</i></a></li>
+						<li><a href="/tv-series/series/un-si-grand-soleil.html" title="Un si grand soleil"><i>Un si grand soleil</i></a></li>
+						<li><a href="/tv-series/series/clem.html" title="Clem"><i>Clem</i></a></li>
+						<li><a href="/tv-series/series/" title="Séries télévisées">Autres</a></li>
 					</ul>
 				</li>
 				<li class="deroulant"><a href="/tv-series/news/">Actualités</a>
 					<ul class="sous">
-						<li><a href="/news/2021/01/top-series-2020.html">Top des séries françaises 2020</a></li>
-						<li><a href="/news/2021/01/ici-tout-commence-deprogramme.html">Ici tout commence déprogrammé</a></li>
+						<li><a href="/tv-series/news/category/disney+.html" title="News Disney+">Disney+</a></li>
+						<li><a href="/tv-series/news/category/netflix.html" title="News Netflix">Netflix</a></li>
+						<li><a href="/tv-series/news/category/tf1.html" title="News TF1">TF1</a></li>
+						<li><a href="/tv-series/news/category/francetv.html" title="News France TV">France TV</a></li>
+					</ul>
+				</li>
+				<li class="deroulant"><a href="/tv-series/planning/">Planning de diffusions</a>
+					<ul class="sous">
+						<li><a href="/tv-series/planning/2021/05.html" title="Mai 2021">Mai 2021</a></li>
+						<li><a href="/tv-series/planning/2021/04.html" title="Avril 2021">Avril 2021</a></li>
+						<li><a href="/tv-series/planning/2021/03.html" title="Mars 2021">Mars 2021</a></li>
+						<li><a href="/tv-series/planning/2021/02.html" title="Février 2021">Février 2021</a></li>
+						<li><a href="/tv-series/planning/2021/01.html" title="Janvier 2021">Janvier 2021</a></li>
 					</ul>
 				</li>
 				<li><a href="/tv-series/contact.html">Contact</a></li>
@@ -39,21 +82,68 @@
 			<br>
 			<!-- Contenu -->
 			<main>
-				<section class="panning-main">
-					<ul>
-						<li><a href="/tv-series/planning/2021/" title="Planning de 2021">2021</a></li>
+				<div class="column-right">
+					<section class="rss">
+						<script language="Javascript">
+							rss();
+						</script>
+					</section>
+				</div>
+				<div class="column-main">
+					<section class="panning-main">
 						<ul>
-							<li><a href="/tv-series/planning/2021/01.html" title="Planning de janvier 2021">Janvier 2021</a></li>
-							<li><a href="/tv-series/planning/2021/02.html" title="Planning de févier 2021">Février 2021</a></li>
-							<li><a href="/tv-series/planning/2021/03.html" title="Planning de mars 2021">Mars 2021</a></li>
-							<li><a href="/tv-series/planning/2021/04.html" title="Planning d'avril 2021">Avril 2021</a></li>
+							<li><a href="/tv-series/planning/2021/" title="Planning de 2021">2021</a></li>
+							<ul>
+								<li><a href="/tv-series/planning/2021/01.html" title="Planning de janvier 2021">Janvier 2021</a></li>
+								<li><a href="/tv-series/planning/2021/02.html" title="Planning de févier 2021">Février 2021</a></li>
+								<li><a href="/tv-series/planning/2021/03.html" title="Planning de mars 2021">Mars 2021</a></li>
+								<li><a href="/tv-series/planning/2021/04.html" title="Planning d'avril 2021">Avril 2021</a></li>
+								<li><a href="/tv-series/planning/2021/05.html" title="Planning de mai 2021">Mai 2021</a></li>
+							</ul>
 						</ul>
-					</ul>
-				</section>
+					</section>
+				</div>
 			</main>
 			<br>
 			<!-- Bas -->
 			<footer>
+				<div id="accueil">
+					<div class="portail-gauche">
+						<h2 class="footer">Rédaction</h2>
+						<ul>
+							<li><a href="https://github.com/Florian-COLLIN/tv-series" title="Code source du site internet sur GitHub">Code source</a></li>
+							<li><a href="/tv-series/sites/developeers.html" title="Developpeurs du site">Développeurs</a></li>
+							<li><a href="/tv-series/sites/redactors.html" title="Rédacteurs du site">Rédacteurs</a></li>
+						</ul>
+					</div>
+					<div class="portail-droite">
+						<h2 class="footer">Séries</h2>
+						<ul>
+							<li><a href="/tv-series/series/" title="Liste des séries">Séries télévisées</a></li>
+							<li><a href="/tv-series/planning/" title="Planning des séries">Planning</a></li>
+							<li><a href="/tv-series/news/" title="Actualités des séries">Actualités</a></li>
+
+						</ul>
+					</div>
+					<div id="accueil">
+						<div class="portail-gauche">
+							<h2 class="footer">Contribuer et informations</h2>
+							<ul>
+								<li><a href="https://github.com/Florian-COLLIN/tv-series/blob/main/README.md" title="README sur GitHub">README (anglais/français)</a></li>
+								<li><a href="https://github.com/Florian-COLLIN/tv-series/blob/main/LICENSE" title="License sur GitHub">License (anglais)</a></li>
+								<li><a href="https://github.com/Florian-COLLIN/tv-series/blob/main/CONTRIBUTING.md" title="Comment contribuer sur GitHub">Contribuer (anglais/français)</a></li>
+								<li><a href="https://github.com/Florian-COLLIN/tv-series/blob/main/CODE_OF_CONDUCT.md" title="Code de conduite sur GitHub">Code de conduite (anglais)</a></li>
+								<li><a href="https://github.com/Florian-COLLIN/tv-series/blob/main/CHANGELOG.md" title="CHANGELOG sur GitHub">Mises à jours</a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+				<div class="copyright">
+					<p>&copy;&nbsp;2021&nbsp;-&nbsp;<script language="JavaScript" type="text/JavaScript">affiche_annee();</script>&nbsp;-&nbsp;IFSD</p>
+				</div>
+				<div>
+					<a id="cRetour" class="cInvisible" href="#haut"></a>
+				</div>
 			</footer>
 		</div>
 	</body>
