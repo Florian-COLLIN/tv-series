@@ -1,27 +1,48 @@
 <!DOCTYPE html>
 <html lang="fr">
 	<head>
+		<!-- Title -->
+		<title>IFSD</title>
+
+		<!-- Meta -->
 		<meta charset="utf-8">
-		<title>Séries télévisées en France</title>
-		<link rel="stylesheet" href="/tv-series/codes/css/style.css">
-		<meta name="identifier-url" content="https://florian-collin.github.io/tv-series/">
-		<meta name="title" content="Séries télévisées en France">
+		<meta name="viewport" content="width=device-width,initial-scale=1">
+		<meta name="robots" content="index, follow">
+		<meta name="keyword" content="series, televisees, France, ifsd">
+		<meta name="title" content="IFSD">
 		<meta name="description" content="Listes et plannings des séries télévisées en France">
-		<meta name="abstract" content="Listes et plannings des séries télévisées en France">
-		<meta name="keyword" content="series,s,TV,télévision,france">
 		<meta name="author" content="Florian COLLIN">
-		<meta name="revisit-after" content="15">
-		<meta name="language" content="FR">
-		<meta name="copyright" content="© 2021 Florian COLLIN">
-		<meta name="robots" content="Index">
-		<meta name="google-site-verification" content="LtAxL9cF4mueu5t4UB2MNOAmeY73LBvpkPvmSx5qsxs">
+		<meta name="google-site-verification" content="LtAxL9cF4mueu5t4UB2MNOAmeY73LBvpkPvmSx5qsxs" />
+
+		<!-- Script -->
+		<script type="text/javascript" src="/tv-series/codes/js/javascript.js"></script>
+		<script type="text/javascript" src="/tv-series/codes/js/jquery.js"></script>
+
+		<!-- Base -->
+		<base href="https://florian-collin.github.io/tv-series/api.html">
+
+		<!-- Link -->
+		<link rel="stylesheet" href="/tv-series/codes/css/style.css">
+		<!-- Icône -->
+		<link rel="icon" href="/tv-series/codes/images/official/logo_small_icon_only.png">
+		<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/tv-series/codes/images/official/logo_small_icon_only.png" type="image/png">
+
+		<link href="/tv-series/codes/css/print.css" rel="stylesheet" media="print">
+		<link href="/tv-series/codes/css/mobile.css" rel="stylesheet" media="screen and (max-width: 600px)">
+		<link rel="alternate" type="application/rss+xml" href="/tv-series/codes/news.rss" title="RSS du site">
 	</head>
 	<body>
+		<div id="haut"></div>
 		<br>
 		<!-- Partie supérieur -->
 		<header>
-			<h1 class="sites"><a href="/tv-series/">Séries télévisées en France</a></h1>
-			<center><a href="http://www.supportduweb.com/topsite_vote-3903.html"><img src="http://www.supportduweb.com/images/topsite/vote02.gif" alt="Voter pour un site internet"></a></center>
+			<br>
+			<center><a href="/tv-series/"><img src="/tv-series/codes/images/official/logo_large.png" alt="Retour à l'accueil" class="header-logo"></a></center>
+			<br>
+			<center>
+				<script async src="https://cse.google.com/cse.js?cx=e42150d74d48a0ebd"></script>
+				<div class="gcse-search"></div>
+			</center>
 		</header>
 		<br>
 		<!-- Navigation -->
@@ -29,17 +50,29 @@
 			<ul>
 				<li class="deroulant"><a href="/tv-series/series/">Séries tendances</a>
 					<ul class="sous">
-						<li><a href="/tv-series/series/ici-tout-commence.html"><i>Ici tout commence</i></a></li>
-						<li><a href="/tv-series/series/sam.html"><i>Sam</i></a></li>
-						<li><a href="/tv-series/series/la-promesse.html"><i>La Promesse</i></a></li>
-						<li><a href="/tv/series/series/doc.html"><i>Doc</i></a></li>
-						<li><a href="/tv-series/series/je-te-promets.html"><i>Je te promets</i></a></li>
+						<li><a href="/tv-series/series/plus-belle-la-vie.html" title="Plus belle la vie"><i>Plus belle la vie</i></a></li>
+						<li><a href="/tv-series/series/demain-nous-appartient.html" title="Demain nous appartient"><i>Demain nous appartient</i></a></li>
+						<li><a href="/tv-series/series/ici-tout-commence.html" title="Ici tout commence"><i>Ici tout commence</i></a></li>
+						<li><a href="/tv-series/series/un-si-grand-soleil.html" title="Un si grand soleil"><i>Un si grand soleil</i></a></li>
+						<li><a href="/tv-series/series/clem.html" title="Clem"><i>Clem</i></a></li>
+						<li><a href="/tv-series/series/" title="Séries télévisées">Autres</a></li>
 					</ul>
 				</li>
 				<li class="deroulant"><a href="/tv-series/news/">Actualités</a>
 					<ul class="sous">
-						<li><a href="/news/2021/01/top-series-2020.html">Top des séries françaises 2020</a></li>
-						<li><a href="/news/2021/01/ici-tout-commence-deprogramme.html">Ici tout commence déprogrammé</a></li>
+						<li><a href="/tv-series/news/category/disney+.html" title="News Disney+">Disney+</a></li>
+						<li><a href="/tv-series/news/category/netflix.html" title="News Netflix">Netflix</a></li>
+						<li><a href="/tv-series/news/category/tf1.html" title="News TF1">TF1</a></li>
+						<li><a href="/tv-series/news/category/francetv.html" title="News France TV">France TV</a></li>
+					</ul>
+				</li>
+				<li class="deroulant"><a href="/tv-series/planning/">Planning de diffusions</a>
+					<ul class="sous">
+						<li><a href="/tv-series/planning/2021/05.html" title="Mai 2021">Mai 2021</a></li>
+						<li><a href="/tv-series/planning/2021/04.html" title="Avril 2021">Avril 2021</a></li>
+						<li><a href="/tv-series/planning/2021/03.html" title="Mars 2021">Mars 2021</a></li>
+						<li><a href="/tv-series/planning/2021/02.html" title="Février 2021">Février 2021</a></li>
+						<li><a href="/tv-series/planning/2021/01.html" title="Janvier 2021">Janvier 2021</a></li>
 					</ul>
 				</li>
 				<li><a href="/tv-series/contact.html">Contact</a></li>
@@ -49,63 +82,109 @@
 			<br>
 			<!-- Contenu -->
 			<main>
-				<div id="accueil">
-					<div class="portail-gauche">
-						<section class="main-sorties">
-							<div class="titre"><a href="/tv-series/series/">Séries en cours de diffusion</a></div>
-							<ul>
-								<li><a href="/tv-series/planning/2021/">2021</a></li>
+				<div class="column-right">
+					<section class="rss">
+						<script language="Javascript">
+							rss();
+						</script>
+					</section>
+				</div>
+				<div class="column-main">
+					<div id="accueil">
+						<div class="portail-gauche">
+							<section class="main-sorties">
+								<div class="titre"><a href="/tv-series/series/">Séries en cours de diffusion</a></div>
 								<ul>
-									<li><a href="/tv-series/planning/2021/01.html" title="Planning des sorties de janvier 2021">Janvier 2021</a></li>
-									<li><a href="/tv-series/planning/2021/02.html" title="Planning des sorties de février 2021">Février 2021</a></li>
-									<li><a href="/tv-series/planning/2021/03.html" title="Planning des sorties de mars 2021">Mars 2021</a></li>
-									<li><a href="/tv-series/planning/2021/04.html" title="Planning des sorties d'avril 2021">Avril 2021</a></li>
+									<li><a href="/tv-series/planning/2021/">2021</a></li>
+									<ul>
+										<li><a href="/tv-series/planning/2021/01.html" title="Planning des sorties de janvier 2021">Janvier 2021</a></li>
+										<li><a href="/tv-series/planning/2021/02.html" title="Planning des sorties de février 2021">Février 2021</a></li>
+										<li><a href="/tv-series/planning/2021/03.html" title="Planning des sorties de mars 2021">Mars 2021</a></li>
+										<li><a href="/tv-series/planning/2021/04.html" title="Planning des sorties d'avril 2021">Avril 2021</a></li>
+									</ul>
 								</ul>
-							</ul>
-						</section>
-					</div>
-					<div class="portail-droite">
-						<section class="main-article">
-							<p>Voici les cinq derniers articles disponible. <a href="/tv-series/news/">Voyagez dans le reste</a>.</p>
-							<article>
-								<div class="news-title"><a href="/tv-series/news/2021/04/ici-tout-commence-report-de-l-episode-124.html">Ici tout commence : report de l'épisode 124</a></div>
-								<div class="news-content">L'épisode 124 d'<i>Ici tout commence</i> a été déprogrammé ! Il était prévu initialement ce jeudi 22 avril à 18h40, et il est finalement reporté au...<br><a href="/tv-series/news/2021/04/ici-tout-commence-report-de-l-episode-124.html">Lire la suite</a></div>
-							</article>
-							<br>
-							<hr>
-							<br>
-							<article>
-								<div class="news-title"><a href="/tv-series/news/2021/04/sam-saison-6-nouvelles-infos.html">Sam (Saison 6) : nouvelles infos</a></div>
-								<div class="news-content">Hier, lundi 12 avril 2021 commençait le tournage de la saison 6 de <i>Sam</i>, dont nous <a href="/tv-series/news/2021/01/sam-renouvele-pour-une-saison-6.html" hreflang="fr" title="Sam renouvelé pour une saison 6">avions évoqué son renouvelement en janvier</a>. Mais de nouvelles...<br><a href="/tv-series/news/2021/04/sam-saison-6-nouvelles-infos.html">Lire la suite</a></div>
-							</article>
-							<br>
-							<hr>
-							<br>
-							<article>
-								<div class="news-title"><a href="/tv-series/news/2021/04/big-sky-partie-2.html">Big Sky : partie 2 [Théories]</a></div>
-								<div class="news-content">La dernière fois que nous avions parlé de Big Sky, c'était pour y annoncer, qu'il reprendrait aux &Eacute;tats-Unis le 13 avril. Cette semaine, nous avons...<br><a href="/tv-series/news/2021/04/big-sky-partie-2.html">Lire la suite</a></div>
-							</article>
-							<br>
-							<hr>
-							<br>
-							<article>
-								<div class="news-title"><a href="/tv-series/news/2021/04/reprise-de-big-sky.html">Reprise de Big Sky</a></div>
-								<div class="news-content">Le 13 avril prochain, <a href="/tv-series/series/big-sky.html"><i>Big Sky</i></a> reprendra !</b> Eh oui, même si beaucoup croyait que ça s'arrêtera à...<br><a href="/tv-series/news/2021/04/reprise-de-big-sky.html">Lire la suite</a></div>
-							</article>
-							<br>
-							<hr>
-							<br>
-							<article>
-								<div class="news-title"><a href="/tv-series/news/2021/03/nouveautes-disney+-du-12-mars-2021.html">Nouveautés Disney+ du 11 mars 2021</a></div>
-								<div class="news-content">Quelles nouveautés pour Disney+ le 11 mars 2021 ?</b> Disney+ qui ne fait que gagner du terrain, nous faisons le tour de son catalogue qui sera ajouté le...<br><a href="/tv-series/news/2021/03/nouveautes-disney+-du-12-mars-2021.html">Lire la suite</a></div>
-							</article>
-						</section>
+							</section>
+						</div>
+						<div class="portail-droite">
+							<section class="main-article">
+								<p>Voici les cinq derniers articles disponible. <a href="/tv-series/news/">Voyagez dans le reste</a>.</p>
+								<article>
+									<div class="news-title"><a href="/tv-series/news/2021/04/ici-tout-commence-report-de-l-episode-124.html">Ici tout commence : report de l'épisode 124</a></div>
+									<div class="news-content">L'épisode 124 d'<i>Ici tout commence</i> a été déprogrammé ! Il était prévu initialement ce jeudi 22 avril à 18h40, et il est finalement reporté au...<br><a href="/tv-series/news/2021/04/ici-tout-commence-report-de-l-episode-124.html">Lire la suite</a></div>
+								</article>
+								<br>
+								<hr>
+								<br>
+								<article>
+									<div class="news-title"><a href="/tv-series/news/2021/04/sam-saison-6-nouvelles-infos.html">Sam (Saison 6) : nouvelles infos</a></div>
+									<div class="news-content">Hier, lundi 12 avril 2021 commençait le tournage de la saison 6 de <i>Sam</i>, dont nous <a href="/tv-series/news/2021/01/sam-renouvele-pour-une-saison-6.html" hreflang="fr" title="Sam renouvelé pour une saison 6">avions évoqué son renouvelement en janvier</a>. Mais de nouvelles...<br><a href="/tv-series/news/2021/04/sam-saison-6-nouvelles-infos.html">Lire la suite</a></div>
+								</article>
+								<br>
+								<hr>
+								<br>
+								<article>
+									<div class="news-title"><a href="/tv-series/news/2021/04/big-sky-partie-2.html">Big Sky : partie 2 [Théories]</a></div>
+									<div class="news-content">La dernière fois que nous avions parlé de Big Sky, c'était pour y annoncer, qu'il reprendrait aux &Eacute;tats-Unis le 13 avril. Cette semaine, nous avons...<br><a href="/tv-series/news/2021/04/big-sky-partie-2.html">Lire la suite</a></div>
+								</article>
+								<br>
+								<hr>
+								<br>
+								<article>
+									<div class="news-title"><a href="/tv-series/news/2021/04/reprise-de-big-sky.html">Reprise de Big Sky</a></div>
+									<div class="news-content">Le 13 avril prochain, <a href="/tv-series/series/big-sky.html"><i>Big Sky</i></a> reprendra !</b> Eh oui, même si beaucoup croyait que ça s'arrêtera à...<br><a href="/tv-series/news/2021/04/reprise-de-big-sky.html">Lire la suite</a></div>
+								</article>
+								<br>
+								<hr>
+								<br>
+								<article>
+									<div class="news-title"><a href="/tv-series/news/2021/03/nouveautes-disney+-du-12-mars-2021.html">Nouveautés Disney+ du 11 mars 2021</a></div>
+									<div class="news-content">Quelles nouveautés pour Disney+ le 11 mars 2021 ?</b> Disney+ qui ne fait que gagner du terrain, nous faisons le tour de son catalogue qui sera ajouté le...<br><a href="/tv-series/news/2021/03/nouveautes-disney+-du-12-mars-2021.html">Lire la suite</a></div>
+								</article>
+							</section>
+						</div>
 					</div>
 				</div>
 			</main>
 			<br>
 			<!-- Bas -->
 			<footer>
+				<div id="accueil">
+					<div class="portail-gauche">
+						<h2 class="footer">Rédaction</h2>
+						<ul>
+							<li><a href="https://github.com/Florian-COLLIN/tv-series" title="Code source du site internet sur GitHub">Code source</a></li>
+							<li><a href="/tv-series/sites/developeers.html" title="Developpeurs du site">Développeurs</a></li>
+							<li><a href="/tv-series/sites/redactors.html" title="Rédacteurs du site">Rédacteurs</a></li>
+						</ul>
+					</div>
+					<div class="portail-droite">
+						<h2 class="footer">Séries</h2>
+						<ul>
+							<li><a href="/tv-series/series/" title="Liste des séries">Séries télévisées</a></li>
+							<li><a href="/tv-series/planning/" title="Planning des séries">Planning</a></li>
+							<li><a href="/tv-series/news/" title="Actualités des séries">Actualités</a></li>
+
+						</ul>
+					</div>
+					<div id="accueil">
+						<div class="portail-gauche">
+							<h2 class="footer">Contribuer et informations</h2>
+							<ul>
+								<li><a href="https://github.com/Florian-COLLIN/tv-series/blob/main/README.md" title="README sur GitHub">README (anglais/français)</a></li>
+								<li><a href="https://github.com/Florian-COLLIN/tv-series/blob/main/LICENSE" title="License sur GitHub">License (anglais)</a></li>
+								<li><a href="https://github.com/Florian-COLLIN/tv-series/blob/main/CONTRIBUTING.md" title="Comment contribuer sur GitHub">Contribuer (anglais/français)</a></li>
+								<li><a href="https://github.com/Florian-COLLIN/tv-series/blob/main/CODE_OF_CONDUCT.md" title="Code de conduite sur GitHub">Code de conduite (anglais)</a></li>
+								<li><a href="https://github.com/Florian-COLLIN/tv-series/blob/main/CHANGELOG.md" title="CHANGELOG sur GitHub">Mises à jours</a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+				<div class="copyright">
+					<p>&copy;&nbsp;2021&nbsp;-&nbsp;<script language="JavaScript" type="text/JavaScript">affiche_annee();</script>&nbsp;-&nbsp;IFSD</p>
+				</div>
+				<div>
+					<a id="cRetour" class="cInvisible" href="#haut"></a>
+				</div>
 			</footer>
 		</div>
 	</body>
