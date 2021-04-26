@@ -299,14 +299,14 @@ abbr {
 }
 /* Pour le copyright en bas de page */
 div.copyright {
-    height: 30px;
+    height: 50px;
     background-color: rgb(150, 0, 0);
     align-content: center;
 }
 div.copyright p {
     text-align: center;
-    padding-top: 10px;
-    padding-bottom: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 /* Sujet de l'actualité */
 div.news-subject {
