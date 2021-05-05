@@ -1,9 +1,14 @@
 <?xml version="1.0"?>
 <rss version = "2.0">
 	<canal>
-		<title>Articles de Séries télévisées en France</title>
-		<description> Articles d'un utilisateur de wikiHow. </description>
+		<title>Articles de la IFSD</title>
+		<description>Liste des articles de la IFSD ces trois derniers mois.</description>
 		<link>https://florian-collin.github.io/tv-series/news/</link>
+		<item>
+			<title>Version 2 de notre site internet</title>
+			<description>Ce soir, aux alentours de 21h25, a été publié la version 2.0 de notre site internet. Elle comprend de nombreuses nouveautés mais aussi des mises à jour :</description>
+			<link>https://florian-collin.github.io/tv-series/2021/04/version-2-de-notre-site-internet.html</link>
+		</item>
 		<item>
 			<title>Ici tout commence : report de l'épisode 124</title>
 			<description>L'épisode 124 d'Ici tout commence a été déprogrammé ! Il était prévu initialement ce jeudi 22 avril à 18h40, et il est finalement reporté au vendredi 23 avril à 18h. Et pour cause Jean Castex prend la parole à cette heure-là.</description>
