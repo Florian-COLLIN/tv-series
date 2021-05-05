@@ -386,27 +386,37 @@ p.dates::before {
     content: "- ";
     white-space: normal;
 }
-.onglet {
+/* Onglets */
+.systeme_onglets .onglet {
     display: inline-block;
+    margin-left: 3px;
+    margin-right: 3px;
+    padding: 3px;
+    border: 1px solid black;
     cursor: pointer;
 }
-.onglet_0 {}
-.onglet_1 /*onglet actif*/ {}
-.contenu_onglet {
-    width: 275px;
-    height: 133px;
+.systeme_onglets .onglet_0 {
+    background: #bbbbbb;
+    border-bottom: 1px solid black;
+}
+.systeme_onglets .onglet_1 {
+    background: #dddddd;
+    border-bottom: 0px solid black;
+    padding-bottom: 4px;
+}
+.systeme_onglets .contenu_onglet {
     background-color: #dddddd;
     border: 1px solid black;
-    margin-top: 0px;
+    margin-top: -1px;
     padding: 5px;
     display: none;
 }
-div.systeme_onglets ul {
+.systeme_onglets ul {
     margin-top: 0px;
     margin-bottom: 0px;
     margin-left: -10px
 }
-div.systeme_onglets h1 {
+.systeme_onglets h1 {
     margin: 0px;
     padding: 0px;
 }
