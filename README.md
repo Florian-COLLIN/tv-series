@@ -18,3 +18,6 @@ La section `/planning/` concerne les plannings des diffusions de nouveaux épiso
 
 ### series
 Le dossier `/series/` concerne la liste des séries (diffusés à partir du 1<sup>er</sup> janvier 2021).
+
+### sites
+Le dossier `/sites` contient des informations complémentaires relatives au site de la IFSD.
