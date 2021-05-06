@@ -14,7 +14,7 @@ La section `/codes/api/`, dans le dossier `/codes/` contient aussi les fichers J
 Le `/news/` contient les dernières actualités.
 
 ### planning
-La section `/planning/` concerne les plannings des diffusions de nouveaux épisodes de séries en France. Il est mis à jour quotidinnement, et contient une sous-page pour chaque mois.
+Le dossier `/planning/` concerne les plannings des diffusions de nouveaux épisodes de séries en France. Il est mis à jour quotidinnement, et contient une sous-page pour chaque mois.
 
 ### series
 Le dossier `/series/` concerne la liste des séries (diffusés à partir du 1<sup>er</sup> janvier 2021).
