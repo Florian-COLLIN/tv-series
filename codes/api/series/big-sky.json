@@ -1,7 +1,7 @@
 {
 	"titre": "Big Sky",
-	"saisons": 1,
-	"episodes": 4,
+	"saisons": 2,
+	"episodes": 16,
 	"liste_episodes": {
 		"S1": [
 			"Pilote",
@@ -20,6 +20,7 @@
 			"Nice Animals",
 			"Bitter Roots",
 			"Love is a Strange and Dangerous Thing"
-		]
+		],
+		"S2": []
 	}
 }
