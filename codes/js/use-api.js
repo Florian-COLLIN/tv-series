@@ -1,6 +1,6 @@
 /*
  * @date = 2021
- * 
+ *
  * @author = Florian COLLIN
  */
 
@@ -10,7 +10,7 @@ var formElt = document.querySelector("form");
 formElt.addEventListener("submit", function (e) {
     e.preventDefault();
     var nomProfil = formElt.elements.profil.value;
-    ajaxGet("https://florian-collin.github.io/tv-series/codes/api/series/" + nomProfil.replace( /_/g, '-' ) + ".json", function (reponse) {
+    ajaxGet("https://florian-collin.github.io/tv-series/codes/api/series/" + nomProfil + ".json", function (reponse) {
         // Transformation de la réponse en un objet JSON
         var profil = JSON.parse(reponse);
         // Création des informations sur le profil
