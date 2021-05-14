@@ -3,7 +3,6 @@
 ## Series
 * *Loki*
 * *HPI*
-* *Un Homme d'honneur*
 
 ## Planning
 * May 2021
