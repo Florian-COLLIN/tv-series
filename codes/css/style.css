@@ -331,12 +331,12 @@ h1 {
 .petit {
     font-size: smaller;
 }
-main.category article {
+main.category div.column-main article {
     height: 400px;
     width: 600px;
     position: relative;
 }
-main.category article p {
+main.category div.column-main article p {
     color: grey;
     text-align: left;
     position: absolute;
@@ -344,7 +344,7 @@ main.category article p {
     margin: 20px;
     padding: 10px;
 }
-main.category article h1 {
+main.category div.column-main article h1 {
     font-size: 175%;
     position: absolute;
     color: white;
@@ -352,7 +352,7 @@ main.category article h1 {
     margin: 20px;
     padding: 10px;
 }
-main.category article a:hover {
+main.category div.column-main article a:hover {
     color: blue;
 }
 .spoilers {
