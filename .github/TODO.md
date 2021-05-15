@@ -10,6 +10,7 @@
 - *Nina*
 - *Astrid et Raphaëlle*
 - *Chernobyl*
+- *Lupin*
 
 ## Planning
 
