@@ -1,5 +1,8 @@
 # To do list
 
+## Big changements
+- After : v2.0.1 : bug
+
 ## Series
 - *Loki*
 - *HPI*
@@ -14,5 +17,5 @@
 
 ## Planning
 
-## Big changements
-- After : v2.0.1 : bug
+## News
+- HPI renouvelé pour une saison 2
