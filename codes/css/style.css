@@ -365,26 +365,26 @@ main.news h1 {
     text-align: center;
     text-transform: uppercase;
 }
-div.author {
+ul.author {
     text-align: center;
-    display: inline-block;
+    display: inline;
     margin-left: 0;
 }
-p.author::before {
+li.author::before {
     content: "Par ";
     color: grey;
 }
-p.author::after {
+li.author::after {
     content: " ";
     color: black;
 }
-p.author {
+li.author {
     color: grey;
 }
-p.dates {
+li.dates {
     color: grey;
 }
-p.dates::before {
+li<.dates::before {
     content: "- ";
     white-space: normal;
 }
