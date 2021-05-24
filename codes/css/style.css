@@ -384,7 +384,7 @@ li.author {
 li.dates {
     color: grey;
 }
-li<.dates::before {
+li.dates::before {
     content: "- ";
     white-space: normal;
 }
