@@ -182,10 +182,12 @@ td {
     cursor: default;
     border-radius: 3px;
     box-shadow: rgba(255, 255, 255, 0.4) 0 1px, inset 0 20px 20px -10px white;
+    width: 80%
 }
 #isexpanded:checked ~ #expand-btn, #isexpanded:checked ~ * #expand-btn {
     background: #B5B5B5;
     box-shadow: inset rgba(0, 0, 0, 0.4) 0 -5px 12px, inset rgba(0, 0, 0, 1) 0 1px 3px, rgba(255, 255, 255, 0.4) 0 1px;
+    width: 80%;
 }
 #isexpanded, .expandable {
     display: none;
