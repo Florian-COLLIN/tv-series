@@ -1,0 +1,27 @@
+{
+    "titre": "Astrid et Raphaëlle",
+    "saisons": 2,
+    "episodes": 16,
+    "liste_episodes": {
+        "S1": [
+            "Hantise",
+            "Hantise",
+            "Chaînon manquant",
+            "Chambre close",
+            "Fulcanelli",
+            "L’homme qui n’existait pas",
+            "La Mort Et Compagnie",
+            "Invisible"
+        ],
+        "S2": [
+            "L'étourneau",
+            "Irezumi",
+            "Le paradoxe de Fermi",
+            "Point d'orgue",
+            "Circé",
+            "Golem",
+            "Le livre",
+            "En garde à vue"
+        ]
+    }
+}
