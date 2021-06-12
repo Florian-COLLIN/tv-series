@@ -494,6 +494,15 @@ section.rss article div.rss-date {
 section.rss hr {
     color: gray;
 }
+header div.blue-frame {
+    border-radius: 3px;
+    height: 10px;
+    border-color: blue;
+    background-color: white;
+}
+header div.blue-frame:hover {
+    background-color: lightblue;
+}
 /***********************************************************************************************************************
 
 
