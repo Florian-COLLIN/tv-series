@@ -499,6 +499,7 @@ header div.blue-frame {
     height: 10px;
     border-color: blue;
     background-color: white;
+    width:  auto;
 }
 header div.blue-frame:hover {
     background-color: lightblue;
