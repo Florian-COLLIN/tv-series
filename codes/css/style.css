@@ -503,6 +503,8 @@ header div.blue-frame {
     display: inline-block;
     border-color: blue;
     background-color:  white;
+    border-width: 2px;
+    border-color: blue;
 }
 header div.blue-frame:hover {
     background-color: lightblue;
