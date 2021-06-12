@@ -495,11 +495,14 @@ section.rss hr {
     color: gray;
 }
 header div.blue-frame {
-    border-radius: 3px;
-    height: 10px;
+    padding: 0.25rem 0.5rem 0.25rem 0.5rem;
+    margin: 0.5rem;
+    border-radius: 4px;
+    transition-duration: 0.25s;
+    font-weight: 300;
+    display: inline-block;
     border-color: blue;
-    background-color: white;
-    width:  auto;
+    background-color:  white;
 }
 header div.blue-frame:hover {
     background-color: lightblue;
