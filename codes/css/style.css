@@ -349,7 +349,7 @@ main.category div.column-main article p {
 main.category div.column-main article h1 {
     font-size: 175%;
     position: absolute;
-    color: white;
+    color: orange;
     bottom: 0;
     margin: 20px;
     padding: 10px;
