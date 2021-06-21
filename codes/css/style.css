@@ -50,14 +50,13 @@ footer div.droite {
 }
 footer ul li {
 	list-style-type: none;
+    font-size: smaller;
+    margin-left: -20px;
 }
 footer h2.footer {
     text-transform: uppercase;
     font-size: smaller;
     color: gray;
-}
-footer ul li {
-    font-size: smaller;
 }
 /*
  * Section
