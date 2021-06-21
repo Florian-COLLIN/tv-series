@@ -9,6 +9,7 @@ body {
 p {
     font-family: "Georgia";
     font-size: 1.2em;
+    text-indent: 20px;
 }
 /*
  * Header
