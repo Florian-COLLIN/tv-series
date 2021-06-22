@@ -394,10 +394,11 @@ main.news h1 {
 ul.author {
     margin-left: 0;
     list-style-type: none;
+    text-align: center;
 }
 ul.author li {
-    text-align: center;
     display: inline;
+    text-align: center;
 }
 li.author::before {
     content: "Par ";
@@ -409,9 +410,11 @@ li.author::after {
 }
 li.author {
     color: grey;
+    text-align: center;
 }
 li.dates {
     color: grey;
+    text-align: center;
 }
 li.dates::before {
     content: "- ";
