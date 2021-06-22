@@ -392,10 +392,12 @@ main.news h1 {
     text-transform: uppercase;
 }
 ul.author {
-    text-align: center;
-    display: inline;
     margin-left: 0;
     list-style-type: none;
+}
+ul.author li {
+    text-align: center;
+    display: inline;
 }
 li.author::before {
     content: "Par ";
