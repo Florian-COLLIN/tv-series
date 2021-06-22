@@ -396,7 +396,6 @@ ul.author {
     display: inline;
     margin-left: 0;
     list-style-type: none;
-    display: inline-block;
 }
 li.author::before {
     content: "Par ";
