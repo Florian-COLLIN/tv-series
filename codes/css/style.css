@@ -30,6 +30,9 @@ a:not(:hover) {
     transition-delay: 0.5s;
     transition-duration: 1s;
 }
+a:active {
+    color: orange;
+}
 /*
  * Header
  */
