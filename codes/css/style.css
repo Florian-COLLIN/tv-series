@@ -33,6 +33,9 @@ a:not(:hover) {
 a:active {
     color: orange;
 }
+a:visited {
+    color: gray;
+}
 /*
  * Header
  */
