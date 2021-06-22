@@ -36,6 +36,9 @@ a:active {
 a:visited {
     color: gray;
 }
+a:visited:active {
+    color: orange;
+}
 /*
  * Header
  */
