@@ -6,13 +6,29 @@ body {
 	background-image: url("https://lvdneng.rosselcdn.net/sites/default/files/dpistyles_v2/ena_16_9_extra_big/2017/06/09/node_175633/28842503/public/2017/06/09/B9712268021Z.1_20170609183132_000%2BGOU97O4H6.2-0.jpg?itok=40nCx4LS1497029307");
     background-attachment: fixed;
 }
+/* Alinéa dans les paragraphes */
 p {
     text-indent: 50px;
 }
+/* Paragraphes et listes */
 p,
 ul li {
     font-family: "Georgia";
     font-size: 1.2em;
+}
+/* Liens */
+a {
+    color: black;
+    text-decoration: underline;
+}
+a:hover {
+    transition-duration: 1s;
+    background-color: black;
+    color:  white;
+}
+a:not(:hover) {
+    transition-delay: 0.25s;
+    transition-duration: 1s;
 }
 /*
  * Header
