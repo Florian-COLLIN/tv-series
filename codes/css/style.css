@@ -6,11 +6,13 @@ body {
 	background-image: url("https://lvdneng.rosselcdn.net/sites/default/files/dpistyles_v2/ena_16_9_extra_big/2017/06/09/node_175633/28842503/public/2017/06/09/B9712268021Z.1_20170609183132_000%2BGOU97O4H6.2-0.jpg?itok=40nCx4LS1497029307");
     background-attachment: fixed;
 }
+p {
+    text-indent: 50px;
+}
 p,
 ul li {
     font-family: "Georgia";
     font-size: 1.2em;
-    text-indent: 50px;
 }
 /*
  * Header
