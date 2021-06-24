@@ -96,6 +96,11 @@
       <priority>0.8</priority>
    </url>
    <url>
+      <loc>https://florian-collin.github.io/tv-series/news/2021/06/je-te-promets-renouvelé-pour-une-saison-2.html</loc>
+      <changefreq>never</changefreq>
+      <priority>0.8</priority>
+   </url>
+   <url>
       <loc>https://florian-collin.github.io/tv-series/news/category/tf1/clem.html</loc>
       <changefreq>always</changefreq>
       <priority>0.75</priority>
