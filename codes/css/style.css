@@ -23,7 +23,7 @@ a {
 a:hover {
     transition-duration: 1s;
     background-color: black;
-    color:  white;
+    color: white;
 }
 a:not(:hover) {
     transition-delay: 0.5s;
