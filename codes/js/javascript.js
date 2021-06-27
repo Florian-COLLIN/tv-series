@@ -38,7 +38,7 @@ function rss() {
 		+'<br><hr><br>'
 		+'<article><div class="news-title"><a href="/tv-series/news/2021/06/disney+-nouveautes-de-juillet-2021.html">Disney+ : nouveautés de juillet 2021</a></div><div class="news-desc">Disney+ : nouveautés de juillet 2021...</div><div class="rss-date">22 juin 2021</div></article>'
 		+'<br><hr><br>'
-		+'<article><div class="news-title"><a href="/tv-series/news/2021/06/les-disney+-originals-sortiront-desormais-le-mercredi.html">Disney+ : les Disney+ Originals sortiront désormais le mercredi</a></div><div class="news-desc">Suite au succès de <i>Loki</i>, sur Disney+, Disney+ a décidé d\'adapter...</div><div class="rss-date">9 mai 2021</div></article>');
+		+'<article><div class="news-title"><a href="/tv-series/news/2021/06/les-disney+-originals-sortiront-desormais-le-mercredi.html">Disney+ : les Disney+ Originals sortiront désormais le mercredi</a></div><div class="news-desc">Suite au succès de <i>Loki</i>, sur Disney+, Disney+ a décidé d\'adapter...</div><div class="rss-date">21 juin 2021</div></article>');
 }
 /* </pre>
 
