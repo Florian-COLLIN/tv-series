@@ -33,7 +33,12 @@ function change_onglet(name) {
 
 <pre> */
 function rss() {
-	document.write('<article><div class="news-title"><a href="/tv-series/news/2021/06/je-te-promets-renouvelé-pour-une-saison-2.html">Je te promets : renouvelé pour une saison 2</a></div><div class="news-desc">La série Je te promets a été renouvelé il y a deux jours pour une seconde...</div><div class="rss-date">24 juin 2021</div></article><br><hr><br><article><div class="news-title"><a href="/tv-series/news/2021/06/disney+-nouveautes-de-juillet-2021.html">Disney+ : nouveautés de juillet 2021</a></div><div class="news-desc">Disney+ : nouveautés de juillet 2021...</div><div class="rss-date">22 juin 2021</div></article><br><hr><br><article><div class="news-title"><a href="/tv-series/news/2021/06/les-disney+-originals-sortiront-desormais-le-mercredi.html">Disney+ : les Disney+ Originals sortiront désormais le mercredi</a></div><div class="news-desc">Suite au succès de <i>Loki</i>, sur Disney+, Disney+ a décidé d\'adapter...</div><div class="rss-date">9 mai 2021</div></article>');
+	document.write('<article>'
+		+'<div class="news-title"><a href="/tv-series/news/2021/06/je-te-promets-renouvelé-pour-une-saison-2.html">Je te promets : renouvelé pour une saison 2</a></div><div class="news-desc">La série Je te promets a été renouvelé il y a deux jours pour une seconde...</div><div class="rss-date">24 juin 2021</div></article>'
+		+'<br><hr><br>'
+		+'<article><div class="news-title"><a href="/tv-series/news/2021/06/disney+-nouveautes-de-juillet-2021.html">Disney+ : nouveautés de juillet 2021</a></div><div class="news-desc">Disney+ : nouveautés de juillet 2021...</div><div class="rss-date">22 juin 2021</div></article>'
+		+'<br><hr><br>'
+		+'<article><div class="news-title"><a href="/tv-series/news/2021/06/les-disney+-originals-sortiront-desormais-le-mercredi.html">Disney+ : les Disney+ Originals sortiront désormais le mercredi</a></div><div class="news-desc">Suite au succès de <i>Loki</i>, sur Disney+, Disney+ a décidé d\'adapter...</div><div class="rss-date">9 mai 2021</div></article>');
 }
 /* </pre>
 
