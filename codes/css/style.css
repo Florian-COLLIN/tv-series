@@ -38,6 +38,15 @@ a:visited {
 a:visited:active {
     color: orange;
 }
+a:visited:hover {
+    transition-duration: 1s;
+    background-color: black;
+    color: white;
+}
+a:visited:not(:hover) {
+    transition-delay: 0.5s;
+    transition-duration: 1s;
+}
 /*
  * Header
  */
