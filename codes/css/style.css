@@ -34,9 +34,7 @@ a:active {
 }
 a:visited {
     color: gray;
-}
-a:visited:active {
-    color: orange;
+    text-decoration: underline;
 }
 a:visited:hover {
     transition-duration: 1s;
@@ -46,6 +44,9 @@ a:visited:hover {
 a:visited:not(:hover) {
     transition-delay: 0.5s;
     transition-duration: 1s;
+}
+a:visited:active {
+    color: orange;
 }
 /*
  * Header
