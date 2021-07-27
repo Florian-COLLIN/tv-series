@@ -4,14 +4,14 @@
 - After : v2.0.1 : bug
 
 ## Series
+- *Blacklist (2013)*
+
 - *Loki*
 - *HPI*
 - *Plan B*
-- *Esprits Criminels*
 - *Evil*
 - *Luther*
 - *Nina*
-- *Astrid et Raphaëlle*
 - *Chernobyl*
 - *Lupin*
 - *Grey's Anatomy*
