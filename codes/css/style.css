@@ -365,9 +365,10 @@ div.news-subject p {
     align-content: center;
     border: 3px black solid;
 }
-.link-API:active {
+.link-API:hover {
     background-color: darkblue;
     border: 0px black solid;
+    transition-duration: 1s;
 }
 h1 {
     margin: 0px;
