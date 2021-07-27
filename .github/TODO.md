@@ -19,4 +19,3 @@
 ## Planning
 
 ## News
-- HPI renouvelé pour une saison 2
