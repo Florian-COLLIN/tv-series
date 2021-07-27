@@ -358,10 +358,14 @@ div.news-subject p {
 }
 /* Lien vers l'API */
 .link-API {
-    height: 20px;
-    width: 40px;
-    background-color: gray;
+    height: 50px;
+    width: 100px;
+    background-color: lightblue;
     border: none;
+    align-content: center;
+}
+.link-API:active {
+    background-color: darkblue;
 }
 h1 {
     margin: 0px;
