@@ -363,7 +363,7 @@ div.news-subject p {
     background-color: lightblue;
     border: none;
     align-content: center;
-    border: 3px black solid;
+    border: 1px black solid;
 }
 .link-API:hover {
     background-color: darkblue;
