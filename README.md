@@ -1,4 +1,5 @@
 # tv-series
+[![Netlify Status](https://api.netlify.com/api/v1/badges/5ecd36f7-e764-440f-a1a4-8bc9fb3753df/deploy-status)](https://app.netlify.com/sites/ifsd/deploys)
 This is a source code, for a sites about the TV Series on France. This files is write in french.
 
 ## Dossiers
