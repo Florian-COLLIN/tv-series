@@ -560,6 +560,21 @@ header div.blue-frame {
 header div.blue-frame:hover {
     background-color: lightblue;
 }
+table.episode-details {
+    font-size: 125%;
+}
+table.episode-details tr {
+    border: none;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+}
+table.episode-details tr td.left {
+    font-weight: bold;
+    text-align: left;
+}
+table.episode-details tr td.right {
+    text-align: right;
+}
 /***********************************************************************************************************************
 
 
