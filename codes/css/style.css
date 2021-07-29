@@ -569,16 +569,17 @@ table.episode-details {
 table.episode-details tr {
     border-top: 2px solid black;
     border-bottom: 2px solid black;
-    min-height: 75px;
 }
 table.episode-details tr td.left {
     font-weight: bold;
     text-align: left;
     width: 50%;
+    min-height: 75px;
 }
 table.episode-details tr td.right {
     text-align: right;
     width: 50%;
+    min-height: 75px;
 }
 /***********************************************************************************************************************
 
