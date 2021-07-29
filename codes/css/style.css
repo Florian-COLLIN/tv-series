@@ -574,12 +574,12 @@ table.episode-details tr td.left {
     font-weight: bold;
     text-align: left;
     width: 50%;
-    min-height: 75px;
+    height: 75px;
 }
 table.episode-details tr td.right {
     text-align: right;
     width: 50%;
-    min-height: 75px;
+    height: 75px;
 }
 /***********************************************************************************************************************
 
