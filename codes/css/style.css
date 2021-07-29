@@ -200,8 +200,8 @@ table {
   	border-collapse: collapse;
   	width: 400px;
 }
-th,
-td {
+tr:not(table.episode-details),
+td:not(table.episode-details) {
   	border: 1px solid black;
   	padding: 10px;
   	vertical-align: top;
@@ -562,6 +562,7 @@ header div.blue-frame:hover {
 }
 table.episode-details {
     font-size: 125%;
+    width: 100%;
 }
 table.episode-details tr {
     border: none;
@@ -571,9 +572,11 @@ table.episode-details tr {
 table.episode-details tr td.left {
     font-weight: bold;
     text-align: left;
+    width: 50%;
 }
 table.episode-details tr td.right {
     text-align: right;
+    width: 50%;
 }
 /***********************************************************************************************************************
 
