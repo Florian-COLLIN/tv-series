@@ -196,12 +196,12 @@ nav > ul li:hover .sous {
 /*
  * Tableau
  */
-table {
+div.planning table {
   	border-collapse: collapse;
   	width: 400px;
 }
-tr:not(.episode-details),
-td:not(.episode-details) {
+div.planning tr,
+div.planning td {
   	border: 1px solid black;
   	padding: 10px;
   	vertical-align: top;
@@ -560,9 +560,11 @@ header div.blue-frame {
 header div.blue-frame:hover {
     background-color: lightblue;
 }
+/* Tableau épisodes */
 table.episode-details {
     font-size: 125%;
     width: 100%;
+    border-collapse: collapse;
 }
 table.episode-details tr {
     border-top: 2px solid black;
