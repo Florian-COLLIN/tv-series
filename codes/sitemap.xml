@@ -101,6 +101,11 @@
         <priority>0.8</priority>
     </url>
     <url>
+        <loc>https://florian-collin.github.io/tv-series/news/2021/07/ifsd-nouveautés-le-1er-septembre.html</loc>
+        <changefreq>never</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
         <loc>https://florian-collin.github.io/tv-series/news/category/tf1/clem.html</loc><changefreq>always</changefreq>
         <priority>0.75</priority>
     </url>
