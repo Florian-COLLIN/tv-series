@@ -17,6 +17,15 @@ function affiche_annee() {
 }
 /* </pre>
 
+== Affichage de la version actuelle du site ==
+
+<pre> */
+function version_ifsd() {
+	var version_ifsd = "1.0.1";
+	window.document.write("(v." + version_ifsd + ")");
+}
+/* </pre>
+
 == Onglets ==
 
 <pre> */
