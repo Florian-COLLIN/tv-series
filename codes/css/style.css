@@ -596,7 +596,7 @@ table.episode-details tr td.right {
 }
 
 .groups-follow:hover {
-    background-color: rgba(255, 0, 0, 1);
+    background-color: rgb(0, 142, 75);
 }
 
 .groups-follow:active {
