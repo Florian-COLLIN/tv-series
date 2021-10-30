@@ -24,7 +24,7 @@ a:hover {
     transition-duration: 1s;
     color: white;
 }
-a:hover:not(div.blue-frame) {
+a:hover:not(a.blue-frame) {
     background-color: black;
 }
 a:not(:hover) {
