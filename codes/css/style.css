@@ -22,8 +22,10 @@ a {
 }
 a:hover {
     transition-duration: 1s;
-    background-color: black;
     color: white;
+}
+a:hover:not(div.blue-frame) {
+    background-color: black;
 }
 a:not(:hover) {
     transition-delay: 0.5s;
