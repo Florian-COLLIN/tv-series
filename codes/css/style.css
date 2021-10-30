@@ -548,7 +548,7 @@ section.rss hr {
     color: gray;
 }
 header div.blue-frame {
-    padding: 0.25rem 0.5rem 0.25rem 0.5rem;
+    padding: 0.25rem;
     margin: 0.5rem;
     border-radius: 4px;
     transition-duration: 0.25s;
