@@ -1,7 +1,9 @@
 # To do list
 
 ## Big changements
-- After : v2.0.1 : bug
+- After : v1.0.1 : bug (Realised)
+- v1.0.2 : bug
+
 
 ## Series
 - Important
@@ -18,6 +20,7 @@
 -- *Blacklist (2013)*
 
 ## Planning
+- Create 2022 planning
 
 ## News
 
