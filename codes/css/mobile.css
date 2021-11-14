@@ -1,0 +1,21 @@
+body {
+    background-image: none;
+}
+p,
+ul li {
+    font-family: "Georgia";
+    font-size: 1.5em;
+}
+header {
+    width: auto;
+}
+main {
+    width: 100%;
+}
+div.column-right {
+    width: none;
+    float: none;
+}
+div.column-main {
+    margin-right: none;
+}
