@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <rss version = "2.0">
-	<canal>
+	<channel>
 		<title>Articles de la IFSD</title>
 		<description>Liste des articles de la IFSD ces trois derniers mois.</description>
 		<link>https://florian-collin.github.io/tv-series/news/</link>
@@ -85,5 +85,5 @@
 		    <description>Quelles nouveautés pour Disney+ le 11 mars 2021 ? Disney+ qui ne fait que gagner du terrain, nous faisons le tour de son catalogue qui sera ajouté le 11 mars 2021.</description>
 		    <link>https://florian-collin.github.io/tv-series/news/2021/03/nouveautes-disney+-du-12-mars-2021.html</link>
 		</item>
-	</canal>
+	</channel>
 </rss>
