@@ -9,9 +9,12 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 - Twitter link button.
 
 ### Changed
-- Move from ifsd.netlify.app/ to ifsd.netlify.com.
 
 ### Fixed
+
+## [1.1.0] - 2021-12-01
+### Changed
+- Move from ifsd.netlify.app/ to ifsd.netlify.com.
 
 ## [1.0.1] - 2021-10-17
 ### Added
@@ -44,6 +47,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 ### Added
 - Initial commit.
 
+[1.1.0]: https://github.com/Florian-COLLIN/releases/tag/v1.1.0
 [1.0.1]: https://github.com/Florian-COLLIN/releases/tag/v1.0.1
 [1.0.0]: https://github.com/Florian-COLLIN/releases/tag/v1.0.0
 [0.2.1]: https://github.com/Florian-COLLIN/releases/tag/v0.2.1
