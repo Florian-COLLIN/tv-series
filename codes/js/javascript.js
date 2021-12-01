@@ -21,7 +21,7 @@ function affiche_annee() {
 
 <pre> */
 function version_ifsd() {
-	var version_ifsd = "1.0.1";
+	var version_ifsd = "1.1.0";
 	window.document.write("(v." + version_ifsd + ")");
 }
 /* </pre>
