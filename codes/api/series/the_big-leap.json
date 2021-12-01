@@ -1,0 +1,20 @@
+{
+    "titre": "The Big Leap",
+    "saisons": 1,
+    "episodes": 11,
+    "liste_episodes": {
+        "S1": [
+            "Le Come-Back",
+            "Classic Tragic Love Triangle",
+            "The White Swan Lives!",
+            "Nothing but Money Shots",
+            "We Were Just Babies",
+            "I Should Have Gone to Motown",
+            "Revenge Plot",
+            "Big Dumb Life",
+            "What Prevents Us?",
+            "Swan Song",
+            "We Make Our Own Light"
+        ]
+    }
+}
