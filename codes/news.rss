@@ -5,6 +5,12 @@
 		<description>Liste des articles de la IFSD ces trois derniers mois.</description>
 		<link>https://ifsd.netlify.app/news/</link>
 		<item>
+			<title>Changement de site pour la IFSD</title>
+			<description>À partir d'aujourd'hui, vingt-deux heures, vous n'accèderez plus à florian-collin.github.io, mais vous accèderez au nouveau domaine de la IFSD.</description>
+			<link>https://ifsd.netlify.app/news/2021/12/changement-de-site-pour-la-ifsd.html</link>
+			<pubDate>Wed, 01 Dec 2021 22:00:00 +0000</pubDate>
+		</item>
+		<item>
 			<title>Ici tout commence : départ de Clément Rémiens</title>
 			<description>Clément Rémiens a annoncé son départ d'Ici tout commence et de Demain nous appartient après 4 ans de beaux et loyaux services.</description>
 			<link>https://ifsd.netlify.app/news/2021/11/ici-tout-commence-depart-de-clement-remiens.html</link>
