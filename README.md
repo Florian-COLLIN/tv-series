@@ -5,12 +5,12 @@ This is a source code, for a sites about the TV Series on France. This files is 
 
 ## Dossiers
 ### .github
-Le dossier `/.github/` cotient des fichiers pour le [répertoire sur GitHub](https://github.com/Florian-COLLIN/tv-series/), comme les modèles pour le signalement en `Issues`.
+Le dossier `/.github/` cotient des fichiers pour le [répertoire sur GitHub](https://github.com/Florian-COLLIN/), comme les modèles pour le signalement en `Issues`.
 
 ### codes
 Le dossier `/codes/` concerne les codes PHP, JavaScript et autres...
 
-La section `/codes/api/`, dans le dossier `/codes/` contient aussi les fichers JSON pour l'API de /tv-series/.
+La section `/codes/api/`, dans le dossier `/codes/` contient aussi les fichers JSON pour l'API de /.
 
 ### news
 Le `/news/` contient les dernières actualités.
