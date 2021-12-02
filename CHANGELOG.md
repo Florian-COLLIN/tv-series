@@ -47,9 +47,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 ### Added
 - Initial commit.
 
-[1.1.0]: https://github.com/Florian-COLLIN/releases/tag/v1.1.0
-[1.0.1]: https://github.com/Florian-COLLIN/releases/tag/v1.0.1
-[1.0.0]: https://github.com/Florian-COLLIN/releases/tag/v1.0.0
-[0.2.1]: https://github.com/Florian-COLLIN/releases/tag/v0.2.1
-[0.1.1]: https://github.com/Florian-COLLIN/releases/tag/v0.1.1
-[0.0.1]: https://github.com/Florian-COLLIN/releases/tag/v0.0.1
+[1.1.0]: https://github.com/Florian-COLLIN/tv-series/releases/tag/v1.1.0
+[1.0.1]: https://github.com/Florian-COLLIN/tv-series/releases/tag/v1.0.1
+[1.0.0]: https://github.com/Florian-COLLIN/tv-series/releases/tag/v1.0.0
+[0.2.1]: https://github.com/Florian-COLLIN/tv-series/releases/tag/v0.2.1
+[0.1.1]: https://github.com/Florian-COLLIN/tv-series/releases/tag/v0.1.1
+[0.0.1]: https://github.com/Florian-COLLIN/tv-series/releases/tag/v0.0.1
