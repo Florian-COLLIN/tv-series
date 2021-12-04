@@ -22,7 +22,7 @@ function affiche_annee() {
 <pre> */
 function version_ifsd() {
 	var version_ifsd = "1.1.0";
-	var link = "https://github.com/Florian-COLLIN/tv-series/releases/tag/"
+	var link = "https://github.com/Florian-COLLIN/tv-series/releases/tag/v"
 	window.document.write("(<a href=\"" + link + version_ifsd + "\">v." + version_ifsd + "</a>)");
 }
 /* </pre>
