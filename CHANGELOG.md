@@ -12,6 +12,13 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ### Fixed
 
+## [1.1.1] - 2021-12-04
+### Fixed
+- JavaScript display bug fixed on ifsd.netlify.app.
+
+### Add
+- Contact form.
+
 ## [1.1.0] - 2021-12-01
 ### Changed
 - Move from ifsd.netlify.app/ to ifsd.netlify.com.
@@ -47,6 +54,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 ### Added
 - Initial commit.
 
+[1.1.1]: https://github.com/Florian-COLLIN/tv-series/releases/tag/v1.1.1
 [1.1.0]: https://github.com/Florian-COLLIN/tv-series/releases/tag/v1.1.0
 [1.0.1]: https://github.com/Florian-COLLIN/tv-series/releases/tag/v1.0.1
 [1.0.0]: https://github.com/Florian-COLLIN/tv-series/releases/tag/v1.0.0
