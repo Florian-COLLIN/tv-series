@@ -43,7 +43,7 @@ function change_onglet(name) {
 <pre> */
 function rss() {
 	document.write('<article>'
-		+'<div class="news-title"><a href="/news/2021/12/changement-de-site-pour-la-ifsd.html">Changement de site pour la IFSD</a></div><div class="news-desc">À partir d\'aujourd'hui, vingt-deux heures, vous n\'accèderez plus à florian-collin...</div><div class="rss-date">01 décembre 2021</div>'
+		+'<div class="news-title"><a href="/news/2021/12/changement-de-site-pour-la-ifsd.html">Changement de site pour la IFSD</a></div><div class="news-desc">À partir d\'aujourd\'hui, vingt-deux heures, vous n\'accèderez plus à florian-collin...</div><div class="rss-date">01 décembre 2021</div>'
 		+'</article>'
 		+'<br><hr><br>'
 		+'<div class="news-title"><a href="/news/2021/11/ici-tout-commence-depart-de-clement-remiens.html">Ici tout commence : départ de Clément Rémiens</a></div><div class="news-desc">Clément Rémiens a annoncé son départ d\'Ici tout commence et de Demain nous appartient...</div><div class="rss-date">21 novembre 2021</div>'
