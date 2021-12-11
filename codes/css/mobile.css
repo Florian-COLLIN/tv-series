@@ -19,3 +19,6 @@ div.column-right {
 div.column-main {
     margin-right: none;
 }
+nav ul li {
+    width: 100%;
+}
