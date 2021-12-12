@@ -22,3 +22,9 @@ div.column-main {
 nav ul li {
     width: 100%;
 }
+div.column-main {
+    margin-right: none;
+}
+div.column-right {
+    width: auto;
+}
