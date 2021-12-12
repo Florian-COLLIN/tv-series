@@ -393,7 +393,7 @@ main.category div.column-main article p {
     margin: 20px;
     padding: 10px;
 }
-main.category div.column-main article h1 {
+main.category div.column-main article h2 {
     font-size: 175%;
     position: absolute;
     color: orange;
