@@ -1,7 +1,8 @@
 {
 	"titre": "Sam",
-	"saisons": 5,
-	"episodes": 36,
+	"saisons": 6,
+	"episodes": 44,
+	"duration": 45,
 	"liste_episodes": {
 		"S1": [
 			"La Gifle",
@@ -48,14 +49,14 @@
 			"Paul et Matthieu"
 		],
 		"S6": [
-			"Titre original inconnu",
-			"Titre original inconnu",
-			"Titre original inconnu",
-			"Titre original inconnu",
-			"Titre original inconnu",
-			"Titre original inconnu",
-			"Titre original inconnu",
-			"Titre original inconnu"
+			"Sarah-Amélie",
+			"Jocelyn",
+			"Martial",
+			"Alice",
+			"Gaspard",
+			"Emilie",
+			"Sonia",
+			"Juliette"
 		]
 	}
 }
