@@ -5,6 +5,12 @@
 		<description>Liste des articles de la IFSD ces trois derniers mois.</description>
 		<link>https://ifsd.netlify.app/news/</link>
 		<item>
+			<title>Sam : nouvelle saison</title>
+			<description>Après, une longue année d'attente, la saison 6 de Sam dévoile ses secrets, ses épisodes, et ses dates.</description>
+			<link>https://ifsd.netlify.app/news/2021/12/sam-nouvelle-saison.html</link>
+			<pubDate>Sat, 18 Dec 2021 22:30:00 +0000</pubDate>
+		</item>
+		<item>
 			<title>Changement de site pour la IFSD</title>
 			<description>À partir d'aujourd'hui, vingt-deux heures, vous n'accèderez plus à florian-collin.github.io, mais vous accèderez au nouveau domaine de la IFSD.</description>
 			<link>https://ifsd.netlify.app/news/2021/12/changement-de-site-pour-la-ifsd.html</link>
