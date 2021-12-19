@@ -1,0 +1,33 @@
+{
+    "titre": "Week-end family",
+    "saisons": 1,
+    "episodes": 8,
+    "liste_episodes": {
+        "S1": {
+            "Épisode 1": {
+                "diffusion": "23 février 2022"
+            },
+            "Épisode 2": {
+                "diffusion": "2 mars 2022"
+            },
+            "Épisode 3": {
+                "diffusion": "9 mars 2022"
+            },
+            "Épisode 4": {
+                "diffusion": "16 mars 2022"
+            },
+            "Épisode 5": {
+                "diffusion": "23 mars 2022"
+            },
+            "Épisode 6": {
+                "diffusion": "30 mars 2022"
+            },
+            "Épisode 7": {
+                "diffusion": "6 avril 2022"
+            },
+            "Épisode 8": {
+                "diffusion": "13 avril 2022"
+            }
+        }
+    }
+}
