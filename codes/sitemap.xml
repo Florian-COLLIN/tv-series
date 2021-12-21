@@ -2,6 +2,26 @@
 <!--Created using XmlSitemapGenerator.org - Free HTML, RSS and XML sitemap generator-->
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://ifsd.netlify.app/news/category/salto.html</loc>
+    <lastmod>2021-12-21</lastmod>
+    <changefreq>always</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
+      <image:title>Retour à l'accueil</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://ifsd.netlify.app/news/2021/12/salto-nouveautés-de-janvier-2022.html</loc>
+    <lastmod>2021-12-21</lastmod>
+    <changefreq>always</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
+      <image:title>Retour à l'accueil</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://ifsd.netlify.app/news/2021/12/disney+-nouveautés-de-janvier-2022.html</loc>
     <lastmod>2021-12-19</lastmod>
     <changefreq>always</changefreq>
