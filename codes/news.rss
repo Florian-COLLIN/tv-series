@@ -5,6 +5,12 @@
 		<description>Liste des articles de la IFSD ces trois derniers mois.</description>
 		<link>https://ifsd.netlify.app/news/</link>
 		<item>
+			<title>Salto : nouveautés de janvier 2022</title>
+			<description>La platefome française de streaming dirigé par TF1, France Télévisions et M6, n'a pas fini d'enrichier son catalogue. Faisons le tour en janvier 2022.</description>
+			<link>https://ifsd.netlify.app/news/2021/12/salto-nouveautés-de-janvier-2022.html</link>
+			<pubDate>Tue, 21 Dec 2021 18:30:00 +0000</pubDate>
+		</item>
+		<item>
 			<title>Disney+ : nouveautés de Janvier 2022 (Big Sky, Queens...)</title>
 			<description>Big Sky est de retour sur Disney+ avec sa saison 2, et beaucoup d'annonces pour l'année 2022 sur Disney+, on fait le point.</description>
 			<link>https://ifsd.netlify.app/news/2021/12/disney+-nouveautés-de-janvier-2022.html</link>
