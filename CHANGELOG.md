@@ -5,12 +5,17 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ## Unrealesed
 ### Added
-- Twitter Feed ;
-- Twitter link button.
+- Twitter Feed.
 
 ### Changed
 
 ### Fixed
+
+## [1.1.3] - 2021-12-21
+### Added
+- Twitter link button ;
+- Microsoft Edge Addon link button ;
+- Mozilla Firefox Addon link button.
 
 ## [1.1.2] - 2021-12-12
 ### Changed
@@ -58,6 +63,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 ### Added
 - Initial commit.
 
+[1.1.3]: https://github.com/Florian-COLLIN/tv-series/releases/tag/v1.1.3
+[1.1.2]: https://github.com/Florian-COLLIN/tv-series/releases/tag/v1.1.2
 [1.1.1]: https://github.com/Florian-COLLIN/tv-series/releases/tag/v1.1.1
 [1.1.0]: https://github.com/Florian-COLLIN/tv-series/releases/tag/v1.1.0
 [1.0.1]: https://github.com/Florian-COLLIN/tv-series/releases/tag/v1.0.1
