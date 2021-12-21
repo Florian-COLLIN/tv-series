@@ -515,7 +515,7 @@ img.header-logo {
 }
 /* Blocs */
 div.column-right {
-    width: 540px;
+    width: 240px;
     float: right;
 }
 div.column-main {
@@ -523,7 +523,7 @@ div.column-main {
 }
 main {
     margin: auto;
-    min-height: 420px;
+    min-height: 720px;
 }
 section.rss {
     border-left: 2px solid black;
