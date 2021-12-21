@@ -616,6 +616,7 @@ ul.header-link li {
     border-radius: 1rem;
     margin: 10px;
     text-align: center;
+    color: black;
 }
 ul.header-link li.orange-frame {
     background-color: #FF8000;
