@@ -605,6 +605,7 @@ table.episode-details tr td.right {
     box-shadow: inset -2px -2px 3px rgba(255, 255, 255, .6),
                 inset 2px 2px 3px rgba(0, 0, 0, .6);
 }
+/* Lien en haut */
 ul.header-link {
     list-style-type: none;
     display: flex;
@@ -616,7 +617,6 @@ ul.header-link li {
     border-radius: 1rem;
     margin: 10px;
     text-align: center;
-    color: black;
 }
 ul.header-link li.orange-frame {
     background-color: #FF8000;
@@ -626,6 +626,9 @@ ul.header-link li.blue-frame {
 }
 ul.header-link li.light-blue-frame {
     background-color: #088A85;
+}
+ul.header-link li a {
+    color: black;
 }
 /***********************************************************************************************************************
 
