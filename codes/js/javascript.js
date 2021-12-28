@@ -44,14 +44,15 @@ function change_onglet(name) {
 <pre> */
 function rss() {
 	document.write('<article>'
-		+'<div class="news-title"><a href="/news/2021/12/salto-nouveautés-de-janvier-2022.html">Salto : nouveautés de janvier 2022</a></div><div class="news-desc">La platefome française de streaming dirigé par TF1, France Télévisions et M6...</div><div class="rss-date">21 décembre 2021</div>'
-		+'</article>'
-		+'<br><hr><br>'
-		+'<div class="news-title"><a href="/news/2021/12/disney+-nouveautés-de-janvier-2022.html">Disney+ : nouveautés de Janvier 2022 (Big Sky, Queens...)</a></div><div class="news-desc">Big Sky est de retour sur Disney+ avec sa saison 2, et beaucoup d\'annonces...</div><div class="rss-date">19 décembre 2021</div>'
+		+'<div class="news-title"><a href="/news/2021/12/candice-renoir-reprise-au-mois-de-janvier.html">Candice Renoir : reprise au mois de janvier</a></div><div class="news-desc">Le mois de janvier va être rythmé avec la nouvelle saison de Sam...</div><div class="rss-date">28 décembre 2021</div>'
 		+'</article>'
 		+'<br><hr><br>'
 		+'<article>'
-		+'<div class="news-title"><a href="/news/2021/12/sam-nouvelle-saison.html">Sam : nouvelle saison</a></div><div class="news-desc">Après, une longue année d\'attente, la saison 6 de Sam...</div><div class="rss-date">18 décembre 2021</div>'
+		+'<div class="news-title"><a href="/news/2021/12/salto-nouveautés-de-janvier-2022.html">Salto : nouveautés de janvier 2022</a></div><div class="news-desc">La platefome française de streaming dirigé par TF1, France Télévisions et M6...</div><div class="rss-date">21 décembre 2021</div>'
+		+'</article>'
+		+'<br><hr><br>'
+		+'<article>'
+		+'<div class="news-title"><a href="/news/2021/12/disney+-nouveautés-de-janvier-2022.html">Disney+ : nouveautés de Janvier 2022 (Big Sky, Queens...)</a></div><div class="news-desc">Big Sky est de retour sur Disney+ avec sa saison 2, et beaucoup d\'annonces...</div><div class="rss-date">19 décembre 2021</div>'
 		+'</article>');
 }
 /* </pre>

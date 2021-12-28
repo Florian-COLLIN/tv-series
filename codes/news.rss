@@ -5,6 +5,12 @@
 		<description>Liste des articles de la IFSD ces trois derniers mois.</description>
 		<link>https://ifsd.netlify.app/news/</link>
 		<item>
+			<title>Candice Renoir : reprise au mois de janvier</title>
+			<description>Le mois de janvier va être rythmé avec la nouvelle saison de Sam, et maintenant la seconde partie de Candice Renoir.</description>
+			<link>https://ifsd.netlify.app/news/2021/12/candice-renoir-reprise-au-mois-de-janvier.html</link>
+			<pubDate>Tue, 28 Dec 2021 16:30:00 +0000</pubDate>
+		</item>
+		<item>
 			<title>Salto : nouveautés de janvier 2022</title>
 			<description>La platefome française de streaming dirigé par TF1, France Télévisions et M6, n'a pas fini d'enrichier son catalogue. Faisons le tour en janvier 2022.</description>
 			<link>https://ifsd.netlify.app/news/2021/12/salto-nouveautés-de-janvier-2022.html</link>
