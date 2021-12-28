@@ -3,336 +3,542 @@
 <rss version="2.0">
   <channel>
     <title>IFSD</title>
-    <link>https://ifsd.netlify.app/</link>
+    <link>https://ifsd.netlify.app</link>
     <description />
+    <item>
+      <guid>https://ifsd.netlify.app/news/2021/</guid>
+      <title>Archives 2021 | IFSD</title>
+      <link>https://ifsd.netlify.app/news/2021/</link>
+      <description>Archives de l'année 2021 de la IFSD.</description>
+      <pubDate>mar., 28 déc. 2021 04:51:00 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://ifsd.netlify.app/news/2021/</guid>
+      <title>Archives 2021 | IFSD</title>
+      <link>https://ifsd.netlify.app/news/2021/</link>
+      <description>Archives de l'année 2021 de la IFSD.</description>
+      <pubDate>mar., 28 déc. 2021 04:50:00 Z</pubDate>
+    </item>
     <item>
       <guid>https://ifsd.netlify.app/series/astrid-et-raphaelle.html</guid>
       <title>Astrid et Raphaëlle | IFSD</title>
       <link>https://ifsd.netlify.app/series/astrid-et-raphaelle.html</link>
       <description>Tous savoir sur la série Astrid et Raphaëlle.</description>
-      <pubDate>mer., 01 déc. 2021 02:14:00 Z</pubDate>
+      <pubDate>mar., 28 déc. 2021 04:51:00 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://ifsd.netlify.app/series/astrid-et-raphaelle.html</guid>
+      <title>Astrid et Raphaëlle | IFSD</title>
+      <link>https://ifsd.netlify.app/series/astrid-et-raphaelle.html</link>
+      <description>Tous savoir sur la série Astrid et Raphaëlle.</description>
+      <pubDate>mar., 28 déc. 2021 04:50:00 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://ifsd.netlify.app/news/2021/04/big-sky-partie-2.html</guid>
+      <title>Big Sky : partie 2 [Théories] | IFSD</title>
+      <link>https://ifsd.netlify.app/news/2021/04/big-sky-partie-2.html</link>
+      <description>Théories sur la partie 2 de Big Sky</description>
+      <pubDate>mar., 28 déc. 2021 04:50:00 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://ifsd.netlify.app/news/2021/05/big-sky-renouvele-pour-une-saison-2.html</guid>
+      <title>Big Sky : renouvelé pour une saison 2 | IFSD</title>
+      <link>https://ifsd.netlify.app/news/2021/05/big-sky-renouvele-pour-une-saison-2.html</link>
+      <description>La série Big SKY a été renouvelé pour une saison 2</description>
+      <pubDate>mar., 28 déc. 2021 04:50:00 Z</pubDate>
     </item>
     <item>
       <guid>https://ifsd.netlify.app/series/big-sky.html</guid>
       <title>Big Sky | IFSD</title>
       <link>https://ifsd.netlify.app/series/big-sky.html</link>
       <description>Tous savoir sur la série Big Sky.</description>
-      <pubDate>mer., 01 déc. 2021 02:14:00 Z</pubDate>
+      <pubDate>mar., 28 déc. 2021 04:51:00 Z</pubDate>
     </item>
     <item>
-      <guid>https://ifsd.netlify.app/series/clem.html</guid>
-      <title>Clem | IFSD</title>
-      <link>https://ifsd.netlify.app/series/clem.html</link>
-      <description>Tous savoir sur la série Clem.</description>
-      <pubDate>mer., 01 déc. 2021 02:14:00 Z</pubDate>
+      <guid>https://ifsd.netlify.app/series/big-sky.html</guid>
+      <title>Big Sky | IFSD</title>
+      <link>https://ifsd.netlify.app/series/big-sky.html</link>
+      <description>Tous savoir sur la série Big Sky.</description>
+      <pubDate>mar., 28 déc. 2021 04:50:00 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://ifsd.netlify.app/news/2021/12/candice-renoir-reprise-au-mois-de-janvier.html</guid>
+      <title>Candice Renoir : reprise au mois de janvier | IFSD</title>
+      <link>https://ifsd.netlify.app/news/2021/12/candice-renoir-reprise-au-mois-de-janvier.html</link>
+      <description>Candice Renoir : reprise au mois de janvier</description>
+      <pubDate>mar., 28 déc. 2021 04:51:00 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://ifsd.netlify.app/series/candice-renoir.html</guid>
+      <title>Candice Renoir | IFSD</title>
+      <link>https://ifsd.netlify.app/series/candice-renoir.html</link>
+      <description>Tous savoir sur la série Candice Renoir.</description>
+      <pubDate>mar., 28 déc. 2021 04:50:00 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://ifsd.netlify.app/news/2021/12/changement-de-site-pour-la-ifsd.html</guid>
+      <title>Changement de site pour la IFSD | IFSD</title>
+      <link>https://ifsd.netlify.app/news/2021/12/changement-de-site-pour-la-ifsd.html</link>
+      <description>Changement de site pour la IFSD</description>
+      <pubDate>mar., 28 déc. 2021 04:51:00 Z</pubDate>
     </item>
     <item>
       <guid>https://ifsd.netlify.app/contact.html</guid>
       <title>Contact | IFSD</title>
       <link>https://ifsd.netlify.app/contact.html</link>
       <description>Contacter les développeurs et rédacteurs de la IFSD.</description>
-      <pubDate>mer., 01 déc. 2021 02:14:00 Z</pubDate>
-    </item>
-    <item>
-      <guid>https://ifsd.netlify.app/series/demain-nous-appartient.html</guid>
-      <title>Demain nous appartient | IFSD</title>
-      <link>https://ifsd.netlify.app/series/demain-nous-appartient.html</link>
-      <description>Tous savoir sur la série Demain nous appartient.</description>
-      <pubDate>mer., 01 déc. 2021 02:14:00 Z</pubDate>
+      <pubDate>mar., 28 déc. 2021 04:51:00 Z</pubDate>
     </item>
     <item>
       <guid>https://ifsd.netlify.app/series/doc.html</guid>
       <title>Doc | IFSD</title>
       <link>https://ifsd.netlify.app/series/doc.html</link>
       <description>Tous savoir sur la série Doc.</description>
-      <pubDate>mer., 01 déc. 2021 02:14:00 Z</pubDate>
+      <pubDate>mar., 28 déc. 2021 04:50:00 Z</pubDate>
     </item>
     <item>
       <guid>https://ifsd.netlify.app/sites/developeers.html</guid>
       <title>Développeurs du site | IFSD</title>
       <link>https://ifsd.netlify.app/sites/developeers.html</link>
       <description>Développeurs du site de la IFSD.</description>
-      <pubDate>mer., 01 déc. 2021 02:14:00 Z</pubDate>
+      <pubDate>mar., 28 déc. 2021 04:51:00 Z</pubDate>
     </item>
     <item>
       <guid>https://ifsd.netlify.app/series/esprits-ciminels.html</guid>
       <title>Esprits criminels | IFSD</title>
       <link>https://ifsd.netlify.app/series/esprits-ciminels.html</link>
       <description>Tous savoir sur la série Esprits criminels.</description>
-      <pubDate>mer., 01 déc. 2021 02:14:00 Z</pubDate>
+      <pubDate>mar., 28 déc. 2021 04:51:00 Z</pubDate>
     </item>
     <item>
       <guid>https://ifsd.netlify.app/</guid>
       <title>IFSD</title>
       <link>https://ifsd.netlify.app/</link>
       <description>Listes et plannings des séries télévisées en France</description>
-      <pubDate>mer., 01 déc. 2021 02:14:00 Z</pubDate>
+      <pubDate>mar., 28 déc. 2021 04:51:00 Z</pubDate>
     </item>
     <item>
       <guid>https://ifsd.netlify.app/news/2021/07/ifsd-nouveautés-le-1er-septembre.html</guid>
       <title>IFSD : nouveautés le 1er septembre | IFSD</title>
       <link>https://ifsd.netlify.app/news/2021/07/ifsd-nouveautés-le-1er-septembre.html</link>
       <description>IFSD : nouveautés le 1er septembre</description>
-      <pubDate>mer., 01 déc. 2021 02:14:00 Z</pubDate>
+      <pubDate>mar., 28 déc. 2021 04:50:00 Z</pubDate>
     </item>
     <item>
       <guid>https://ifsd.netlify.app/series/ici-tout-commence/s01/e200.html</guid>
       <title>Ici tout commence - s01e200 | IFSD</title>
       <link>https://ifsd.netlify.app/series/ici-tout-commence/s01/e200.html</link>
       <description>Tous savoir sur lépisode 100 de la saison 1 d'Ici tout commence.</description>
-      <pubDate>mer., 01 déc. 2021 02:14:00 Z</pubDate>
+      <pubDate>mar., 28 déc. 2021 04:51:00 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://ifsd.netlify.app/series/ici-tout-commence/s01/e200.html</guid>
+      <title>Ici tout commence - s01e200 | IFSD</title>
+      <link>https://ifsd.netlify.app/series/ici-tout-commence/s01/e200.html</link>
+      <description>Tous savoir sur lépisode 100 de la saison 1 d'Ici tout commence.</description>
+      <pubDate>mar., 28 déc. 2021 04:50:00 Z</pubDate>
     </item>
     <item>
       <guid>https://ifsd.netlify.app/news/2021/11/ici-tout-commence-depart-de-clement-remiens.html</guid>
       <title>Ici tout commence : départ de Clément Rémiens | IFSD</title>
       <link>https://ifsd.netlify.app/news/2021/11/ici-tout-commence-depart-de-clement-remiens.html</link>
       <description>Ici tout commence : départ de Clément Rémiens</description>
-      <pubDate>mer., 01 déc. 2021 02:14:00 Z</pubDate>
+      <pubDate>mar., 28 déc. 2021 04:50:00 Z</pubDate>
     </item>
     <item>
-      <guid>https://ifsd.netlify.app/series/ici-tout-commence/</guid>
-      <title>Ici tout commence | IFSD</title>
-      <link>https://ifsd.netlify.app/series/ici-tout-commence/</link>
-      <description>Tous savoir sur la série Ici tout commence.</description>
-      <pubDate>mer., 01 déc. 2021 02:14:00 Z</pubDate>
+      <guid>https://ifsd.netlify.app/news/2021/01/ici-tout-commence-deprogramme.html</guid>
+      <title>Ici tout commence déprogrammé | IFSD</title>
+      <link>https://ifsd.netlify.app/news/2021/01/ici-tout-commence-deprogramme.html</link>
+      <description>Ici tout commence déprogrammé</description>
+      <pubDate>mar., 28 déc. 2021 04:51:00 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://ifsd.netlify.app/news/2021/01/ici-tout-commence-deprogramme.html</guid>
+      <title>Ici tout commence déprogrammé | IFSD</title>
+      <link>https://ifsd.netlify.app/news/2021/01/ici-tout-commence-deprogramme.html</link>
+      <description>Ici tout commence déprogrammé</description>
+      <pubDate>mar., 28 déc. 2021 04:50:00 Z</pubDate>
     </item>
     <item>
       <guid>https://ifsd.netlify.app/news/2021/06/je-te-promets-renouvelé-pour-une-saison-2.html</guid>
       <title>Je te promets : renouvelé pour une saison 2 | IFSD</title>
       <link>https://ifsd.netlify.app/news/2021/06/je-te-promets-renouvelé-pour-une-saison-2.html</link>
       <description>La série Je te promets sera renouvelé pour une saison 2</description>
-      <pubDate>mer., 01 déc. 2021 02:14:00 Z</pubDate>
+      <pubDate>mar., 28 déc. 2021 04:50:00 Z</pubDate>
     </item>
     <item>
       <guid>https://ifsd.netlify.app/series/je-te-promets.html</guid>
       <title>Je te promets | IFSD</title>
       <link>https://ifsd.netlify.app/series/je-te-promets.html</link>
       <description>Tous savoir sur la série Je te promets.</description>
-      <pubDate>mer., 01 déc. 2021 02:14:00 Z</pubDate>
+      <pubDate>mar., 28 déc. 2021 04:51:00 Z</pubDate>
     </item>
     <item>
-      <guid>https://ifsd.netlify.app/series/la-promesse.html</guid>
-      <title>La Promesse | IFSD</title>
-      <link>https://ifsd.netlify.app/series/la-promesse.html</link>
-      <description>Tous savoir sur la série La Promesse.</description>
-      <pubDate>mer., 01 déc. 2021 02:14:00 Z</pubDate>
+      <guid>https://ifsd.netlify.app/news/2021/05/les-changements-dans-demain-nous-appartient-ne-plaisent-pas.html</guid>
+      <title>Les changements dans Demain nous appartient ne plaisent pas | IFSD</title>
+      <link>https://ifsd.netlify.app/news/2021/05/les-changements-dans-demain-nous-appartient-ne-plaisent-pas.html</link>
+      <description>Les changements dans Demain nous appartient ne plaisent pas</description>
+      <pubDate>mar., 28 déc. 2021 04:50:00 Z</pubDate>
     </item>
     <item>
-      <guid>https://ifsd.netlify.app/series/les-aventures-au-parc-de-tic-et-tac.html</guid>
-      <title>Les aventures au parc de Tic et Tac | IFSD</title>
-      <link>https://ifsd.netlify.app/series/les-aventures-au-parc-de-tic-et-tac.html</link>
-      <description>Tous savoir sur la série Les aventures au parc de Tic et Tac.</description>
-      <pubDate>mer., 01 déc. 2021 02:14:00 Z</pubDate>
+      <guid>https://ifsd.netlify.app/news/category/france-tv/candice-renoir.html</guid>
+      <title>News Candice Renoir | IFSD</title>
+      <link>https://ifsd.netlify.app/news/category/france-tv/candice-renoir.html</link>
+      <description>Toutes les news Candice Renoir</description>
+      <pubDate>mar., 28 déc. 2021 04:51:00 Z</pubDate>
     </item>
     <item>
       <guid>https://ifsd.netlify.app/news/category/tf1/clem.html</guid>
       <title>News Clem | IFSD</title>
       <link>https://ifsd.netlify.app/news/category/tf1/clem.html</link>
       <description>Toutes les news Clem</description>
-      <pubDate>mer., 01 déc. 2021 02:14:00 Z</pubDate>
+      <pubDate>mar., 28 déc. 2021 04:51:00 Z</pubDate>
     </item>
     <item>
-      <guid>https://ifsd.netlify.app/news/category/netflix.html</guid>
-      <title>News Netflix | IFSD</title>
-      <link>https://ifsd.netlify.app/news/category/netflix.html</link>
-      <description>Saisissez le nom de la série en minuscule</description>
-      <pubDate>mer., 01 déc. 2021 02:14:00 Z</pubDate>
+      <guid>https://ifsd.netlify.app/news/category/tf1/clem.html</guid>
+      <title>News Clem | IFSD</title>
+      <link>https://ifsd.netlify.app/news/category/tf1/clem.html</link>
+      <description>Toutes les news Clem</description>
+      <pubDate>mar., 28 déc. 2021 04:50:00 Z</pubDate>
     </item>
     <item>
-      <guid>https://ifsd.netlify.app/news/</guid>
-      <title>News | IFSD</title>
-      <link>https://ifsd.netlify.app/news/</link>
-      <description>News de la IFSD.</description>
-      <pubDate>mer., 01 déc. 2021 02:14:00 Z</pubDate>
+      <guid>https://ifsd.netlify.app/news/category/salto.html</guid>
+      <title>News Salto | IFSD</title>
+      <link>https://ifsd.netlify.app/news/category/salto.html</link>
+      <description>Toutes les news Salto</description>
+      <pubDate>mar., 28 déc. 2021 04:51:00 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://ifsd.netlify.app/news/category/salto.html</guid>
+      <title>News Salto | IFSD</title>
+      <link>https://ifsd.netlify.app/news/category/salto.html</link>
+      <description>Toutes les news Salto</description>
+      <pubDate>mar., 28 déc. 2021 04:50:00 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://ifsd.netlify.app/news/2021/01/nouvelle-serie-sur-tf1.html</guid>
+      <title>Nouvelle série sur TF1 | IFSD</title>
+      <link>https://ifsd.netlify.app/news/2021/01/nouvelle-serie-sur-tf1.html</link>
+      <description>Nouvelle série sur TF1</description>
+      <pubDate>mar., 28 déc. 2021 04:50:00 Z</pubDate>
     </item>
     <item>
       <guid>https://ifsd.netlify.app/planning/2021/</guid>
       <title>Planning - 2021 | IFSD</title>
       <link>https://ifsd.netlify.app/planning/2021/</link>
       <description>Liste des plannings de diffusions pour l'année 2021.</description>
-      <pubDate>mer., 01 déc. 2021 02:14:00 Z</pubDate>
+      <pubDate>mar., 28 déc. 2021 04:51:00 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://ifsd.netlify.app/planning/2022/</guid>
+      <title>Planning - 2022 | IFSD</title>
+      <link>https://ifsd.netlify.app/planning/2022/</link>
+      <description>Liste des plannings de diffusions pour l'année 2022.</description>
+      <pubDate>mar., 28 déc. 2021 04:51:00 Z</pubDate>
     </item>
     <item>
       <guid>https://ifsd.netlify.app/planning/2021/04.html</guid>
       <title>Planning - avril 2021 | IFSD</title>
       <link>https://ifsd.netlify.app/planning/2021/04.html</link>
       <description>Planning de diffusions d'avril 2021.</description>
-      <pubDate>mer., 01 déc. 2021 02:14:00 Z</pubDate>
+      <pubDate>mar., 28 déc. 2021 04:51:00 Z</pubDate>
     </item>
     <item>
       <guid>https://ifsd.netlify.app/planning/2021/02.html</guid>
       <title>Planning - février 2021 | IFSD</title>
       <link>https://ifsd.netlify.app/planning/2021/02.html</link>
       <description>Planning de diffusions de février 2021.</description>
-      <pubDate>mer., 01 déc. 2021 02:14:00 Z</pubDate>
-    </item>
-    <item>
-      <guid>https://ifsd.netlify.app/planning/2021/01.html</guid>
-      <title>Planning - janvier 2021 | IFSD</title>
-      <link>https://ifsd.netlify.app/planning/2021/01.html</link>
-      <description>Planning de diffusions de janvier 2021.</description>
-      <pubDate>mer., 01 déc. 2021 02:14:00 Z</pubDate>
-    </item>
-    <item>
-      <guid>https://ifsd.netlify.app/planning/2021/07.html</guid>
-      <title>Planning - juillet 2021 | IFSD</title>
-      <link>https://ifsd.netlify.app/planning/2021/07.html</link>
-      <description>Planning de diffusions de juillet 2021.</description>
-      <pubDate>mer., 01 déc. 2021 02:14:00 Z</pubDate>
+      <pubDate>mar., 28 déc. 2021 04:51:00 Z</pubDate>
     </item>
     <item>
       <guid>https://ifsd.netlify.app/planning/2021/08.html</guid>
       <title>Planning - juillet 2021 | IFSD</title>
       <link>https://ifsd.netlify.app/planning/2021/08.html</link>
       <description>Planning de diffusions de juillet 2021.</description>
-      <pubDate>mer., 01 déc. 2021 02:14:00 Z</pubDate>
+      <pubDate>mar., 28 déc. 2021 04:51:00 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://ifsd.netlify.app/planning/2021/07.html</guid>
+      <title>Planning - juillet 2021 | IFSD</title>
+      <link>https://ifsd.netlify.app/planning/2021/07.html</link>
+      <description>Planning de diffusions de juillet 2021.</description>
+      <pubDate>mar., 28 déc. 2021 04:51:00 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://ifsd.netlify.app/planning/2021/08.html</guid>
+      <title>Planning - juillet 2021 | IFSD</title>
+      <link>https://ifsd.netlify.app/planning/2021/08.html</link>
+      <description>Planning de diffusions de juillet 2021.</description>
+      <pubDate>mar., 28 déc. 2021 04:50:00 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://ifsd.netlify.app/planning/2021/07.html</guid>
+      <title>Planning - juillet 2021 | IFSD</title>
+      <link>https://ifsd.netlify.app/planning/2021/07.html</link>
+      <description>Planning de diffusions de juillet 2021.</description>
+      <pubDate>mar., 28 déc. 2021 04:50:00 Z</pubDate>
     </item>
     <item>
       <guid>https://ifsd.netlify.app/planning/2021/06.html</guid>
       <title>Planning - juin 2021 | IFSD</title>
       <link>https://ifsd.netlify.app/planning/2021/06.html</link>
       <description>Planning de diffusions de juin 2021.</description>
-      <pubDate>mer., 01 déc. 2021 02:14:00 Z</pubDate>
-    </item>
-    <item>
-      <guid>https://ifsd.netlify.app/planning/2021/05.html</guid>
-      <title>Planning - mai 2021 | IFSD</title>
-      <link>https://ifsd.netlify.app/planning/2021/05.html</link>
-      <description>Planning de diffusions de mai 2021.</description>
-      <pubDate>mer., 01 déc. 2021 02:14:00 Z</pubDate>
+      <pubDate>mar., 28 déc. 2021 04:51:00 Z</pubDate>
     </item>
     <item>
       <guid>https://ifsd.netlify.app/planning/2021/03.html</guid>
       <title>Planning - mars 2021 | IFSD</title>
       <link>https://ifsd.netlify.app/planning/2021/03.html</link>
       <description>Planning de diffusions de mars 2021.</description>
-      <pubDate>mer., 01 déc. 2021 02:14:00 Z</pubDate>
-    </item>
-    <item>
-      <guid>https://ifsd.netlify.app/planning/</guid>
-      <title>Planning de diffusions | IFSD</title>
-      <link>https://ifsd.netlify.app/planning/</link>
-      <description>Plannings de diffusions des séries télévisées en France.</description>
-      <pubDate>mer., 01 déc. 2021 02:14:00 Z</pubDate>
+      <pubDate>mar., 28 déc. 2021 04:51:00 Z</pubDate>
     </item>
     <item>
       <guid>https://ifsd.netlify.app/series/plus-belle-la-vie.html</guid>
       <title>Plus belle la vie | IFSD</title>
       <link>https://ifsd.netlify.app/series/plus-belle-la-vie.html</link>
       <description>Tous savoir sur la série Plus belle la vie.</description>
-      <pubDate>mer., 01 déc. 2021 02:14:00 Z</pubDate>
+      <pubDate>mar., 28 déc. 2021 04:51:00 Z</pubDate>
     </item>
     <item>
-      <guid>https://ifsd.netlify.app/sites/redactors.html</guid>
-      <title>Rédacteurs du site | IFSD</title>
-      <link>https://ifsd.netlify.app/sites/redactors.html</link>
-      <description>Rédacteurs du site de la IFSD.</description>
-      <pubDate>mer., 01 déc. 2021 02:14:00 Z</pubDate>
+      <guid>https://ifsd.netlify.app/series/rebecca.html</guid>
+      <title>Rebecca | IFSD</title>
+      <link>https://ifsd.netlify.app/series/rebecca.html</link>
+      <description>Tous savoir sur la série Rebecca.</description>
+      <pubDate>mar., 28 déc. 2021 04:51:00 Z</pubDate>
     </item>
     <item>
-      <guid>https://ifsd.netlify.app/series/sam.html</guid>
-      <title>Sam | IFSD</title>
-      <link>https://ifsd.netlify.app/series/sam.html</link>
-      <description>Tous savoir sur la série Sam.</description>
-      <pubDate>mer., 01 déc. 2021 02:14:00 Z</pubDate>
+      <guid>https://ifsd.netlify.app/news/2021/04/reprise-de-big-sky.html</guid>
+      <title>Reprise de Big Sky | IFSD</title>
+      <link>https://ifsd.netlify.app/news/2021/04/reprise-de-big-sky.html</link>
+      <description>Reprise de la série Big Sky aux États-Unis</description>
+      <pubDate>mar., 28 déc. 2021 04:50:00 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://ifsd.netlify.app/news/2021/02/saison-2-de-la-promesse.html</guid>
+      <title>Saison 2 de La promesse ? | IFSD</title>
+      <link>https://ifsd.netlify.app/news/2021/02/saison-2-de-la-promesse.html</link>
+      <description>Saison 2 de La promesse ?</description>
+      <pubDate>mar., 28 déc. 2021 04:50:00 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://ifsd.netlify.app/news/2021/12/salto-nouveautés-de-janvier-2022.html</guid>
+      <title>Salto : nouveautés de janvier 2022 | IFSD</title>
+      <link>https://ifsd.netlify.app/news/2021/12/salto-nouveautés-de-janvier-2022.html</link>
+      <description>Salto : nouveautés de janvier 2022</description>
+      <pubDate>mar., 28 déc. 2021 04:51:00 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://ifsd.netlify.app/news/2021/04/sam-saison-6-nouvelles-infos.html</guid>
+      <title>Sam (Saison 6) : nouvelles infos | IFSD</title>
+      <link>https://ifsd.netlify.app/news/2021/04/sam-saison-6-nouvelles-infos.html</link>
+      <description>Nouvelles informatioins sur la saison 6 de Sam</description>
+      <pubDate>mar., 28 déc. 2021 04:50:00 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://ifsd.netlify.app/news/2021/12/sam-nouvelle-saison.html</guid>
+      <title>Sam : nouvelle saison | IFSD</title>
+      <link>https://ifsd.netlify.app/news/2021/12/sam-nouvelle-saison.html</link>
+      <description>Sam : nouvelle saison</description>
+      <pubDate>mar., 28 déc. 2021 04:51:00 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://ifsd.netlify.app/news/2021/01/sam-renouvele-pour-une-saison-6.html</guid>
+      <title>Sam renouvelé pour une saison 6 | IFSD</title>
+      <link>https://ifsd.netlify.app/news/2021/01/sam-renouvele-pour-une-saison-6.html</link>
+      <description>Saisissez le nom de la série en minuscule</description>
+      <pubDate>mar., 28 déc. 2021 04:50:00 Z</pubDate>
     </item>
     <item>
       <guid>https://ifsd.netlify.app/series/</guid>
       <title>Séries télévisées | IFSD</title>
       <link>https://ifsd.netlify.app/series/</link>
       <description>Liste des séries télévisées repertoriées sur le site de la IFSD.</description>
-      <pubDate>mer., 01 déc. 2021 02:14:00 Z</pubDate>
+      <pubDate>mar., 28 déc. 2021 04:51:00 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://ifsd.netlify.app/news/2021/01/top-series-2020.html</guid>
+      <title>Top des séries françaises 2020 | IFSD</title>
+      <link>https://ifsd.netlify.app/news/2021/01/top-series-2020.html</link>
+      <description>Top des séries françaises 2020</description>
+      <pubDate>mar., 28 déc. 2021 04:50:00 Z</pubDate>
     </item>
     <item>
       <guid>https://ifsd.netlify.app/series/un-homme-d-honneur.html</guid>
       <title>Un homme d'honneur | IFSD</title>
       <link>https://ifsd.netlify.app/series/un-homme-d-honneur.html</link>
       <description>Tous savoir sur la série Un homme d'honneur.</description>
-      <pubDate>mer., 01 déc. 2021 02:14:00 Z</pubDate>
+      <pubDate>mar., 28 déc. 2021 04:51:00 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://ifsd.netlify.app/series/un-homme-d-honneur.html</guid>
+      <title>Un homme d'honneur | IFSD</title>
+      <link>https://ifsd.netlify.app/series/un-homme-d-honneur.html</link>
+      <description>Tous savoir sur la série Un homme d'honneur.</description>
+      <pubDate>mar., 28 déc. 2021 04:50:00 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://ifsd.netlify.app/news/2021/05/version-2-de-notre-site-internet.html</guid>
+      <title>Version 2 de notre site internet | IFSD</title>
+      <link>https://ifsd.netlify.app/news/2021/05/version-2-de-notre-site-internet.html</link>
+      <description>Version 2 de notre site internet</description>
+      <pubDate>mar., 28 déc. 2021 04:50:00 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://ifsd.netlify.app/news/2021/05/week-end-family-casting-devoile.html</guid>
+      <title>Week-end family : casting dévoilé | IFSD</title>
+      <link>https://ifsd.netlify.app/news/2021/05/week-end-family-casting-devoile.html</link>
+      <description>La casting de Week-end family a été dévoilé.</description>
+      <pubDate>mar., 28 déc. 2021 04:50:00 Z</pubDate>
     </item>
     <item>
       <guid>https://ifsd.netlify.app/codes/api/series/astrid-et-raphaelle.json</guid>
       <title>astrid-et-raphaelle.json</title>
       <link>https://ifsd.netlify.app/codes/api/series/astrid-et-raphaelle.json</link>
       <description />
-      <pubDate>mer., 01 déc. 2021 02:14:00 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://ifsd.netlify.app/codes/api/series/astrid-et-raphaelle.json</guid>
+      <title>astrid-et-raphaelle.json</title>
+      <link>https://ifsd.netlify.app/codes/api/series/astrid-et-raphaelle.json</link>
+      <description />
     </item>
     <item>
       <guid>https://ifsd.netlify.app/codes/api/series/big-sky.json</guid>
       <title>big-sky.json</title>
       <link>https://ifsd.netlify.app/codes/api/series/big-sky.json</link>
       <description />
-      <pubDate>mer., 01 déc. 2021 02:14:00 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://ifsd.netlify.app/codes/api/series/big-sky.json</guid>
+      <title>big-sky.json</title>
+      <link>https://ifsd.netlify.app/codes/api/series/big-sky.json</link>
+      <description />
     </item>
     <item>
       <guid>https://ifsd.netlify.app/codes/api/series/clem.json</guid>
       <title>clem.json</title>
       <link>https://ifsd.netlify.app/codes/api/series/clem.json</link>
       <description />
-      <pubDate>mer., 01 déc. 2021 02:14:00 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://ifsd.netlify.app/codes/api/series/clem.json</guid>
+      <title>clem.json</title>
+      <link>https://ifsd.netlify.app/codes/api/series/clem.json</link>
+      <description />
     </item>
     <item>
       <guid>https://ifsd.netlify.app/codes/api/series/demain-nous-appartient.json</guid>
       <title>demain-nous-appartient.json</title>
       <link>https://ifsd.netlify.app/codes/api/series/demain-nous-appartient.json</link>
       <description />
-      <pubDate>mer., 01 déc. 2021 02:14:00 Z</pubDate>
     </item>
     <item>
       <guid>https://ifsd.netlify.app/codes/api/series/doc.json</guid>
       <title>doc.json</title>
       <link>https://ifsd.netlify.app/codes/api/series/doc.json</link>
       <description />
-      <pubDate>mer., 01 déc. 2021 02:14:00 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://ifsd.netlify.app/codes/api/series/doc.json</guid>
+      <title>doc.json</title>
+      <link>https://ifsd.netlify.app/codes/api/series/doc.json</link>
+      <description />
     </item>
     <item>
       <guid>https://ifsd.netlify.app/codes/api/series/esprits-ciminels.json</guid>
       <title>esprits-ciminels.json</title>
       <link>https://ifsd.netlify.app/codes/api/series/esprits-ciminels.json</link>
       <description />
-      <pubDate>mer., 01 déc. 2021 02:14:00 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://ifsd.netlify.app/codes/api/series/esprits-ciminels.json</guid>
+      <title>esprits-ciminels.json</title>
+      <link>https://ifsd.netlify.app/codes/api/series/esprits-ciminels.json</link>
+      <description />
     </item>
     <item>
       <guid>https://ifsd.netlify.app/codes/api/series/ici-tout-commence.json</guid>
       <title>ici-tout-commence.json</title>
       <link>https://ifsd.netlify.app/codes/api/series/ici-tout-commence.json</link>
       <description />
-      <pubDate>mer., 01 déc. 2021 02:14:00 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://ifsd.netlify.app/codes/api/series/ici-tout-commence.json</guid>
+      <title>ici-tout-commence.json</title>
+      <link>https://ifsd.netlify.app/codes/api/series/ici-tout-commence.json</link>
+      <description />
     </item>
     <item>
       <guid>https://ifsd.netlify.app/codes/api/series/je-te-promets.json</guid>
       <title>je-te-promets.json</title>
       <link>https://ifsd.netlify.app/codes/api/series/je-te-promets.json</link>
       <description />
-      <pubDate>mer., 01 déc. 2021 02:14:00 Z</pubDate>
     </item>
     <item>
       <guid>https://ifsd.netlify.app/codes/api/series/la-promesse.json</guid>
       <title>la-promesse.json</title>
       <link>https://ifsd.netlify.app/codes/api/series/la-promesse.json</link>
       <description />
-      <pubDate>mer., 01 déc. 2021 02:14:00 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://ifsd.netlify.app/codes/api/series/la-promesse.json</guid>
+      <title>la-promesse.json</title>
+      <link>https://ifsd.netlify.app/codes/api/series/la-promesse.json</link>
+      <description />
     </item>
     <item>
       <guid>https://ifsd.netlify.app/codes/api/series/plus-belle-la-vie.json</guid>
       <title>plus-belle-la-vie.json</title>
       <link>https://ifsd.netlify.app/codes/api/series/plus-belle-la-vie.json</link>
       <description />
-      <pubDate>mer., 01 déc. 2021 02:14:00 Z</pubDate>
     </item>
     <item>
       <guid>https://ifsd.netlify.app/codes/api/series/sam.json</guid>
       <title>sam.json</title>
       <link>https://ifsd.netlify.app/codes/api/series/sam.json</link>
       <description />
-      <pubDate>mer., 01 déc. 2021 02:14:00 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://ifsd.netlify.app/codes/api/series/sam.json</guid>
+      <title>sam.json</title>
+      <link>https://ifsd.netlify.app/codes/api/series/sam.json</link>
+      <description />
+    </item>
+    <item>
+      <guid>https://ifsd.netlify.app/codes/api/series/the-big-leap.json</guid>
+      <title>the-big-leap.json</title>
+      <link>https://ifsd.netlify.app/codes/api/series/the-big-leap.json</link>
+      <description />
+    </item>
+    <item>
+      <guid>https://ifsd.netlify.app/codes/api/series/the-big-leap.json</guid>
+      <title>the-big-leap.json</title>
+      <link>https://ifsd.netlify.app/codes/api/series/the-big-leap.json</link>
+      <description />
     </item>
     <item>
       <guid>https://ifsd.netlify.app/codes/api/series/un-homme-d-honneur.json</guid>
       <title>un-homme-d-honneur.json</title>
       <link>https://ifsd.netlify.app/codes/api/series/un-homme-d-honneur.json</link>
       <description />
-      <pubDate>mer., 01 déc. 2021 02:14:00 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://ifsd.netlify.app/codes/api/series/un-homme-d-honneur.json</guid>
+      <title>un-homme-d-honneur.json</title>
+      <link>https://ifsd.netlify.app/codes/api/series/un-homme-d-honneur.json</link>
+      <description />
+    </item>
+    <item>
+      <guid>https://ifsd.netlify.app/codes/api/series/week-end-family.json</guid>
+      <title>week-end-family.json</title>
+      <link>https://ifsd.netlify.app/codes/api/series/week-end-family.json</link>
+      <description />
+    </item>
+    <item>
+      <guid>https://ifsd.netlify.app/codes/api/series/week-end-family.json</guid>
+      <title>week-end-family.json</title>
+      <link>https://ifsd.netlify.app/codes/api/series/week-end-family.json</link>
+      <description />
     </item>
   </channel>
 </rss>

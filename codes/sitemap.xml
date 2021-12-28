@@ -2,916 +2,518 @@
 <!--Created using XmlSitemapGenerator.org - Free HTML, RSS and XML sitemap generator-->
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
-    <loc>https://ifsd.netlify.app/news/category/salto.html</loc>
-    <lastmod>2021-12-21</lastmod>
+    <loc>https://ifsd.netlify.app/news/2021/</loc>
+    <lastmod>2021-12-28</lastmod>
     <changefreq>always</changefreq>
     <priority>1.0</priority>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
   </url>
   <url>
-    <loc>https://ifsd.netlify.app/news/2021/12/salto-nouveautés-de-janvier-2022.html</loc>
-    <lastmod>2021-12-21</lastmod>
+    <loc>https://ifsd.netlify.app/news/2021/</loc>
+    <lastmod>2021-12-28</lastmod>
     <changefreq>always</changefreq>
     <priority>1.0</priority>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://ifsd.netlify.app/news/2021/12/disney+-nouveautés-de-janvier-2022.html</loc>
-    <lastmod>2021-12-19</lastmod>
-    <changefreq>always</changefreq>
-    <priority>1.0</priority>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://ifsd.netlify.app/news/2021/12/sam-nouvelle-saison.html</loc>
-    <lastmod>2021-12-18</lastmod>
-    <changefreq>always</changefreq>
-    <priority>1.0</priority>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://ifsd.netlify.app/series/rebecca.html</loc>
-    <lastmod>2021-12-02</lastmod>
-    <changefreq>always</changefreq>
-    <priority>1.0</priority>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://ifsd.netlify.app/news/2021/12/changement-de-site-pour-la-ifsd.html</loc>
-    <lasmod>2021-12-01</lasmod>
-    <changefreq>always</changefreq>
-    <priority>1.0</priority>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
   </url>
   <url>
     <loc>https://ifsd.netlify.app/series/astrid-et-raphaelle.html</loc>
-    <lastmod>2021-12-01</lastmod>
+    <lastmod>2021-12-28</lastmod>
+    <changefreq>always</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://ifsd.netlify.app/series/astrid-et-raphaelle.html</loc>
+    <lastmod>2021-12-28</lastmod>
+    <changefreq>always</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://ifsd.netlify.app/news/2021/04/big-sky-partie-2.html</loc>
+    <lastmod>2021-12-28</lastmod>
     <changefreq>always</changefreq>
     <priority>1.0</priority>
     <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
+      <image:loc>https://ifsd.netlify.app/codes/images/big-sky-logo.png</image:loc>
+      <image:caption />
+    </image:image>
+  </url>
+  <url>
+    <loc>https://ifsd.netlify.app/news/2021/05/big-sky-renouvele-pour-une-saison-2.html</loc>
+    <lastmod>2021-12-28</lastmod>
+    <changefreq>always</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://ifsd.netlify.app/codes/images/big-sky-logo.png</image:loc>
+      <image:caption />
     </image:image>
   </url>
   <url>
     <loc>https://ifsd.netlify.app/series/big-sky.html</loc>
-    <lastmod>2021-12-01</lastmod>
+    <lastmod>2021-12-28</lastmod>
+    <changefreq>always</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://ifsd.netlify.app/series/big-sky.html</loc>
+    <lastmod>2021-12-28</lastmod>
+    <changefreq>always</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://ifsd.netlify.app/news/2021/12/candice-renoir-reprise-au-mois-de-janvier.html</loc>
+    <lastmod>2021-12-28</lastmod>
     <changefreq>always</changefreq>
     <priority>1.0</priority>
     <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
+      <image:loc>https://ifsd.netlify.app/codes/images/candice-renoir.jpg</image:loc>
+      <image:caption />
     </image:image>
   </url>
   <url>
-    <loc>https://ifsd.netlify.app/series/clem.html</loc>
-    <lastmod>2021-12-01</lastmod>
+    <loc>https://ifsd.netlify.app/series/candice-renoir.html</loc>
+    <lastmod>2021-12-28</lastmod>
+    <changefreq>always</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://ifsd.netlify.app/news/2021/12/changement-de-site-pour-la-ifsd.html</loc>
+    <lastmod>2021-12-28</lastmod>
     <changefreq>always</changefreq>
     <priority>1.0</priority>
     <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
+      <image:loc>https://ifsd.netlify.app/codes/images/-logo.png</image:loc>
+      <image:caption />
     </image:image>
   </url>
   <url>
     <loc>https://ifsd.netlify.app/contact.html</loc>
-    <lastmod>2021-12-01</lastmod>
+    <lastmod>2021-12-28</lastmod>
     <changefreq>always</changefreq>
     <priority>1.0</priority>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://ifsd.netlify.app/series/demain-nous-appartient.html</loc>
-    <lastmod>2021-12-01</lastmod>
-    <changefreq>always</changefreq>
-    <priority>1.0</priority>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
   </url>
   <url>
     <loc>https://ifsd.netlify.app/series/doc.html</loc>
-    <lastmod>2021-12-01</lastmod>
+    <lastmod>2021-12-28</lastmod>
     <changefreq>always</changefreq>
     <priority>1.0</priority>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
   </url>
   <url>
     <loc>https://ifsd.netlify.app/sites/developeers.html</loc>
-    <lastmod>2021-12-01</lastmod>
+    <lastmod>2021-12-28</lastmod>
     <changefreq>always</changefreq>
     <priority>1.0</priority>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
   </url>
   <url>
     <loc>https://ifsd.netlify.app/series/esprits-ciminels.html</loc>
-    <lastmod>2021-12-01</lastmod>
+    <lastmod>2021-12-28</lastmod>
     <changefreq>always</changefreq>
     <priority>1.0</priority>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
   </url>
   <url>
     <loc>https://ifsd.netlify.app/</loc>
-    <lastmod>2021-12-01</lastmod>
+    <lastmod>2021-12-28</lastmod>
     <changefreq>always</changefreq>
     <priority>1.0</priority>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
   </url>
   <url>
     <loc>https://ifsd.netlify.app/news/2021/07/ifsd-nouveautés-le-1er-septembre.html</loc>
-    <lastmod>2021-12-01</lastmod>
+    <lastmod>2021-12-28</lastmod>
     <changefreq>always</changefreq>
     <priority>1.0</priority>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
   </url>
   <url>
     <loc>https://ifsd.netlify.app/series/ici-tout-commence/s01/e200.html</loc>
-    <lastmod>2021-12-01</lastmod>
+    <lastmod>2021-12-28</lastmod>
     <changefreq>always</changefreq>
     <priority>1.0</priority>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
+  </url>
+  <url>
+    <loc>https://ifsd.netlify.app/series/ici-tout-commence/s01/e200.html</loc>
+    <lastmod>2021-12-28</lastmod>
+    <changefreq>always</changefreq>
+    <priority>1.0</priority>
   </url>
   <url>
     <loc>https://ifsd.netlify.app/news/2021/11/ici-tout-commence-depart-de-clement-remiens.html</loc>
-    <lastmod>2021-12-01</lastmod>
+    <lastmod>2021-12-28</lastmod>
     <changefreq>always</changefreq>
     <priority>1.0</priority>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/-logo.png</image:loc>
-      <image:caption />
-    </image:image>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/-logo.png</image:loc>
-      <image:caption />
-    </image:image>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/-logo.png</image:loc>
-      <image:caption />
-    </image:image>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/-logo.png</image:loc>
-      <image:caption />
-    </image:image>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/-logo.png</image:loc>
-      <image:caption />
-    </image:image>
   </url>
   <url>
-    <loc>https://ifsd.netlify.app/series/ici-tout-commence/</loc>
-    <lastmod>2021-12-01</lastmod>
+    <loc>https://ifsd.netlify.app/news/2021/01/ici-tout-commence-deprogramme.html</loc>
+    <lastmod>2021-12-28</lastmod>
     <changefreq>always</changefreq>
     <priority>1.0</priority>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
+  </url>
+  <url>
+    <loc>https://ifsd.netlify.app/news/2021/01/ici-tout-commence-deprogramme.html</loc>
+    <lastmod>2021-12-28</lastmod>
+    <changefreq>always</changefreq>
+    <priority>1.0</priority>
   </url>
   <url>
     <loc>https://ifsd.netlify.app/news/2021/06/je-te-promets-renouvelé-pour-une-saison-2.html</loc>
-    <lastmod>2021-12-01</lastmod>
+    <lastmod>2021-12-28</lastmod>
     <changefreq>always</changefreq>
     <priority>1.0</priority>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
   </url>
   <url>
     <loc>https://ifsd.netlify.app/series/je-te-promets.html</loc>
-    <lastmod>2021-12-01</lastmod>
+    <lastmod>2021-12-28</lastmod>
+    <changefreq>always</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://ifsd.netlify.app/news/2021/05/les-changements-dans-demain-nous-appartient-ne-plaisent-pas.html</loc>
+    <lastmod>2021-12-28</lastmod>
     <changefreq>always</changefreq>
     <priority>1.0</priority>
     <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
+      <image:loc>https://ifsd.netlify.app/codes/images/demain-nous-appartient-logo.jpg</image:loc>
+      <image:caption />
     </image:image>
   </url>
   <url>
-    <loc>https://ifsd.netlify.app/series/la-promesse.html</loc>
-    <lastmod>2021-12-01</lastmod>
+    <loc>https://ifsd.netlify.app/news/category/france-tv/candice-renoir.html</loc>
+    <lastmod>2021-12-28</lastmod>
     <changefreq>always</changefreq>
     <priority>1.0</priority>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://ifsd.netlify.app/series/les-aventures-au-parc-de-tic-et-tac.html</loc>
-    <lastmod>2021-12-01</lastmod>
-    <changefreq>always</changefreq>
-    <priority>1.0</priority>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
   </url>
   <url>
     <loc>https://ifsd.netlify.app/news/category/tf1/clem.html</loc>
-    <lastmod>2021-12-01</lastmod>
+    <lastmod>2021-12-28</lastmod>
     <changefreq>always</changefreq>
     <priority>1.0</priority>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
   </url>
   <url>
-    <loc>https://ifsd.netlify.app/news/category/netflix.html</loc>
-    <lastmod>2021-12-01</lastmod>
+    <loc>https://ifsd.netlify.app/news/category/tf1/clem.html</loc>
+    <lastmod>2021-12-28</lastmod>
     <changefreq>always</changefreq>
     <priority>1.0</priority>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
   </url>
   <url>
-    <loc>https://ifsd.netlify.app/news/</loc>
-    <lastmod>2021-12-01</lastmod>
+    <loc>https://ifsd.netlify.app/news/category/salto.html</loc>
+    <lastmod>2021-12-28</lastmod>
     <changefreq>always</changefreq>
     <priority>1.0</priority>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
+  </url>
+  <url>
+    <loc>https://ifsd.netlify.app/news/category/salto.html</loc>
+    <lastmod>2021-12-28</lastmod>
+    <changefreq>always</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://ifsd.netlify.app/news/2021/01/nouvelle-serie-sur-tf1.html</loc>
+    <lastmod>2021-12-28</lastmod>
+    <changefreq>always</changefreq>
+    <priority>1.0</priority>
   </url>
   <url>
     <loc>https://ifsd.netlify.app/planning/2021/</loc>
-    <lastmod>2021-12-01</lastmod>
+    <lastmod>2021-12-28</lastmod>
     <changefreq>always</changefreq>
     <priority>1.0</priority>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
+  </url>
+  <url>
+    <loc>https://ifsd.netlify.app/planning/2022/</loc>
+    <lastmod>2021-12-28</lastmod>
+    <changefreq>always</changefreq>
+    <priority>1.0</priority>
   </url>
   <url>
     <loc>https://ifsd.netlify.app/planning/2021/04.html</loc>
-    <lastmod>2021-12-01</lastmod>
+    <lastmod>2021-12-28</lastmod>
     <changefreq>always</changefreq>
     <priority>1.0</priority>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
   </url>
   <url>
     <loc>https://ifsd.netlify.app/planning/2021/02.html</loc>
-    <lastmod>2021-12-01</lastmod>
+    <lastmod>2021-12-28</lastmod>
     <changefreq>always</changefreq>
     <priority>1.0</priority>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://ifsd.netlify.app/planning/2021/01.html</loc>
-    <lastmod>2021-12-01</lastmod>
-    <changefreq>always</changefreq>
-    <priority>1.0</priority>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://ifsd.netlify.app/planning/2021/07.html</loc>
-    <lastmod>2021-12-01</lastmod>
-    <changefreq>always</changefreq>
-    <priority>1.0</priority>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
   </url>
   <url>
     <loc>https://ifsd.netlify.app/planning/2021/08.html</loc>
-    <lastmod>2021-12-01</lastmod>
+    <lastmod>2021-12-28</lastmod>
     <changefreq>always</changefreq>
     <priority>1.0</priority>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
+  </url>
+  <url>
+    <loc>https://ifsd.netlify.app/planning/2021/07.html</loc>
+    <lastmod>2021-12-28</lastmod>
+    <changefreq>always</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://ifsd.netlify.app/planning/2021/08.html</loc>
+    <lastmod>2021-12-28</lastmod>
+    <changefreq>always</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://ifsd.netlify.app/planning/2021/07.html</loc>
+    <lastmod>2021-12-28</lastmod>
+    <changefreq>always</changefreq>
+    <priority>1.0</priority>
   </url>
   <url>
     <loc>https://ifsd.netlify.app/planning/2021/06.html</loc>
-    <lastmod>2021-12-01</lastmod>
+    <lastmod>2021-12-28</lastmod>
     <changefreq>always</changefreq>
     <priority>1.0</priority>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://ifsd.netlify.app/planning/2021/05.html</loc>
-    <lastmod>2021-12-01</lastmod>
-    <changefreq>always</changefreq>
-    <priority>1.0</priority>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
   </url>
   <url>
     <loc>https://ifsd.netlify.app/planning/2021/03.html</loc>
-    <lastmod>2021-12-01</lastmod>
+    <lastmod>2021-12-28</lastmod>
     <changefreq>always</changefreq>
     <priority>1.0</priority>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://ifsd.netlify.app/planning/</loc>
-    <lastmod>2021-12-01</lastmod>
-    <changefreq>always</changefreq>
-    <priority>1.0</priority>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
   </url>
   <url>
     <loc>https://ifsd.netlify.app/series/plus-belle-la-vie.html</loc>
-    <lastmod>2021-12-01</lastmod>
+    <lastmod>2021-12-28</lastmod>
+    <changefreq>always</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://ifsd.netlify.app/series/rebecca.html</loc>
+    <lastmod>2021-12-28</lastmod>
+    <changefreq>always</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://ifsd.netlify.app/news/2021/04/reprise-de-big-sky.html</loc>
+    <lastmod>2021-12-28</lastmod>
     <changefreq>always</changefreq>
     <priority>1.0</priority>
     <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
+      <image:loc>https://ifsd.netlify.app/codes/images/big-sky-logo.png</image:loc>
+      <image:caption />
     </image:image>
   </url>
   <url>
-    <loc>https://ifsd.netlify.app/sites/redactors.html</loc>
-    <lastmod>2021-12-01</lastmod>
+    <loc>https://ifsd.netlify.app/news/2021/02/saison-2-de-la-promesse.html</loc>
+    <lastmod>2021-12-28</lastmod>
+    <changefreq>always</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://ifsd.netlify.app/news/2021/12/salto-nouveautés-de-janvier-2022.html</loc>
+    <lastmod>2021-12-28</lastmod>
     <changefreq>always</changefreq>
     <priority>1.0</priority>
     <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
+      <image:loc>https://ifsd.netlify.app/codes/images/salto-logo.jpg</image:loc>
+      <image:caption />
     </image:image>
   </url>
   <url>
-    <loc>https://ifsd.netlify.app/series/sam.html</loc>
-    <lastmod>2021-12-01</lastmod>
+    <loc>https://ifsd.netlify.app/news/2021/04/sam-saison-6-nouvelles-infos.html</loc>
+    <lastmod>2021-12-28</lastmod>
+    <changefreq>always</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://ifsd.netlify.app/news/2021/12/sam-nouvelle-saison.html</loc>
+    <lastmod>2021-12-28</lastmod>
     <changefreq>always</changefreq>
     <priority>1.0</priority>
     <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
+      <image:loc>https://ifsd.netlify.app/codes/images/sam-photo.jpg</image:loc>
+      <image:caption />
     </image:image>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
+  </url>
+  <url>
+    <loc>https://ifsd.netlify.app/news/2021/01/sam-renouvele-pour-une-saison-6.html</loc>
+    <lastmod>2021-12-28</lastmod>
+    <changefreq>always</changefreq>
+    <priority>1.0</priority>
   </url>
   <url>
     <loc>https://ifsd.netlify.app/series/</loc>
-    <lastmod>2021-12-01</lastmod>
+    <lastmod>2021-12-28</lastmod>
     <changefreq>always</changefreq>
     <priority>1.0</priority>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
+  </url>
+  <url>
+    <loc>https://ifsd.netlify.app/news/2021/01/top-series-2020.html</loc>
+    <lastmod>2021-12-28</lastmod>
+    <changefreq>always</changefreq>
+    <priority>1.0</priority>
   </url>
   <url>
     <loc>https://ifsd.netlify.app/series/un-homme-d-honneur.html</loc>
-    <lastmod>2021-12-01</lastmod>
+    <lastmod>2021-12-28</lastmod>
+    <changefreq>always</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://ifsd.netlify.app/series/un-homme-d-honneur.html</loc>
+    <lastmod>2021-12-28</lastmod>
+    <changefreq>always</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://ifsd.netlify.app/news/2021/05/version-2-de-notre-site-internet.html</loc>
+    <lastmod>2021-12-28</lastmod>
+    <changefreq>always</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://ifsd.netlify.app/news/2021/05/week-end-family-casting-devoile.html</loc>
+    <lastmod>2021-12-28</lastmod>
     <changefreq>always</changefreq>
     <priority>1.0</priority>
     <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://ifsd.netlify.app/codes/images/official/logo_large.png</image:loc>
-      <image:title>Retour à l'accueil</image:title>
+      <image:loc>https://ifsd.netlify.app/codes/images/Disney+-logo.jpg</image:loc>
+      <image:caption />
     </image:image>
   </url>
   <url>
     <loc>https://ifsd.netlify.app/codes/api/series/astrid-et-raphaelle.json</loc>
-    <lastmod>2021-12-01</lastmod>
+    <lastmod>2021-12-28</lastmod>
+    <changefreq>always</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://ifsd.netlify.app/codes/api/series/astrid-et-raphaelle.json</loc>
+    <lastmod>2021-12-28</lastmod>
     <changefreq>always</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://ifsd.netlify.app/codes/api/series/big-sky.json</loc>
-    <lastmod>2021-12-01</lastmod>
+    <lastmod>2021-12-28</lastmod>
+    <changefreq>always</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://ifsd.netlify.app/codes/api/series/big-sky.json</loc>
+    <lastmod>2021-12-28</lastmod>
     <changefreq>always</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://ifsd.netlify.app/codes/api/series/clem.json</loc>
-    <lastmod>2021-12-01</lastmod>
+    <lastmod>2021-12-28</lastmod>
+    <changefreq>always</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://ifsd.netlify.app/codes/api/series/clem.json</loc>
+    <lastmod>2021-12-28</lastmod>
     <changefreq>always</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://ifsd.netlify.app/codes/api/series/demain-nous-appartient.json</loc>
-    <lastmod>2021-12-01</lastmod>
+    <lastmod>2021-12-28</lastmod>
     <changefreq>always</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://ifsd.netlify.app/codes/api/series/doc.json</loc>
-    <lastmod>2021-12-01</lastmod>
+    <lastmod>2021-12-28</lastmod>
+    <changefreq>always</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://ifsd.netlify.app/codes/api/series/doc.json</loc>
+    <lastmod>2021-12-28</lastmod>
     <changefreq>always</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://ifsd.netlify.app/codes/api/series/esprits-ciminels.json</loc>
-    <lastmod>2021-12-01</lastmod>
+    <lastmod>2021-12-28</lastmod>
+    <changefreq>always</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://ifsd.netlify.app/codes/api/series/esprits-ciminels.json</loc>
+    <lastmod>2021-12-28</lastmod>
     <changefreq>always</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://ifsd.netlify.app/codes/api/series/ici-tout-commence.json</loc>
-    <lastmod>2021-12-01</lastmod>
+    <lastmod>2021-12-28</lastmod>
+    <changefreq>always</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://ifsd.netlify.app/codes/api/series/ici-tout-commence.json</loc>
+    <lastmod>2021-12-28</lastmod>
     <changefreq>always</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://ifsd.netlify.app/codes/api/series/je-te-promets.json</loc>
-    <lastmod>2021-12-01</lastmod>
+    <lastmod>2021-12-28</lastmod>
     <changefreq>always</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://ifsd.netlify.app/codes/api/series/la-promesse.json</loc>
-    <lastmod>2021-12-01</lastmod>
+    <lastmod>2021-12-28</lastmod>
+    <changefreq>always</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://ifsd.netlify.app/codes/api/series/la-promesse.json</loc>
+    <lastmod>2021-12-28</lastmod>
     <changefreq>always</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://ifsd.netlify.app/codes/api/series/plus-belle-la-vie.json</loc>
-    <lastmod>2021-12-01</lastmod>
+    <lastmod>2021-12-28</lastmod>
     <changefreq>always</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://ifsd.netlify.app/codes/api/series/sam.json</loc>
-    <lastmod>2021-12-01</lastmod>
+    <lastmod>2021-12-28</lastmod>
+    <changefreq>always</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://ifsd.netlify.app/codes/api/series/sam.json</loc>
+    <lastmod>2021-12-28</lastmod>
+    <changefreq>always</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://ifsd.netlify.app/codes/api/series/the-big-leap.json</loc>
+    <lastmod>2021-12-28</lastmod>
+    <changefreq>always</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://ifsd.netlify.app/codes/api/series/the-big-leap.json</loc>
+    <lastmod>2021-12-28</lastmod>
     <changefreq>always</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://ifsd.netlify.app/codes/api/series/un-homme-d-honneur.json</loc>
-    <lastmod>2021-12-01</lastmod>
+    <lastmod>2021-12-28</lastmod>
+    <changefreq>always</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://ifsd.netlify.app/codes/api/series/un-homme-d-honneur.json</loc>
+    <lastmod>2021-12-28</lastmod>
+    <changefreq>always</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://ifsd.netlify.app/codes/api/series/week-end-family.json</loc>
+    <lastmod>2021-12-28</lastmod>
+    <changefreq>always</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://ifsd.netlify.app/codes/api/series/week-end-family.json</loc>
+    <lastmod>2021-12-28</lastmod>
     <changefreq>always</changefreq>
     <priority>1.0</priority>
   </url>
