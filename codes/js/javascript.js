@@ -21,9 +21,9 @@ function affiche_annee() {
 
 <pre> */
 function version_ifsd() {
-	var version_ifsd = "1.1.2";
+	var version_ifsd = "1.1.3";
 	var link = "https://github.com/Florian-COLLIN/tv-series/releases/tag/v"
-	window.document.write("(<a href=\"" + link + version_ifsd + "\">v." + version_ifsd + "</a>)");
+	window.document.write("(<a href=\"" + link + version_ifsd + "\">v." + version_ifsd + "</a>), <a href=\"https://github.com/Florian-COLLIN/tv-series/blob/main/CHANGELOG.md\">plus d'infos</a>");
 }
 /* </pre>
 
