@@ -207,7 +207,8 @@ div.planning td {
   	border: 1px solid black;
   	padding: 10px;
   	vertical-align: top;
-    min-width: 40px;
+    min-width: 50px;
+    text-indent: none;
 }
 /*
  * épisodes
