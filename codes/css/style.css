@@ -638,6 +638,7 @@ ul.header-link li a {
 ***********************************************************************************************************************/
 /* Suite des codes ci-dessus */
 /* Fin */
+#expand-btn-0,
 #expand-btn-1,
 #expand-btn-2,
 #expand-btn-3,
@@ -671,6 +672,7 @@ ul.header-link li a {
     height: 25px;
     align-content: center;
 }
+#isexpanded-0:checked ~ #expand-btn-0, #isexpanded-0:checked ~ * #expand-btn-0,
 #isexpanded-1:checked ~ #expand-btn-1, #isexpanded-1:checked ~ * #expand-btn-1,
 #isexpanded-2:checked ~ #expand-btn-2, #isexpanded-2:checked ~ * #expand-btn-2,
 #isexpanded-3:checked ~ #expand-btn-3, #isexpanded-3:checked ~ * #expand-btn-3,
@@ -696,6 +698,7 @@ ul.header-link li a {
     height: 25px;
     align-content: center;
 }
+#isexpanded-0, .expandable-0,
 #isexpanded-1, .expandable-1,
 #isexpanded-2, .expandable-2,
 #isexpanded-3, .expandable-3,
@@ -716,6 +719,7 @@ ul.header-link li a {
 #isexpanded-18, .expandable-18 {
     display: none;
 }
+#isexpanded-0:checked ~ * tr.expandable-0,
 #isexpanded-1:checked ~ * tr.expandable-1,
 #isexpanded-2:checked ~ * tr.expandable-2,
 #isexpanded-3:checked ~ * tr.expandable-3,
@@ -737,6 +741,8 @@ ul.header-link li a {
     display: table-row;
     background: #cccccc;
 }
+#isexpanded-0:checked ~ ul.expandable-0,
+#isexpanded-0:checked ~ * ul.expandable-0,
 #isexpanded-1:checked ~ ul.expandable-1,
 #isexpanded-1:checked ~ * ul.expandable-1,
 #isexpanded-2:checked ~ ul.expandable-2,
