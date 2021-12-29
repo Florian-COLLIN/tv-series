@@ -1,8 +1,11 @@
 {
     "titre": "Astrid et Raphaëlle",
-    "saisons": 2,
-    "episodes": 16,
+    "saisons": 3,
+    "episodes": 25,
     "liste_episodes": {
+        "S0": [
+            "Puzzle",
+        ],
         "S1": [
             "Hantise",
             "Hantise",
@@ -22,6 +25,16 @@
             "Golem",
             "Le livre",
             "En garde à vue"
+        ],
+        "S3": [
+            "Plan global",
+            "Memento Mori",
+            "Natifs",
+            "La chambre ouverte",
+            "Titre inconnu",
+            "Titre inconnu",
+            "Titre inconnu",
+            "Titre inconnu"
         ]
     }
 }
