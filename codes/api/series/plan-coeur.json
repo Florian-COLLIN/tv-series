@@ -1,0 +1,54 @@
+{
+    "titre": "Plan cœur",
+    "saisons": 3,
+    "episodes": 15,
+    "synopsis": "Quand Elsa s'accroche à son ex, ses copines décident d'embaucher un escort pour l'aider à tourner la page... un bon plan qui fonctionne un peu trop bien.",
+    "liste_episodes": {
+        "S1": {
+            "Plan Secret": {
+                "diffusion": "7 décembre 2018"
+            },
+            "Plan Boulette": {
+                "diffusion": "7 décembre 2018"
+            },
+            "Plan Cul": {
+                "diffusion": "7 décembre 2018"
+            },
+            "Plan Love": {
+                "diffusion": "7 décembre 2018"
+            },
+            "Plan Teuf": {
+                "diffusion": "7 décembre 2018"
+            },
+            "Plan Pourri": {
+                "diffusion": "7 décembre 2018"
+            },
+            "Plan Solo": {
+                "diffusion": "7 décembre 2018"
+            },
+            "Plan de Sortie": {
+                "diffusion": "7 décembre 2018"
+            }
+        },
+        "S2": {
+            "Plan retour": {
+                "diffusion": "11 octobre 2019"
+            },
+            "Plan lama": {
+                "diffusion": "11 octobre 2019"
+            },
+            "Plan de secours": {
+                "diffusion": "11 octobre 2019"
+            },
+            "Plan drague": {
+                "diffusion": "11 octobre 2019"
+            },
+            "Plan d'après": {
+                "diffusion": "11 octobre 2019"
+            },
+            "Plan cœur": {
+                "diffusion": "11 octobre 2019"
+            }
+        }
+    }
+}
