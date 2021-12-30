@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Allow: /sitemap.htm
-Sitemap: https://ifsd.netlify.app/sitemap.xml
+Allow: /codes/sitemap.htm
+Sitemap: https://ifsd.netlify.app/codes/sitemap.xml
